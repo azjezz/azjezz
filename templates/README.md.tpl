@@ -1,21 +1,21 @@
 ### Hey 👋
 
-My name is Saif Eddin, I'm a sofware developer, , an open-source enthusiast and contributor.
+My name is Saif Eddin, I'm a sofware developer, an open-source enthusiast and contributor.
 
 Curious what I've been working on on recently?
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 12}}
+{{range recentContributions 9}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentRepos 12}}
+{{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 12}}
+{{range recentReleases 24}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
