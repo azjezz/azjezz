@@ -2,7 +2,7 @@
 
 My name is Saif Eddin, I'm a sofware developer, an open-source enthusiast and contributor.
 
-Curious what I've been working on on recently?
+Curious what I've been working on recently?
 
 ---
 
