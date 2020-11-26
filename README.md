@@ -4,6 +4,8 @@ My name is Saif Eddin, I'm a sofware developer, an open-source enthusiast and co
 
 Curious what I've been working on on recently?
 
+---
+
 #### 👷 Check out what I'm currently working on
 
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 day ago)
@@ -16,11 +18,15 @@ Curious what I've been working on on recently?
 - [nuxed/event-dispatcher](https://github.com/nuxed/event-dispatcher) - The Nuxed Event Dispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them asynchronously. (5 days ago)
 - [nuxed/contract](https://github.com/nuxed/contract) - A set of abstractions extracted out of the Nuxed components (5 days ago)
 
+---
+
 #### 🌱 My latest projects
 
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡
 - [azjezz/input-hydrator-bundle](https://github.com/azjezz/input-hydrator-bundle) - 🧱 Hydrates input DTOs from request data. 
 - [azjezz/input-hydrator](https://github.com/azjezz/input-hydrator) - 🧱 Hydrates input DTOs from request data.
+
+---
 
 #### 🔭 Latest releases I've contributed to
 
@@ -34,11 +40,15 @@ Curious what I've been working on on recently?
 - [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.0-RC2](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.0-RC2), 5 days ago) - Provides Postmark integration for Symfony Mailer
 - [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.0-RC2](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.0-RC2), 5 days ago) - Provides Mailgun integration for Symfony Mailer
 
+---
+
 #### 📊 My stats
+
+<img align="right" alt="Saif's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=azjezz&count_private=1&show_icons=true" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz&layout=compact)
 
-<img align="right" alt="Saif's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=azjezz&count_private=1&show_icons=true" />
+---
 
 #### 📫 How to reach me
 
