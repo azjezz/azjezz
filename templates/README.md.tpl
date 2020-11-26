@@ -15,9 +15,14 @@ Curious what I've been working on on recently?
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 24}}
+{{range recentReleases 9}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
+#### 📊 My stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=azjezz&show_icons=true)
 
 #### 📫 How to reach me
 
