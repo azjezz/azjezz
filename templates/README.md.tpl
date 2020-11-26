@@ -22,7 +22,8 @@ Curious what I've been working on on recently?
 #### 📊 My stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz&layout=compact)
-![Github stats](https://github-readme-stats.vercel.app/api?username=azjezz&show_icons=true)
+
+<img align="right" alt="Saif's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=azjezz&count_private=1&show_icons=true" />
 
 #### 📫 How to reach me
 
