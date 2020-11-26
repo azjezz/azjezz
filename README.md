@@ -33,21 +33,11 @@ Curious what I've been working on on recently?
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0-RC2](https://github.com/symfony/security-http/releases/tag/v5.2.0-RC2), 5 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.0-RC2](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.0-RC2), 5 days ago) - Provides Postmark integration for Symfony Mailer
 - [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.0-RC2](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.0-RC2), 5 days ago) - Provides Mailgun integration for Symfony Mailer
-- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.0-RC2](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.0-RC2), 5 days ago) - Provides Mailchimp integration for Symfony Mailer
-- [symfony/mailer](https://github.com/symfony/mailer) ([v5.2.0-RC2](https://github.com/symfony/mailer/releases/tag/v5.2.0-RC2), 5 days ago) - The Mailer component helps sending emails
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.0-RC2](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.0-RC2), 5 days ago) - Provides Amazon SES integration for Symfony Mailer
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.0-RC2](https://github.com/symfony/http-foundation/releases/tag/v5.2.0-RC2), 5 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/form](https://github.com/symfony/form) ([v5.2.0-RC2](https://github.com/symfony/form/releases/tag/v5.2.0-RC2), 5 days ago) - The Form component allows you to easily create, process and reuse HTML forms.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.0-RC2](https://github.com/symfony/symfony/releases/tag/v5.2.0-RC2), 5 days ago) - The Symfony PHP framework
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.2.1](https://github.com/vimeo/psalm/releases/tag/4.2.1), 6 days ago) - A static analysis tool for finding errors in PHP applications
-- [nuxed/event-dispatcher](https://github.com/nuxed/event-dispatcher) ([v2.1.0](https://github.com/nuxed/event-dispatcher/releases/tag/v2.1.0), 1 week ago) - The Nuxed Event Dispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them asynchronously.
-- [nuxed/filesystem](https://github.com/nuxed/filesystem) ([v2.0.0](https://github.com/nuxed/filesystem/releases/tag/v2.0.0), 1 week ago) - The Nuxed Filesystem component provides classes that interact with the local filesystem.
-- [nuxed/crypto](https://github.com/nuxed/crypto) ([v2.0.0](https://github.com/nuxed/crypto/releases/tag/v2.0.0), 1 week ago) - The Nuxed Crypto component provides a high-level cryptography interface that relies on libsodium for all of its underlying cryptography operations.
-- [nuxed/contract](https://github.com/nuxed/contract) ([v2.0.0](https://github.com/nuxed/contract/releases/tag/v2.0.0), 1 week ago) - A set of abstractions extracted out of the Nuxed components
-- [composer/composer](https://github.com/composer/composer) ([2.0.7](https://github.com/composer/composer/releases/tag/2.0.7), 1 week ago) - Dependency Manager for PHP
-- [symfony/polyfill](https://github.com/symfony/polyfill) ([v1.21.0](https://github.com/symfony/polyfill/releases/tag/v1.21.0), 1 week ago) - PHP polyfills
-- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.1.6](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.1.6), 2 weeks ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
-- [github/linguist](https://github.com/github/linguist) ([v7.12.1](https://github.com/github/linguist/releases/tag/v7.12.1), 2 weeks ago) - Language Savant. If your repository&#39;s language is being reported incorrectly, send us a pull request!
+
+#### 📊 My stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=azjezz&show_icons=true)
 
 #### 📫 How to reach me
 
