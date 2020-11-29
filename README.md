@@ -30,15 +30,15 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v3.4.47](https://github.com/symfony/symfony/releases/tag/v3.4.47), 2 days ago) - The Symfony PHP framework
-- [symfony/security-http](https://github.com/symfony/security-http) ([v3.4.47](https://github.com/symfony/security-http/releases/tag/v3.4.47), 2 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v3.4.47](https://github.com/symfony/http-foundation/releases/tag/v3.4.47), 2 days ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [symfony/form](https://github.com/symfony/form) ([v3.4.47](https://github.com/symfony/form/releases/tag/v3.4.47), 2 days ago) - The Form component allows you to easily create, process and reuse HTML forms.
-- [nuxed/translation](https://github.com/nuxed/translation) ([v2.0.1](https://github.com/nuxed/translation/releases/tag/v2.0.1), 6 days ago) - The Nuxed Translation component provides tools to internationalize your application. 
-- [nuxed/json](https://github.com/nuxed/json) ([v2.0.1](https://github.com/nuxed/json/releases/tag/v2.0.1), 1 week ago) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely.
-- [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) ([v1.0.1](https://github.com/azjezz/setup-hhvm/releases/tag/v1.0.1), 1 week ago) - GitHub action for setting up HHVM  ⚡
-- [nuxed/asset](https://github.com/nuxed/asset) ([v2.0.0](https://github.com/nuxed/asset/releases/tag/v2.0.0), 1 week ago) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files. 
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.16.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.16.0), 1 week ago) - Bring consistency to documentation
+- [symfony/string](https://github.com/symfony/string) ([v5.1.9](https://github.com/symfony/string/releases/tag/v5.1.9), today) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.1.9](https://github.com/symfony/security-http/releases/tag/v5.1.9), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.1.9](https://github.com/symfony/mailgun-mailer/releases/tag/v5.1.9), today) - Provides Mailgun integration for Symfony Mailer
+- [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.1.9](https://github.com/symfony/postmark-mailer/releases/tag/v5.1.9), today) - Provides Postmark integration for Symfony Mailer
+- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.1.9](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.1.9), today) - Provides Mailchimp integration for Symfony Mailer
+- [symfony/mailer](https://github.com/symfony/mailer) ([v5.1.9](https://github.com/symfony/mailer/releases/tag/v5.1.9), today) - The Mailer component helps sending emails
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.1.9](https://github.com/symfony/amazon-mailer/releases/tag/v5.1.9), today) - Provides Amazon SES integration for Symfony Mailer
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.1.9](https://github.com/symfony/http-foundation/releases/tag/v5.1.9), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/form](https://github.com/symfony/form) ([v5.1.9](https://github.com/symfony/form/releases/tag/v5.1.9), today) - The Form component allows you to easily create, process and reuse HTML forms.
 
 ---
 
