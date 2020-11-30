@@ -10,13 +10,13 @@ Curious what I've been working on recently?
 
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (5 days ago)
 - [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (1 week ago)
-- [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (1 week ago)
+- [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (1 week ago)
 - [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.  (1 week ago)
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (1 week ago)
-- [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (1 week ago)
-- [nuxed/filesystem](https://github.com/nuxed/filesystem) - The Nuxed Filesystem component provides classes that interact with the local filesystem. (1 week ago)
+- [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (1 week ago)
 - [nuxed/event-dispatcher](https://github.com/nuxed/event-dispatcher) - The Nuxed Event Dispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them asynchronously. (1 week ago)
 - [nuxed/contract](https://github.com/nuxed/contract) - A set of abstractions extracted out of the Nuxed components (1 week ago)
+- [nuxed/crypto](https://github.com/nuxed/crypto) - The Nuxed Crypto component provides a high-level cryptography interface that relies on libsodium for all of its underlying cryptography operations. (1 week ago)
 
 ---
 
