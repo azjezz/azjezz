@@ -30,15 +30,15 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.0](https://github.com/vimeo/psalm/releases/tag/4.3.0), today) - A static analysis tool for finding errors in PHP applications
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.17.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.17.0), 1 day ago) - Bring consistency to documentation
-- [symfony/string](https://github.com/symfony/string) ([v5.2.0](https://github.com/symfony/string/releases/tag/v5.2.0), 2 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0](https://github.com/symfony/security-http/releases/tag/v5.2.0), 2 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.0](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.0), 2 days ago) - Provides Postmark integration for Symfony Mailer
-- [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.0](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.0), 2 days ago) - Provides Mailgun integration for Symfony Mailer
-- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.0](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.0), 2 days ago) - Provides Mailchimp integration for Symfony Mailer
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.0](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.0), 2 days ago) - Provides Amazon SES integration for Symfony Mailer
-- [symfony/mailer](https://github.com/symfony/mailer) ([v5.2.0](https://github.com/symfony/mailer/releases/tag/v5.2.0), 2 days ago) - The Mailer component helps sending emails
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.0](https://github.com/vimeo/psalm/releases/tag/4.3.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.17.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.17.0), 2 days ago) - Bring consistency to documentation
+- [symfony/string](https://github.com/symfony/string) ([v5.2.0](https://github.com/symfony/string/releases/tag/v5.2.0), 3 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0](https://github.com/symfony/security-http/releases/tag/v5.2.0), 3 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.0](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.0), 3 days ago) - Provides Postmark integration for Symfony Mailer
+- [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.0](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.0), 3 days ago) - Provides Mailgun integration for Symfony Mailer
+- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.0](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.0), 3 days ago) - Provides Mailchimp integration for Symfony Mailer
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.0](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.0), 3 days ago) - Provides Amazon SES integration for Symfony Mailer
+- [symfony/mailer](https://github.com/symfony/mailer) ([v5.2.0](https://github.com/symfony/mailer/releases/tag/v5.2.0), 3 days ago) - The Mailer component helps sending emails
 
 ---
 
