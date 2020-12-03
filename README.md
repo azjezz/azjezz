@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.0](https://github.com/vimeo/psalm/releases/tag/4.3.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), today) - A static analysis tool for finding errors in PHP applications
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.17.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.17.0), 2 days ago) - Bring consistency to documentation
 - [symfony/string](https://github.com/symfony/string) ([v5.2.0](https://github.com/symfony/string/releases/tag/v5.2.0), 3 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0](https://github.com/symfony/security-http/releases/tag/v5.2.0), 3 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
