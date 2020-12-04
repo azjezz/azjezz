@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.0.8](https://github.com/composer/composer/releases/tag/2.0.8), 1 day ago) - Dependency Manager for PHP
+- [composer/composer](https://github.com/composer/composer) ([1.10.19](https://github.com/composer/composer/releases/tag/1.10.19), today) - Dependency Manager for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.17.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.17.0), 3 days ago) - Bring consistency to documentation
 - [symfony/string](https://github.com/symfony/string) ([v5.2.0](https://github.com/symfony/string/releases/tag/v5.2.0), 4 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
