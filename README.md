@@ -15,8 +15,8 @@ Curious what I've been working on recently?
 - [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (2 weeks ago)
 - [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.  (2 weeks ago)
 - [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (2 weeks ago)
-- [nuxed/filesystem](https://github.com/nuxed/filesystem) - The Nuxed Filesystem component provides classes that interact with the local filesystem. (2 weeks ago)
 - [nuxed/event-dispatcher](https://github.com/nuxed/event-dispatcher) - The Nuxed Event Dispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them asynchronously. (2 weeks ago)
+- [nuxed/filesystem](https://github.com/nuxed/filesystem) - The Nuxed Filesystem component provides classes that interact with the local filesystem. (2 weeks ago)
 
 ---
 
