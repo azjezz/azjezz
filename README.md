@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.76.0](https://github.com/hhvm/hsl-experimental/releases/tag/v4.76.0), today) - Experimental features for the Hack Standard Library
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) ([v1.0.2](https://github.com/azjezz/setup-hhvm/releases/tag/v1.0.2), 3 days ago) - GitHub action for setting up HHVM  ⚡
 - [composer/composer](https://github.com/composer/composer) ([1.10.19](https://github.com/composer/composer/releases/tag/1.10.19), 4 days ago) - Dependency Manager for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), 5 days ago) - A static analysis tool for finding errors in PHP applications
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0](https://github.com/symfony/security-http/releases/tag/v5.2.0), 1 week ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.0](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.0), 1 week ago) - Provides Postmark integration for Symfony Mailer
 - [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.0](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.0), 1 week ago) - Provides Mailgun integration for Symfony Mailer
-- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.0](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.0), 1 week ago) - Provides Mailchimp integration for Symfony Mailer
 
 ---
 
