@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.76.0](https://github.com/hhvm/hsl-experimental/releases/tag/v4.76.0), 2 days ago) - Experimental features for the Hack Standard Library
+- [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.76.1](https://github.com/hhvm/hsl-experimental/releases/tag/v4.76.1), today) - Experimental features for the Hack Standard Library
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) ([v1.0.2](https://github.com/azjezz/setup-hhvm/releases/tag/v1.0.2), 5 days ago) - GitHub action for setting up HHVM  ⚡
 - [composer/composer](https://github.com/composer/composer) ([1.10.19](https://github.com/composer/composer/releases/tag/1.10.19), 6 days ago) - Dependency Manager for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
