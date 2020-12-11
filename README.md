@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.2.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.2.0), today) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.76.1](https://github.com/hhvm/hsl-experimental/releases/tag/v4.76.1), 1 day ago) - Experimental features for the Hack Standard Library
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) ([v1.0.2](https://github.com/azjezz/setup-hhvm/releases/tag/v1.0.2), 6 days ago) - GitHub action for setting up HHVM  ⚡
 - [composer/composer](https://github.com/composer/composer) ([1.10.19](https://github.com/composer/composer/releases/tag/1.10.19), 1 week ago) - Dependency Manager for PHP
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [symfony/string](https://github.com/symfony/string) ([v5.2.0](https://github.com/symfony/string/releases/tag/v5.2.0), 1 week ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0](https://github.com/symfony/security-http/releases/tag/v5.2.0), 1 week ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.0](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.0), 1 week ago) - Provides Postmark integration for Symfony Mailer
-- [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.0](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.0), 1 week ago) - Provides Mailgun integration for Symfony Mailer
 
 ---
 
