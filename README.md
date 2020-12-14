@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils) ([2.2.0](https://github.com/Ocramius/DoctrineBatchUtils/releases/tag/2.2.0), today) - :loop: A set of utilities to operate with Doctrine ORM&#39;s batch processing techniques
 - [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) ([v1.1.0](https://github.com/azjezz/http-normalizer/releases/tag/v1.1.0), 1 day ago) - 
 - [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.2.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.2.0), 3 days ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.76.1](https://github.com/hhvm/hsl-experimental/releases/tag/v4.76.1), 4 days ago) - Experimental features for the Hack Standard Library
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.17.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.17.0), 1 week ago) - Bring consistency to documentation
 - [symfony/string](https://github.com/symfony/string) ([v5.2.0](https://github.com/symfony/string/releases/tag/v5.2.0), 2 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0](https://github.com/symfony/security-http/releases/tag/v5.2.0), 2 weeks ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 
 ---
 
