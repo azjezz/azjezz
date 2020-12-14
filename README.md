@@ -15,8 +15,8 @@ Curious what I've been working on recently?
 - [azjezz/psl](https://github.com/azjezz/psl) - [WIP] Psl - PHP Standard Library (1 week ago)
 - [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (3 weeks ago)
 - [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.  (3 weeks ago)
-- [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (3 weeks ago)
 - [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (3 weeks ago)
+- [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (3 weeks ago)
 
 ---
 
