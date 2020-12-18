@@ -30,15 +30,15 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils) ([2.2.0](https://github.com/Ocramius/DoctrineBatchUtils/releases/tag/2.2.0), 4 days ago) - :loop: A set of utilities to operate with Doctrine ORM&#39;s batch processing techniques
-- [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) ([v1.1.0](https://github.com/azjezz/http-normalizer/releases/tag/v1.1.0), 5 days ago) - 
-- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.2.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.2.0), 1 week ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
-- [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) ([v1.0.2](https://github.com/azjezz/setup-hhvm/releases/tag/v1.0.2), 1 week ago) - GitHub action for setting up HHVM  ⚡
-- [composer/composer](https://github.com/composer/composer) ([1.10.19](https://github.com/composer/composer/releases/tag/1.10.19), 2 weeks ago) - Dependency Manager for PHP
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.1](https://github.com/vimeo/psalm/releases/tag/4.3.1), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.17.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.17.0), 2 weeks ago) - Bring consistency to documentation
-- [symfony/string](https://github.com/symfony/string) ([v5.2.0](https://github.com/symfony/string/releases/tag/v5.2.0), 2 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.0](https://github.com/symfony/security-http/releases/tag/v5.2.0), 2 weeks ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), today) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.1](https://github.com/symfony/security-http/releases/tag/v5.2.1), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.1](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.1), today) - Provides Postmark integration for Symfony Mailer
+- [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.1](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.1), today) - Provides Mailgun integration for Symfony Mailer
+- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.1](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.1), today) - Provides Mailchimp integration for Symfony Mailer
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.1](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.1), today) - Provides Amazon SES integration for Symfony Mailer
+- [symfony/mailer](https://github.com/symfony/mailer) ([v5.2.1](https://github.com/symfony/mailer/releases/tag/v5.2.1), today) - The Mailer component helps sending emails
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.1](https://github.com/symfony/http-foundation/releases/tag/v5.2.1), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [symfony/form](https://github.com/symfony/form) ([v5.2.1](https://github.com/symfony/form/releases/tag/v5.2.1), today) - The Form component allows you to easily create, process and reuse HTML forms.
 
 ---
 
