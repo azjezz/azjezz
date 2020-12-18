@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), today) - Request routing for HackLang
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), today) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), today) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.1](https://github.com/symfony/security-http/releases/tag/v5.2.1), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.1](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.1), today) - Provides Mailchimp integration for Symfony Mailer
 - [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.1](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.1), today) - Provides Amazon SES integration for Symfony Mailer
 - [symfony/mailer](https://github.com/symfony/mailer) ([v5.2.1](https://github.com/symfony/mailer/releases/tag/v5.2.1), today) - The Mailer component helps sending emails
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.1](https://github.com/symfony/http-foundation/releases/tag/v5.2.1), today) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 ---
 
