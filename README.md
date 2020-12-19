@@ -8,14 +8,14 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (today)
 - [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (6 days ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 week ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 week ago)
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 week ago)
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [WIP] Psl - PHP Standard Library (2 weeks ago)
 - [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (3 weeks ago)
 - [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.  (3 weeks ago)
-- [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (3 weeks ago)
 - [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (3 weeks ago)
 
 ---
