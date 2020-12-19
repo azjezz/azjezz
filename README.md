@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (5 days ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (6 days ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (6 days ago)
-- [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (1 week ago)
+- [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (6 days ago)
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 week ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 week ago)
+- [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - [WIP] Psl - PHP Standard Library (2 weeks ago)
 - [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (3 weeks ago)
 - [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.  (3 weeks ago)
@@ -30,15 +30,15 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), today) - Request routing for HackLang
-- [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), today) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
-- [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), today) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.1](https://github.com/symfony/security-http/releases/tag/v5.2.1), today) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.1](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.1), today) - Provides Postmark integration for Symfony Mailer
-- [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.1](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.1), today) - Provides Mailgun integration for Symfony Mailer
-- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.1](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.1), today) - Provides Mailchimp integration for Symfony Mailer
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.1](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.1), today) - Provides Amazon SES integration for Symfony Mailer
-- [symfony/mailer](https://github.com/symfony/mailer) ([v5.2.1](https://github.com/symfony/mailer/releases/tag/v5.2.1), today) - The Mailer component helps sending emails
+- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), 1 day ago) - Request routing for HackLang
+- [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), 1 day ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
+- [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), 1 day ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.1](https://github.com/symfony/security-http/releases/tag/v5.2.1), 1 day ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.1](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.1), 1 day ago) - Provides Postmark integration for Symfony Mailer
+- [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.1](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.1), 1 day ago) - Provides Mailgun integration for Symfony Mailer
+- [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.1](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.1), 1 day ago) - Provides Mailchimp integration for Symfony Mailer
+- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.1](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.1), 1 day ago) - Provides Amazon SES integration for Symfony Mailer
+- [symfony/mailer](https://github.com/symfony/mailer) ([v5.2.1](https://github.com/symfony/mailer/releases/tag/v5.2.1), 1 day ago) - The Mailer component helps sending emails
 
 ---
 
