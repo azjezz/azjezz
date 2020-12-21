@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - [WIP] Psl - PHP Standard Library (today)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (2 days ago)
 - [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (1 week ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 week ago)
@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([0.1.0](https://github.com/azjezz/psl/releases/tag/0.1.0), today) - [WIP] Psl - PHP Standard Library
+- [azjezz/psl](https://github.com/azjezz/psl) ([0.1.0](https://github.com/azjezz/psl/releases/tag/0.1.0), today) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), 3 days ago) - Request routing for HackLang
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), 3 days ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), 3 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
