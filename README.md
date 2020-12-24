@@ -8,15 +8,15 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (3 days ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (5 days ago)
 - [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (1 week ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 week ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 week ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 week ago)
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (2 weeks ago)
 - [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (1 month ago)
-- [nuxed/asset](https://github.com/nuxed/asset) - The Nuxed Asset component manages URL generation and versioning of web assets such as CSS stylesheets, JavaScript files and image files.  (1 month ago)
-- [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (1 month ago)
+- [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (1 month ago)
 
 ---
 
@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [toraido/fatura](https://github.com/toraido/fatura) ([1.0.0](https://github.com/toraido/fatura/releases/tag/1.0.0), today) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API.
 - [azjezz/psl](https://github.com/azjezz/psl) ([0.1.0](https://github.com/azjezz/psl/releases/tag/0.1.0), 3 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), 6 days ago) - Request routing for HackLang
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), 6 days ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.1](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.1), 6 days ago) - Provides Postmark integration for Symfony Mailer
 - [symfony/mailgun-mailer](https://github.com/symfony/mailgun-mailer) ([v5.2.1](https://github.com/symfony/mailgun-mailer/releases/tag/v5.2.1), 6 days ago) - Provides Mailgun integration for Symfony Mailer
 - [symfony/mailchimp-mailer](https://github.com/symfony/mailchimp-mailer) ([v5.2.1](https://github.com/symfony/mailchimp-mailer/releases/tag/v5.2.1), 6 days ago) - Provides Mailchimp integration for Symfony Mailer
-- [symfony/amazon-mailer](https://github.com/symfony/amazon-mailer) ([v5.2.1](https://github.com/symfony/amazon-mailer/releases/tag/v5.2.1), 6 days ago) - Provides Amazon SES integration for Symfony Mailer
 
 ---
 
