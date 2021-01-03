@@ -38,7 +38,7 @@ Curious what I've been working on recently?
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), 2 weeks ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), 2 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.1](https://github.com/symfony/security-http/releases/tag/v5.2.1), 2 weeks ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/postmark-mailer](https://github.com/symfony/postmark-mailer) ([v5.2.1](https://github.com/symfony/postmark-mailer/releases/tag/v5.2.1), 2 weeks ago) - Provides Postmark integration for Symfony Mailer
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.1](https://github.com/symfony/http-foundation/releases/tag/v5.2.1), 2 weeks ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 ---
 
