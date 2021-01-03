@@ -11,7 +11,7 @@ Curious what I've been working on recently?
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (2 weeks ago)
-- [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (2 weeks ago)
+- [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (3 weeks ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (3 weeks ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (3 weeks ago)
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (4 weeks ago)
@@ -30,8 +30,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.19.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.19.0), 3 days ago) - Bring consistency to documentation
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.19.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.19.0), 4 days ago) - Bring consistency to documentation
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [toraido/fatura](https://github.com/toraido/fatura) ([1.0.0](https://github.com/toraido/fatura/releases/tag/1.0.0), 1 week ago) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API.
 - [azjezz/psl](https://github.com/azjezz/psl) ([0.1.0](https://github.com/azjezz/psl/releases/tag/0.1.0), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), 2 weeks ago) - Request routing for HackLang
