@@ -16,7 +16,7 @@ Curious what I've been working on recently?
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (3 weeks ago)
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (1 month ago)
 - [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (1 month ago)
-- [nuxed/json](https://github.com/nuxed/json) -  The Nuxed Json component provides functions that help you encode, and decode json structures safely. (1 month ago)
+- [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (1 month ago)
 
 ---
 
