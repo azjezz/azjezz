@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.19.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.19.0), 6 days ago) - Bring consistency to documentation
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.19.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.19.0), 1 week ago) - Bring consistency to documentation
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [toraido/fatura](https://github.com/toraido/fatura) ([1.0.0](https://github.com/toraido/fatura/releases/tag/1.0.0), 1 week ago) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API.
 - [azjezz/psl](https://github.com/azjezz/psl) ([0.1.0](https://github.com/azjezz/psl/releases/tag/0.1.0), 2 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
