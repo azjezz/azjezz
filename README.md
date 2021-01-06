@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (1 day ago)
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (2 weeks ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (3 weeks ago)
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (1 month ago)
 - [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (1 month ago)
-- [nuxed/environment](https://github.com/nuxed/environment) - The Nuxed Environment component provides functions that help you manage environment variables. (1 month ago)
 
 ---
 
