@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (2 days ago)
+- [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (3 days ago)
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (2 weeks ago)
@@ -34,11 +34,11 @@ Curious what I've been working on recently?
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.3.2](https://github.com/vimeo/psalm/releases/tag/4.3.2), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [toraido/fatura](https://github.com/toraido/fatura) ([1.0.0](https://github.com/toraido/fatura/releases/tag/1.0.0), 2 weeks ago) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API.
 - [azjezz/psl](https://github.com/azjezz/psl) ([0.1.0](https://github.com/azjezz/psl/releases/tag/0.1.0), 2 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
-- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), 2 weeks ago) - Request routing for HackLang
-- [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), 2 weeks ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
-- [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), 2 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.1](https://github.com/symfony/security-http/releases/tag/v5.2.1), 2 weeks ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.1](https://github.com/symfony/http-foundation/releases/tag/v5.2.1), 2 weeks ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
+- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), 3 weeks ago) - Request routing for HackLang
+- [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), 3 weeks ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
+- [symfony/string](https://github.com/symfony/string) ([v5.2.1](https://github.com/symfony/string/releases/tag/v5.2.1), 3 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.1](https://github.com/symfony/security-http/releases/tag/v5.2.1), 3 weeks ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.1](https://github.com/symfony/http-foundation/releases/tag/v5.2.1), 3 weeks ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 
 ---
 
