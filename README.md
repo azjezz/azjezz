@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/toml](https://github.com/azjezz/toml) - A TOML ( Tom&#39;s Obvious, Minimal Language ) parser implementation for data serialization and deserialization in PHP (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (2 weeks ago)
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (1 month ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 month ago)
 - [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (1 month ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 month ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 month ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 month ago)
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (1 month ago)
-- [nuxed/translation](https://github.com/nuxed/translation) - The Nuxed Translation component provides tools to internationalize your application.  (2 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [azjezz/toml](https://github.com/azjezz/toml) - A TOML ( Tom&#39;s Obvious, Minimal Language ) parser implementation for data serialization and deserialization in PHP
 - [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡
 - [azjezz/input-hydrator-bundle](https://github.com/azjezz/input-hydrator-bundle) - 🧱 Hydrates input DTOs from request data. 
-- [azjezz/input-hydrator](https://github.com/azjezz/input-hydrator) - 🧱 Hydrates input DTOs from request data.
 
 ---
 
