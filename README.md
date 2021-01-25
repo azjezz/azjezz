@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/toml](https://github.com/azjezz/toml) - A TOML ( Tom&#39;s Obvious, Minimal Language ) parser implementation for data serialization and deserialization in PHP (today)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
+- [azjezz/toml](https://github.com/azjezz/toml) - A TOML ( Tom&#39;s Obvious, Minimal Language ) parser implementation for data serialization and deserialization in PHP (1 day ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (2 weeks ago)
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (1 month ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 month ago)
@@ -32,7 +32,7 @@ Curious what I've been working on recently?
 
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.0.0](https://github.com/azjezz/psl/releases/tag/1.0.0), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.4.1](https://github.com/vimeo/psalm/releases/tag/4.4.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.20.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.20.0), 1 week ago) - Bring consistency to documentation
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.20.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.20.0), 2 weeks ago) - Bring consistency to documentation
 - [toraido/fatura](https://github.com/toraido/fatura) ([1.0.0](https://github.com/toraido/fatura/releases/tag/1.0.0), 1 month ago) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API.
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.8](https://github.com/hhvm/hack-router/releases/tag/v0.19.8), 1 month ago) - Request routing for HackLang
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.2](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.2), 1 month ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
