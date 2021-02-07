@@ -8,15 +8,15 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (5 days ago)
 - [azjezz/toml](https://github.com/azjezz/toml) - A TOML ( Tom&#39;s Obvious, Minimal Language ) parser implementation for data serialization and deserialization in PHP (2 weeks ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (1 month ago)
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (1 month ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (1 month ago)
 - [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (1 month ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 month ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 month ago)
-- [azjezz/setup-hhvm](https://github.com/azjezz/setup-hhvm) - GitHub action for setting up HHVM  ⚡ (2 months ago)
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 month ago)
 
 ---
 
