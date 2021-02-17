@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.8.2](https://github.com/doctrine/orm/releases/tag/2.8.2), today) - Doctrine Object Relational Mapper (ORM)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v2.10.2](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v2.10.2), today) - Extra security-related features for Symfony2
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.2.0](https://github.com/azjezz/psl/releases/tag/1.2.0), 1 day ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.0](https://github.com/vimeo/psalm/releases/tag/4.6.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.3](https://github.com/symfony/http-foundation/releases/tag/v5.2.3), 2 weeks ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
 - [symfony/form](https://github.com/symfony/form) ([v5.2.3](https://github.com/symfony/form/releases/tag/v5.2.3), 2 weeks ago) - The Form component allows you to easily create, process and reuse HTML forms.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.3](https://github.com/symfony/symfony/releases/tag/v5.2.3), 2 weeks ago) - The Symfony PHP framework
-- [composer/composer](https://github.com/composer/composer) ([2.0.9](https://github.com/composer/composer/releases/tag/2.0.9), 3 weeks ago) - Dependency Manager for PHP
 
 ---
 
