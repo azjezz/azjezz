@@ -15,8 +15,8 @@ Curious what I've been working on recently?
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (1 month ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (2 months ago)
 - [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (2 months ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 months ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (2 months ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 months ago)
 
 ---
 
