@@ -30,10 +30,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.2](https://github.com/vimeo/psalm/releases/tag/4.6.2), today) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.0.11](https://github.com/composer/composer/releases/tag/2.0.11), 2 days ago) - Dependency Manager for PHP
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.4.1](https://github.com/azjezz/psl/releases/tag/1.4.1), 5 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v3.2.4](https://github.com/hhvm/xhp-lib/releases/tag/v3.2.4), 1 week ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.1](https://github.com/vimeo/psalm/releases/tag/4.6.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.2](https://github.com/doctrine/orm/releases/tag/2.8.2), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v2.10.2](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v2.10.2), 1 week ago) - Extra security-related features for Symfony2
 - [symfony/string](https://github.com/symfony/string) ([v5.2.3](https://github.com/symfony/string/releases/tag/v5.2.3), 3 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
