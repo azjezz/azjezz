@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) - Symfony bundle for the OAuth2 Server. (today)
 - [azjezz/mercure-bundle-issue-41](https://github.com/azjezz/mercure-bundle-issue-41) - reproducing symfony/mercure-bundle#41 (today)
 - [azjezz/symfony-roadrunner](https://github.com/azjezz/symfony-roadrunner) -  (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (4 days ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (2 months ago)
 - [toraido/fatura](https://github.com/toraido/fatura) - 📝 Fatura: Generate PDF invoices, using a simple object-oriented API. (2 months ago)
 - [doctrine/orm](https://github.com/doctrine/orm) - Doctrine Object Relational Mapper (ORM) (2 months ago)
-- [azjezz/http-normalizer](https://github.com/azjezz/http-normalizer) -  (2 months ago)
 
 ---
 
