@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) - Symfony bundle for the OAuth2 Server. (today)
 - [azjezz/mercure-bundle-issue-41](https://github.com/azjezz/mercure-bundle-issue-41) - reproducing symfony/mercure-bundle#41 (today)
 - [azjezz/symfony-roadrunner](https://github.com/azjezz/symfony-roadrunner) -  (today)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 month ago)
 - [azjezz/toml](https://github.com/azjezz/toml) - A TOML ( Tom&#39;s Obvious, Minimal Language ) parser implementation for data serialization and deserialization in PHP (1 month ago)
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) - Extra security-related features for Symfony2 (2 months ago)
