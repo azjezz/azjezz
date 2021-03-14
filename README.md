@@ -30,12 +30,12 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.3](https://github.com/vimeo/psalm/releases/tag/4.6.3), today) - A static analysis tool for finding errors in PHP applications
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.5](https://github.com/symfony/security-http/releases/tag/v5.2.5), 4 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/form](https://github.com/symfony/form) ([v5.2.5](https://github.com/symfony/form/releases/tag/v5.2.5), 4 days ago) - The Form component allows you to easily create, process and reuse HTML forms.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.5](https://github.com/symfony/symfony/releases/tag/v5.2.5), 4 days ago) - The Symfony PHP framework
 - [symfony/string](https://github.com/symfony/string) ([v5.2.4](https://github.com/symfony/string/releases/tag/v5.2.4), 1 week ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.4](https://github.com/symfony/http-foundation/releases/tag/v5.2.4), 1 week ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.2](https://github.com/vimeo/psalm/releases/tag/4.6.2), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.0.11](https://github.com/composer/composer/releases/tag/2.0.11), 2 weeks ago) - Dependency Manager for PHP
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.4.1](https://github.com/azjezz/psl/releases/tag/1.4.1), 3 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v3.2.4](https://github.com/hhvm/xhp-lib/releases/tag/v3.2.4), 3 weeks ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
