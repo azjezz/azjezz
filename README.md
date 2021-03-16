@@ -8,15 +8,15 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 days ago)
-- [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony. (4 days ago)
 - [azjezz/fiber-playground](https://github.com/azjezz/fiber-playground) -  (4 days ago)
+- [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony. (4 days ago)
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) - Symfony bundle for the OAuth2 Server. (6 days ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (6 days ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (6 days ago)
-- [azjezz/mercure-bundle-issue-41](https://github.com/azjezz/mercure-bundle-issue-41) - reproducing symfony/mercure-bundle#41 (1 week ago)
 - [azjezz/symfony-roadrunner](https://github.com/azjezz/symfony-roadrunner) -  (1 week ago)
+- [azjezz/mercure-bundle-issue-41](https://github.com/azjezz/mercure-bundle-issue-41) - reproducing symfony/mercure-bundle#41 (1 week ago)
 
 ---
 
