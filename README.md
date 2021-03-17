@@ -30,8 +30,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.4](https://github.com/vimeo/psalm/releases/tag/4.6.4), today) - A static analysis tool for finding errors in PHP applications
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v2.10.3](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v2.10.3), 1 day ago) - Extra security-related features for Symfony2
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.3](https://github.com/vimeo/psalm/releases/tag/4.6.3), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.5](https://github.com/symfony/security-http/releases/tag/v5.2.5), 1 week ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/form](https://github.com/symfony/form) ([v5.2.5](https://github.com/symfony/form/releases/tag/v5.2.5), 1 week ago) - The Form component allows you to easily create, process and reuse HTML forms.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.5](https://github.com/symfony/symfony/releases/tag/v5.2.5), 1 week ago) - The Symfony PHP framework
