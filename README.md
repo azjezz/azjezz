@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url. (1 day ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (3 days ago)
 - [azjezz/fiber-playground](https://github.com/azjezz/fiber-playground) -  (1 week ago)
 - [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony. (1 week ago)
@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [azjezz/psl](https://github.com/azjezz/psl) ([1.5.0](https://github.com/azjezz/psl/releases/tag/1.5.0), today) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.2.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.2.0), 1 day ago) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.4](https://github.com/vimeo/psalm/releases/tag/4.6.4), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v2.10.3](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v2.10.3), 3 days ago) - Extra security-related features for Symfony2
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.5](https://github.com/symfony/symfony/releases/tag/v5.2.5), 1 week ago) - The Symfony PHP framework
 - [symfony/string](https://github.com/symfony/string) ([v5.2.4](https://github.com/symfony/string/releases/tag/v5.2.4), 2 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/http-foundation](https://github.com/symfony/http-foundation) ([v5.2.4](https://github.com/symfony/http-foundation/releases/tag/v5.2.4), 2 weeks ago) - The HttpFoundation component defines an object-oriented layer for the HTTP specification.
-- [composer/composer](https://github.com/composer/composer) ([2.0.11](https://github.com/composer/composer/releases/tag/2.0.11), 3 weeks ago) - Dependency Manager for PHP
 
 ---
 
