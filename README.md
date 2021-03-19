@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url. (1 day ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (3 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 day ago)
 - [azjezz/fiber-playground](https://github.com/azjezz/fiber-playground) -  (1 week ago)
 - [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony. (1 week ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 week ago)
