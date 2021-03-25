@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🌱 My latest projects
 
+- [azjezz/codegen](https://github.com/azjezz/codegen) - 
 - [azjezz/fiber-playground](https://github.com/azjezz/fiber-playground) - 
 - [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony.
-- [azjezz/mercure-bundle-issue-41](https://github.com/azjezz/mercure-bundle-issue-41) - reproducing symfony/mercure-bundle#41
 
 ---
 
