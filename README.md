@@ -8,9 +8,9 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [php-standard-library/repository-template](https://github.com/php-standard-library/repository-template) - This is a template used to create new repository within the php-standard-library organization  (1 day ago)
+- [php-standard-library/repository-template](https://github.com/php-standard-library/repository-template) - This is a template used to create new repository within the php-standard-library organization  (today)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 day ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 days ago)
 - [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) - Experimental features for the Hack Standard Library (4 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
