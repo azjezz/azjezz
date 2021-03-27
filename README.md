@@ -8,13 +8,13 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
-- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (today)
-- [php-standard-library/repository-template](https://github.com/php-standard-library/repository-template) - This is a template used to create new repository within the php-standard-library organization  (today)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 day ago)
-- [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) - Experimental features for the Hack Standard Library (3 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 days ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (4 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
+- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 day ago)
+- [php-standard-library/repository-template](https://github.com/php-standard-library/repository-template) - This is a template used to create new repository within the php-standard-library organization  (1 day ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 days ago)
+- [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) - Experimental features for the Hack Standard Library (4 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (5 days ago)
 - [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url. (1 week ago)
 - [azjezz/fiber-playground](https://github.com/azjezz/fiber-playground) -  (2 weeks ago)
 
@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.3.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.3.0), 1 day ago) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
+- [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.3.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.3.0), 2 days ago) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.5.0](https://github.com/azjezz/psl/releases/tag/1.5.0), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.4](https://github.com/vimeo/psalm/releases/tag/4.6.4), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v2.10.3](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v2.10.3), 1 week ago) - Extra security-related features for Symfony2
