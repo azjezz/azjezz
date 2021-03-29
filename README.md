@@ -30,10 +30,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.0](https://github.com/vimeo/psalm/releases/tag/4.7.0), today) - A static analysis tool for finding errors in PHP applications
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.0.1](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.0.1), 2 days ago) - Psalm integration for the PHP Standard Library
 - [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.3.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.3.0), 4 days ago) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.5.0](https://github.com/azjezz/psl/releases/tag/1.5.0), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.6.4](https://github.com/vimeo/psalm/releases/tag/4.6.4), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [nelmio/NelmioSecurityBundle](https://github.com/nelmio/NelmioSecurityBundle) ([v2.10.3](https://github.com/nelmio/NelmioSecurityBundle/releases/tag/v2.10.3), 1 week ago) - Extra security-related features for Symfony2
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.5](https://github.com/symfony/security-http/releases/tag/v5.2.5), 2 weeks ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/form](https://github.com/symfony/form) ([v5.2.5](https://github.com/symfony/form/releases/tag/v5.2.5), 2 weeks ago) - The Form component allows you to easily create, process and reuse HTML forms.
