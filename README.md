@@ -8,23 +8,23 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (today)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (today)
 - [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (today)
+- [azjezz/captcha](https://github.com/azjezz/captcha) -  (today)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 day ago)
 - [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony. (1 day ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 days ago)
 - [php-standard-library/repository-template](https://github.com/php-standard-library/repository-template) - This is a template used to create new repository within the php-standard-library organization  (4 days ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (4 days ago)
-- [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) - Experimental features for the Hack Standard Library (1 week ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [azjezz/captcha](https://github.com/azjezz/captcha) - 
 - [azjezz/codegen](https://github.com/azjezz/codegen) - 
 - [azjezz/fiber-playground](https://github.com/azjezz/fiber-playground) - 
-- [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony.
 
 ---
 
