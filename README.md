@@ -30,6 +30,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.0.12](https://github.com/composer/composer/releases/tag/2.0.12), today) - Dependency Manager for PHP
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.0](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.0), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.1](https://github.com/symfony/mercure/releases/tag/v0.5.1), 1 day ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.6](https://github.com/symfony/string/releases/tag/v5.2.6), 3 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
@@ -38,7 +39,6 @@ Curious what I've been working on recently?
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 3 days ago) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.0](https://github.com/vimeo/psalm/releases/tag/4.7.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.0.1](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.0.1), 5 days ago) - Psalm integration for the PHP Standard Library
-- [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.3.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.3.0), 1 week ago) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
 
 ---
 
