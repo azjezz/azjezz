@@ -13,13 +13,6 @@ Curious what I've been working on recently?
 
 ---
 
-#### 🌱 My latest projects
-{{range recentRepos 3}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
----
-
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 9}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
