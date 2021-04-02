@@ -20,14 +20,6 @@ Curious what I've been working on recently?
 
 ---
 
-#### 🌱 My latest projects
-
-- [azjezz/captcha](https://github.com/azjezz/captcha) - 
-- [azjezz/codegen](https://github.com/azjezz/codegen) - 
-- [azjezz/fiber-playground](https://github.com/azjezz/fiber-playground) - 
-
----
-
 #### 🔭 Latest releases I've contributed to
 
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.3](https://github.com/doctrine/orm/releases/tag/2.8.3), 1 day ago) - Doctrine Object Relational Mapper (ORM)
