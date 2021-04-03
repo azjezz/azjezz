@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.2](https://github.com/symfony/mercure/releases/tag/v0.5.2), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.1](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.1), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.3](https://github.com/doctrine/orm/releases/tag/2.8.3), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 - [composer/composer](https://github.com/composer/composer) ([2.0.12](https://github.com/composer/composer/releases/tag/2.0.12), 2 days ago) - Dependency Manager for PHP
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.0](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.0), 3 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.1](https://github.com/symfony/mercure/releases/tag/v0.5.1), 3 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.6](https://github.com/symfony/string/releases/tag/v5.2.6), 5 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.6](https://github.com/symfony/security-http/releases/tag/v5.2.6), 5 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
 - [symfony/form](https://github.com/symfony/form) ([v5.2.6](https://github.com/symfony/form/releases/tag/v5.2.6), 5 days ago) - The Form component allows you to easily create, process and reuse HTML forms.
