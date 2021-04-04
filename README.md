@@ -8,29 +8,29 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (3 days ago)
-- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (3 days ago)
-- [azjezz/captcha](https://github.com/azjezz/captcha) -  (3 days ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (3 days ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (3 days ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (4 days ago)
-- [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony. (4 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (5 days ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a new JavaScript ecosystem for Symfony (4 days ago)
+- [symfony/ux-turbo](https://github.com/symfony/ux-turbo) - Hotwire Turbo integration for Symfony (4 days ago)
+- [azjezz/captcha](https://github.com/azjezz/captcha) -  (4 days ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (4 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 days ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (5 days ago)
+- [azjezz/mercure-symfony-demo](https://github.com/azjezz/mercure-symfony-demo) - Demonstrates the usage of Mercure with Symfony. (5 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 week ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.2](https://github.com/symfony/mercure/releases/tag/v0.5.2), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.1](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.1), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.8.3](https://github.com/doctrine/orm/releases/tag/2.8.3), 2 days ago) - Doctrine Object Relational Mapper (ORM)
-- [composer/composer](https://github.com/composer/composer) ([2.0.12](https://github.com/composer/composer/releases/tag/2.0.12), 2 days ago) - Dependency Manager for PHP
-- [symfony/string](https://github.com/symfony/string) ([v5.2.6](https://github.com/symfony/string/releases/tag/v5.2.6), 5 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.6](https://github.com/symfony/security-http/releases/tag/v5.2.6), 5 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/form](https://github.com/symfony/form) ([v5.2.6](https://github.com/symfony/form/releases/tag/v5.2.6), 5 days ago) - The Form component allows you to easily create, process and reuse HTML forms.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 5 days ago) - The Symfony PHP framework
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.0](https://github.com/vimeo/psalm/releases/tag/4.7.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.2](https://github.com/symfony/mercure/releases/tag/v0.5.2), 1 day ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.1](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.1), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.8.3](https://github.com/doctrine/orm/releases/tag/2.8.3), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [composer/composer](https://github.com/composer/composer) ([2.0.12](https://github.com/composer/composer/releases/tag/2.0.12), 3 days ago) - Dependency Manager for PHP
+- [symfony/string](https://github.com/symfony/string) ([v5.2.6](https://github.com/symfony/string/releases/tag/v5.2.6), 6 days ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
+- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.6](https://github.com/symfony/security-http/releases/tag/v5.2.6), 6 days ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/form](https://github.com/symfony/form) ([v5.2.6](https://github.com/symfony/form/releases/tag/v5.2.6), 6 days ago) - The Form component allows you to easily create, process and reuse HTML forms.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 6 days ago) - The Symfony PHP framework
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.0](https://github.com/vimeo/psalm/releases/tag/4.7.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
 
 ---
 
