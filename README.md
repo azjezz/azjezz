@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.0](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.0), today) - Psalm integration for the PHP Standard Library
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.6.0](https://github.com/azjezz/psl/releases/tag/1.6.0), 2 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.4](https://github.com/doctrine/orm/releases/tag/2.8.4), 3 days ago) - Doctrine Object Relational Mapper (ORM)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 5 days ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.6](https://github.com/symfony/string/releases/tag/v5.2.6), 1 week ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
 - [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.6](https://github.com/symfony/security-http/releases/tag/v5.2.6), 1 week ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
-- [symfony/form](https://github.com/symfony/form) ([v5.2.6](https://github.com/symfony/form/releases/tag/v5.2.6), 1 week ago) - The Form component allows you to easily create, process and reuse HTML forms.
 
 ---
 
