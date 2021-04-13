@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 - [composer/composer](https://github.com/composer/composer) ([2.0.12](https://github.com/composer/composer/releases/tag/2.0.12), 1 week ago) - Dependency Manager for PHP
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.6](https://github.com/symfony/string/releases/tag/v5.2.6), 2 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
-- [symfony/security-http](https://github.com/symfony/security-http) ([v5.2.6](https://github.com/symfony/security-http/releases/tag/v5.2.6), 2 weeks ago) - Security provides an infrastructure for sophisticated authorization systems, which makes it possible to easily separate the actual authorization logic from so called user providers that hold the users credentials. It is inspired by the Java Spring framework.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.6](https://github.com/symfony/symfony/releases/tag/v5.2.6), 2 weeks ago) - The Symfony PHP framework
 
 ---
 
