@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (6 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
+- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 week ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 weeks ago)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (2 weeks ago)
 - [azjezz/captcha](https://github.com/azjezz/captcha) -  (2 weeks ago)
@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.1](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.1), 6 days ago) - Psalm integration for the PHP Standard Library
+- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.1](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.1), 1 week ago) - Psalm integration for the PHP Standard Library
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.6.0](https://github.com/azjezz/psl/releases/tag/1.6.0), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.4](https://github.com/doctrine/orm/releases/tag/2.8.4), 1 week ago) - Doctrine Object Relational Mapper (ORM)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 2 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 2 weeks ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [composer/composer](https://github.com/composer/composer) ([2.0.12](https://github.com/composer/composer/releases/tag/2.0.12), 2 weeks ago) - Dependency Manager for PHP
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.6](https://github.com/symfony/framework-bundle/releases/tag/v5.2.6), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/string](https://github.com/symfony/string) ([v5.2.6](https://github.com/symfony/string/releases/tag/v5.2.6), 2 weeks ago) - Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way.
