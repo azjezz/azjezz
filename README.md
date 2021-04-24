@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (2 days ago)
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (today)
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) - Symfony bundle for the OAuth2 Server. (5 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 week ago)
