@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (4 days ago)
+- [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (5 days ago)
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) - Symfony bundle for the OAuth2 Server. (1 week ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [composer/composer](https://github.com/composer/composer) ([2.0.13](https://github.com/composer/composer/releases/tag/2.0.13), 1 day ago) - Dependency Manager for PHP
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.1](https://github.com/vimeo/psalm/releases/tag/4.7.1), 3 days ago) - A static analysis tool for finding errors in PHP applications
+- [composer/composer](https://github.com/composer/composer) ([2.0.13](https://github.com/composer/composer/releases/tag/2.0.13), 2 days ago) - Dependency Manager for PHP
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.1](https://github.com/vimeo/psalm/releases/tag/4.7.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA1](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA1), 1 week ago) - The Symfony PHP framework
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.1](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.1), 2 weeks ago) - Psalm integration for the PHP Standard Library
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.6.0](https://github.com/azjezz/psl/releases/tag/1.6.0), 3 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
