@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.4](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.4), today) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.2](https://github.com/vimeo/psalm/releases/tag/4.7.2), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA2), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA2](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA2), 3 days ago) - The Symfony PHP framework
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.6.0](https://github.com/azjezz/psl/releases/tag/1.6.0), 3 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.4](https://github.com/doctrine/orm/releases/tag/2.8.4), 4 weeks ago) - Doctrine Object Relational Mapper (ORM)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.2](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.2), 1 month ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.5.3](https://github.com/symfony/mercure/releases/tag/v0.5.3), 1 month ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 
 ---
 
