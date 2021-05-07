@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.0](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.0), today) - Bring consistency to documentation
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.1), today) - Bring consistency to documentation
 - [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.108.0](https://github.com/hhvm/hsl-experimental/releases/tag/v4.108.0), 3 days ago) - Experimental features for the Hack Standard Library
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.4](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.4), 3 days ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.2](https://github.com/vimeo/psalm/releases/tag/4.7.2), 6 days ago) - A static analysis tool for finding errors in PHP applications
