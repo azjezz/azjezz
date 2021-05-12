@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.23](https://github.com/symfony/symfony/releases/tag/v4.4.23), today) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA3), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), today) - The Symfony PHP framework
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.1), 5 days ago) - Bring consistency to documentation
 - [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.108.0](https://github.com/hhvm/hsl-experimental/releases/tag/v4.108.0), 1 week ago) - Experimental features for the Hack Standard Library
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.4](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.4), 1 week ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
