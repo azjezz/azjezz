@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/php-rfcs](https://github.com/azjezz/php-rfcs) - This repository contains a list of RFC that I have authored, or co-authored. (today)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (3 days ago)
 - [coopTilleuls/CoopTilleulsAclSonataAdminExtensionBundle](https://github.com/coopTilleuls/CoopTilleulsAclSonataAdminExtensionBundle) - ACL list filtering for SonataAdmin (1 week ago)
 - [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (2 weeks ago)
-- [azjezz/php-rfcs](https://github.com/azjezz/php-rfcs) - This repository contains a list of RFC that I have authored, or co-authored. (2 weeks ago)
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) - Symfony bundle for the OAuth2 Server. (3 weeks ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 month ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 month ago)
