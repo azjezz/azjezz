@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [azjezz/psl](https://github.com/azjezz/psl) ([1.7.0](https://github.com/azjezz/psl/releases/tag/1.7.0), today) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-BETA4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-BETA4), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-BETA4](https://github.com/symfony/symfony/releases/tag/v5.3.0-BETA4), 3 days ago) - The Symfony PHP framework
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.1), 1 week ago) - Bring consistency to documentation
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.2](https://github.com/vimeo/psalm/releases/tag/4.7.2), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [composer/composer](https://github.com/composer/composer) ([2.0.13](https://github.com/composer/composer/releases/tag/2.0.13), 2 weeks ago) - Dependency Manager for PHP
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.1](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.1), 1 month ago) - Psalm integration for the PHP Standard Library
-- [azjezz/psl](https://github.com/azjezz/psl) ([1.6.0](https://github.com/azjezz/psl/releases/tag/1.6.0), 1 month ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 
 ---
 
