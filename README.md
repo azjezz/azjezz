@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.9](https://github.com/symfony/framework-bundle/releases/tag/v5.2.9), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.9](https://github.com/symfony/symfony/releases/tag/v5.2.9), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v5.3.0-RC1), today) - The Symfony PHP framework
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.7.1](https://github.com/azjezz/psl/releases/tag/1.7.1), today) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.1), 1 week ago) - Bring consistency to documentation
 - [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.108.0](https://github.com/hhvm/hsl-experimental/releases/tag/v4.108.0), 2 weeks ago) - Experimental features for the Hack Standard Library
