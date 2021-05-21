@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [composer/composer](https://github.com/composer/composer) ([2.0.14](https://github.com/composer/composer/releases/tag/2.0.14), today) - Dependency Manager for PHP
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.0](https://github.com/laminas/automatic-releases/releases/tag/1.12.0), today) - Automated release process for `laminas/` projects, usable as github action
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.5](https://github.com/doctrine/orm/releases/tag/2.8.5), today) - Doctrine Object Relational Mapper (ORM)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.1](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.1), 2 weeks ago) - Bring consistency to documentation
 - [hhvm/hsl-experimental](https://github.com/hhvm/hsl-experimental) ([v4.108.0](https://github.com/hhvm/hsl-experimental/releases/tag/v4.108.0), 2 weeks ago) - Experimental features for the Hack Standard Library
 - [hhvm/xhp-lib](https://github.com/hhvm/xhp-lib) ([v4.0.4](https://github.com/hhvm/xhp-lib/releases/tag/v4.0.4), 2 weeks ago) - Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.2](https://github.com/vimeo/psalm/releases/tag/4.7.2), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 
 ---
 
