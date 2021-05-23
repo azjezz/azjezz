@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (4 days ago)
 - [protung/easyadmin-plus-bundle](https://github.com/protung/easyadmin-plus-bundle) -  (4 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (4 days ago)
 - [azjezz/php-rfcs](https://github.com/azjezz/php-rfcs) - This repository contains a list of RFC that I have authored, or co-authored. (1 week ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.0](https://github.com/laminas/automatic-releases/releases/tag/1.12.0), 2 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.1](https://github.com/laminas/automatic-releases/releases/tag/1.12.1), today) - Automated release process for `laminas/` projects, usable as github action
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.8.5](https://github.com/doctrine/orm/releases/tag/2.8.5), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v5.3.0-RC1), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v5.3.0-RC1), 4 days ago) - The Symfony PHP framework
