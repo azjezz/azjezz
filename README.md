@@ -8,12 +8,12 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (4 days ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (6 days ago)
 - [protung/easyadmin-plus-bundle](https://github.com/protung/easyadmin-plus-bundle) -  (6 days ago)
 - [azjezz/php-rfcs](https://github.com/azjezz/php-rfcs) - This repository contains a list of RFC that I have authored, or co-authored. (1 week ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (2 weeks ago)
 - [coopTilleuls/CoopTilleulsAclSonataAdminExtensionBundle](https://github.com/coopTilleuls/CoopTilleulsAclSonataAdminExtensionBundle) - ACL list filtering for SonataAdmin (2 weeks ago)
 - [coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle](https://github.com/coopTilleuls/CoopTilleulsCKEditorSonataMediaBundle) - Integrates SonataMediaBundle for Symfony with CKEditor (3 weeks ago)
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) - Symfony bundle for the OAuth2 Server. (1 month ago)
