@@ -12,11 +12,11 @@ Curious what I've been working on recently?
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) - Request routing for HackLang (2 days ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (2 weeks ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 weeks ago)
-- [protung/easyadmin-plus-bundle](https://github.com/protung/easyadmin-plus-bundle) -  (2 weeks ago)
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (2 weeks ago)
-- [azjezz/php-rfcs](https://github.com/azjezz/php-rfcs) - This repository contains a list of RFC that I have authored, or co-authored. (3 weeks ago)
+- [protung/easyadmin-plus-bundle](https://github.com/protung/easyadmin-plus-bundle) -  (2 weeks ago)
 
 ---
 
