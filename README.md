@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [azjezz/hack-routing](https://github.com/azjezz/hack-routing) - A PHP rewrite of HackRouter by Facebook (4 days ago)
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) - Request routing for HackLang (1 week ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 weeks ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (2 weeks ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (3 weeks ago)
