@@ -8,22 +8,22 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (today)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 days ago)
-- [azjezz/hack-routing](https://github.com/azjezz/hack-routing) - A PHP rewrite of HackRouter by Facebook (6 days ago)
+- [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (today)
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 day ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (3 days ago)
+- [azjezz/hack-routing](https://github.com/azjezz/hack-routing) - A PHP rewrite of HackRouter by Facebook (1 week ago)
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) - Request routing for HackLang (1 week ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 weeks ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (3 weeks ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (3 weeks ago)
-- [protung/easyadmin-plus-bundle](https://github.com/protung/easyadmin-plus-bundle) -  (4 weeks ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 2 days ago) - Doctrine Object Relational Mapper (ORM)
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 3 days ago) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.1](https://github.com/symfony/symfony/releases/tag/v5.3.1), 2 weeks ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.2.10](https://github.com/symfony/framework-bundle/releases/tag/v5.2.10), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
