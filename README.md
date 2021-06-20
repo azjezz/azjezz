@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.0](https://github.com/vimeo/psalm/releases/tag/4.8.0), today) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 3 days ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.2), 2 weeks ago) - Bring consistency to documentation
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.0](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.0), 2 weeks ago) - Provides Mercure integration for Symfony Notifier.
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.7.2](https://github.com/azjezz/psl/releases/tag/1.7.2), 3 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.7.3](https://github.com/vimeo/psalm/releases/tag/4.7.3), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 
 ---
 
