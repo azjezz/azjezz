@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (1 day ago)
+- [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (today)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (3 days ago)
 - [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (4 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
