@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (today)
 - [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (2 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (4 days ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (1 week ago)
-- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
 - [azjezz/hack-routing](https://github.com/azjezz/hack-routing) - A PHP rewrite of HackRouter by Facebook (2 weeks ago)
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) - Request routing for HackLang (3 weeks ago)
