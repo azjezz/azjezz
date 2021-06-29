@@ -8,9 +8,9 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (today)
-- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 day ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
+- [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (1 day ago)
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (2 days ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (6 days ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
 - [azjezz/hack-routing](https://github.com/azjezz/hack-routing) - A PHP rewrite of HackRouter by Facebook (2 weeks ago)
@@ -25,10 +25,10 @@ Curious what I've been working on recently?
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 1 week ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 2 weeks ago) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
-- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.2), 3 weeks ago) - Bring consistency to documentation
+- [OskarStark/doctor-rst](https://github.com/OskarStark/doctor-rst) ([1.21.2](https://github.com/OskarStark/doctor-rst/releases/tag/1.21.2), 4 weeks ago) - Bring consistency to documentation
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.0](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.0), 4 weeks ago) - Provides Mercure integration for Symfony Notifier.
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.7.2](https://github.com/azjezz/psl/releases/tag/1.7.2), 1 month ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 
