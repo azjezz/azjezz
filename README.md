@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.26](https://github.com/symfony/symfony/releases/tag/v4.4.26), today) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.2](https://github.com/symfony/framework-bundle/releases/tag/v5.3.2), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.2](https://github.com/symfony/symfony/releases/tag/v5.3.2), 1 week ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 2 weeks ago) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
