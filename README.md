@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (today)
-- [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (4 days ago)
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 day ago)
+- [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (5 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 2 days ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 3 days ago) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 2 weeks ago) - Doctrine Object Relational Mapper (ORM)
