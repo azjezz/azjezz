@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 day ago)
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (today)
 - [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (5 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (2 weeks ago)
