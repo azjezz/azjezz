@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (1 week ago)
 - [azjezz/HHEvaluation](https://github.com/azjezz/HHEvaluation) - HHEvaluation - Evaluate Hack code. (1 week ago)
 - [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (1 week ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 3 days ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
+- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 4 days ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [azjezz/tarry](https://github.com/azjezz/tarry) ([0.2.0](https://github.com/azjezz/tarry/releases/tag/0.2.0), 1 week ago) - Tarry is a small utility for building TAR archives.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 2 weeks ago) - The Symfony PHP framework
