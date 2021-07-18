@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 4 days ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
+- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 5 days ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [azjezz/tarry](https://github.com/azjezz/tarry) ([0.2.0](https://github.com/azjezz/tarry/releases/tag/0.2.0), 1 week ago) - Tarry is a small utility for building TAR archives.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.3](https://github.com/symfony/framework-bundle/releases/tag/v5.3.3), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.3](https://github.com/symfony/symfony/releases/tag/v5.3.3), 2 weeks ago) - The Symfony PHP framework
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 4 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 1 month ago) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 1 month ago) - Automated release process for `laminas/` projects, usable as github action
