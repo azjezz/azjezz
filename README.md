@@ -8,12 +8,12 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (2 days ago)
-- [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (5 days ago)
+- [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (3 days ago)
+- [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (6 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (2 weeks ago)
-- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (2 weeks ago)
-- [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (2 weeks ago)
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (3 weeks ago)
+- [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (3 weeks ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 month ago)
 - [azjezz/hack-routing](https://github.com/azjezz/hack-routing) - A PHP rewrite of HackRouter by Facebook (1 month ago)
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) - Request routing for HackLang (1 month ago)
@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), today) - Provides Mercure integration for Symfony Notifier.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.4](https://github.com/symfony/symfony/releases/tag/v5.3.4), today) - The Symfony PHP framework
-- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 1 week ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
-- [azjezz/tarry](https://github.com/azjezz/tarry) ([0.2.0](https://github.com/azjezz/tarry/releases/tag/0.2.0), 2 weeks ago) - Tarry is a small utility for building TAR archives.
+- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 1 day ago) - Provides Mercure integration for Symfony Notifier.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.4](https://github.com/symfony/symfony/releases/tag/v5.3.4), 1 day ago) - The Symfony PHP framework
+- [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 2 weeks ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
+- [azjezz/tarry](https://github.com/azjezz/tarry) ([0.2.0](https://github.com/azjezz/tarry/releases/tag/0.2.0), 3 weeks ago) - Tarry is a small utility for building TAR archives.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 month ago) - A static analysis tool for finding errors in PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 1 month ago) - Doctrine Object Relational Mapper (ORM)
