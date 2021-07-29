@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (4 days ago)
+- [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (5 days ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
-- [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (2 weeks ago)
+- [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (3 weeks ago)
 - [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (3 weeks ago)
 - [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (3 weeks ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 month ago)
@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), 1 day ago) - The Symfony PHP framework
-- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 2 days ago) - Provides Mercure integration for Symfony Notifier.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.5](https://github.com/symfony/symfony/releases/tag/v5.3.5), 2 days ago) - The Symfony PHP framework
+- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 3 days ago) - Provides Mercure integration for Symfony Notifier.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 2 weeks ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [azjezz/tarry](https://github.com/azjezz/tarry) ([0.2.0](https://github.com/azjezz/tarry/releases/tag/0.2.0), 3 weeks ago) - Tarry is a small utility for building TAR archives.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.8.1](https://github.com/vimeo/psalm/releases/tag/4.8.1), 1 month ago) - A static analysis tool for finding errors in PHP applications
