@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.2.14](https://github.com/symfony/symfony/releases/tag/v5.2.14), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), today) - The Symfony PHP framework
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 3 days ago) - Provides Mercure integration for Symfony Notifier.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 2 weeks ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
