@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.2](https://github.com/vimeo/psalm/releases/tag/4.9.2), today) - A static analysis tool for finding errors in PHP applications
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 3 days ago) - The Symfony PHP framework
-- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 6 days ago) - Provides Mercure integration for Symfony Notifier.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 6 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.2](https://github.com/vimeo/psalm/releases/tag/4.9.2), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 4 days ago) - The Symfony PHP framework
+- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 1 week ago) - Provides Mercure integration for Symfony Notifier.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 2 weeks ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [azjezz/tarry](https://github.com/azjezz/tarry) ([0.2.0](https://github.com/azjezz/tarry/releases/tag/0.2.0), 3 weeks ago) - Tarry is a small utility for building TAR archives.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
