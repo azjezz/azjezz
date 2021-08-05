@@ -9,6 +9,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. http://twitter.com/HHVMDocCommits (today)
+- [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (1 week ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (1 week ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (3 weeks ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 month ago)
 - [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (1 month ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 month ago)
-- [azjezz/hack-routing](https://github.com/azjezz/hack-routing) - A PHP rewrite of HackRouter by Facebook (1 month ago)
 
 ---
 
