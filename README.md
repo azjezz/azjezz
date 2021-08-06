@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. http://twitter.com/HHVMDocCommits (today)
+- [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. http://twitter.com/HHVMDocCommits (1 day ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (1 week ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (1 week ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (2 weeks ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), today) - Annotations Docblock Parser
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.2](https://github.com/vimeo/psalm/releases/tag/4.9.2), 4 days ago) - A static analysis tool for finding errors in PHP applications
+- [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 1 day ago) - Annotations Docblock Parser
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.2](https://github.com/vimeo/psalm/releases/tag/4.9.2), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 week ago) - The Symfony PHP framework
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 1 week ago) - Provides Mercure integration for Symfony Notifier.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.4](https://github.com/symfony/framework-bundle/releases/tag/v5.3.4), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
