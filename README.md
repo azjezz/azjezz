@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.4](https://github.com/doctrine/orm/releases/tag/2.9.4), today) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 6 days ago) - Annotations Docblock Parser
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.2](https://github.com/vimeo/psalm/releases/tag/4.9.2), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 1 week ago) - The Symfony PHP framework
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [hhvm/hhvm-autoload](https://github.com/hhvm/hhvm-autoload) ([v3.3.0](https://github.com/hhvm/hhvm-autoload/releases/tag/v3.3.0), 4 weeks ago) - Autoload classes, functions, enums, constants, and typedefs on HHVM
 - [azjezz/tarry](https://github.com/azjezz/tarry) ([0.2.0](https://github.com/azjezz/tarry/releases/tag/0.2.0), 1 month ago) - Tarry is a small utility for building TAR archives.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.5](https://github.com/api-platform/core/releases/tag/v2.6.5), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.3](https://github.com/doctrine/orm/releases/tag/2.9.3), 1 month ago) - Doctrine Object Relational Mapper (ORM)
 
 ---
 
