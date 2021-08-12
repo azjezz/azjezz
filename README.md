@@ -8,11 +8,11 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. http://twitter.com/HHVMDocCommits (1 week ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (2 weeks ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (2 weeks ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (3 weeks ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 month ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (1 month ago)
 - [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 month ago)
 - [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (1 month ago)
