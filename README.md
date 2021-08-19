@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
-- [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. http://twitter.com/HHVMDocCommits (2 weeks ago)
+- [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (2 weeks ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (3 weeks ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (3 weeks ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (4 weeks ago)
