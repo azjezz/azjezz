@@ -16,13 +16,13 @@ Curious what I've been working on recently?
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (1 month ago)
 - [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (1 month ago)
 - [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (1 month ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 month ago)
+- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 6 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.4](https://github.com/doctrine/orm/releases/tag/2.9.4), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 2 weeks ago) - Annotations Docblock Parser
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 3 weeks ago) - The Symfony PHP framework
