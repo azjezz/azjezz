@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.5](https://github.com/doctrine/orm/releases/tag/2.9.5), today) - Doctrine Object Relational Mapper (ORM)
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.4](https://github.com/doctrine/orm/releases/tag/2.9.4), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 2 weeks ago) - Annotations Docblock Parser
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 3 weeks ago) - The Symfony PHP framework
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 4 weeks ago) - Provides Mercure integration for Symfony Notifier.
