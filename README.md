@@ -10,7 +10,7 @@ Curious what I've been working on recently?
 
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (3 weeks ago)
-- [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (4 weeks ago)
+- [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (1 month ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (1 month ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (1 month ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (1 month ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 1 day ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.5](https://github.com/doctrine/orm/releases/tag/2.9.5), 3 days ago) - Doctrine Object Relational Mapper (ORM)
+- [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 2 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.5](https://github.com/doctrine/orm/releases/tag/2.9.5), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.9.3](https://github.com/vimeo/psalm/releases/tag/4.9.3), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 3 weeks ago) - Annotations Docblock Parser
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.6](https://github.com/symfony/symfony/releases/tag/v5.3.6), 4 weeks ago) - The Symfony PHP framework
