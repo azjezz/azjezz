@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) -  (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (3 weeks ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (1 month ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (1 month ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (2 months ago)
 - [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (2 months ago)
 - [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (2 months ago)
-- [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 months ago)
 
 ---
 
