@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 1 week ago) - The Symfony PHP framework
-- [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
+- [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 2 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.5](https://github.com/doctrine/orm/releases/tag/2.9.5), 2 weeks ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 1 month ago) - Annotations Docblock Parser
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 1 month ago) - Provides Mercure integration for Symfony Notifier.
