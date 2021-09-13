@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (5 days ago)
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy way to serialize closures in PHP. (5 days ago)
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (5 days ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (1 month ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (1 month ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (1 month ago)
