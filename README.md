@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (6 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (1 week ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (1 month ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (1 month ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (1 month ago)
@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.0](https://github.com/laravel/serializable-closure/releases/tag/v1.0.0), today) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.0](https://github.com/laravel/serializable-closure/releases/tag/v1.0.0), 1 day ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 2 weeks ago) - The Symfony PHP framework
-- [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 2 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
+- [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 3 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.5](https://github.com/doctrine/orm/releases/tag/2.9.5), 3 weeks ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 1 month ago) - Annotations Docblock Parser
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 1 month ago) - Provides Mercure integration for Symfony Notifier.
