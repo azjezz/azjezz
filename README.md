@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.0](https://github.com/laravel/serializable-closure/releases/tag/v1.0.0), 1 day ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.0](https://github.com/laravel/serializable-closure/releases/tag/v1.0.0), 2 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 2 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 2 weeks ago) - The Symfony PHP framework
