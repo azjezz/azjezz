@@ -8,7 +8,6 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications. (1 day ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 week ago)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (1 week ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (1 month ago)
@@ -16,6 +15,7 @@ Curious what I've been working on recently?
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (1 month ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (2 months ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (2 months ago)
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (2 months ago)
 - [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (2 months ago)
 
 ---
