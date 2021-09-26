@@ -11,7 +11,7 @@ Curious what I've been working on recently?
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (2 weeks ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (1 month ago)
-- [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (1 month ago)
+- [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (2 months ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (2 months ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (2 months ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (2 months ago)
@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils) ([2.3.0](https://github.com/Ocramius/DoctrineBatchUtils/releases/tag/2.3.0), 6 days ago) - :loop: A set of utilities to operate with Doctrine ORM&#39;s batch processing techniques
+- [Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils) ([2.3.0](https://github.com/Ocramius/DoctrineBatchUtils/releases/tag/2.3.0), 1 week ago) - :loop: A set of utilities to operate with Doctrine ORM&#39;s batch processing techniques
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.0](https://github.com/laravel/serializable-closure/releases/tag/v1.0.0), 1 week ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.7](https://github.com/symfony/framework-bundle/releases/tag/v5.3.7), 3 weeks ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.7](https://github.com/symfony/symfony/releases/tag/v5.3.7), 3 weeks ago) - The Symfony PHP framework
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 1 month ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
