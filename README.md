@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.0), today) - Symfony bundle for the OAuth2 Server.
 - [Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils) ([2.3.0](https://github.com/Ocramius/DoctrineBatchUtils/releases/tag/2.3.0), 1 week ago) - :loop: A set of utilities to operate with Doctrine ORM&#39;s batch processing techniques
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.0](https://github.com/laravel/serializable-closure/releases/tag/v1.0.0), 1 week ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 1 month ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.9.5](https://github.com/doctrine/orm/releases/tag/2.9.5), 1 month ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.2](https://github.com/doctrine/annotations/releases/tag/1.13.2), 1 month ago) - Annotations Docblock Parser
-- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.4](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.4), 2 months ago) - Provides Mercure integration for Symfony Notifier.
 
 ---
 
