@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.1](https://github.com/laravel/serializable-closure/releases/tag/v1.0.1), today) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.2](https://github.com/laravel/serializable-closure/releases/tag/v1.0.2), today) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 day ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.0), 3 days ago) - Symfony bundle for the OAuth2 Server.
