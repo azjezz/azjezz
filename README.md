@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 weeks ago)
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (2 weeks ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (3 weeks ago)
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (3 weeks ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (1 month ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (2 months ago)
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (2 months ago)
@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), today) - The Symfony PHP framework
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.0), 2 days ago) - Symfony bundle for the OAuth2 Server.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 day ago) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.0), 3 days ago) - Symfony bundle for the OAuth2 Server.
 - [Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils) ([2.3.0](https://github.com/Ocramius/DoctrineBatchUtils/releases/tag/2.3.0), 1 week ago) - :loop: A set of utilities to operate with Doctrine ORM&#39;s batch processing techniques
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.0](https://github.com/laravel/serializable-closure/releases/tag/v1.0.0), 2 weeks ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
