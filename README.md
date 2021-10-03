@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.6](https://github.com/doctrine/orm/releases/tag/2.9.6), today) - Doctrine Object Relational Mapper (ORM)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.2](https://github.com/laravel/serializable-closure/releases/tag/v1.0.2), 4 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 5 days ago) - The Symfony PHP framework
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [Ocramius/DoctrineBatchUtils](https://github.com/Ocramius/DoctrineBatchUtils) ([2.3.0](https://github.com/Ocramius/DoctrineBatchUtils/releases/tag/2.3.0), 2 weeks ago) - :loop: A set of utilities to operate with Doctrine ORM&#39;s batch processing techniques
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.10.0](https://github.com/vimeo/psalm/releases/tag/4.10.0), 4 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.7.3](https://github.com/azjezz/psl/releases/tag/1.7.3), 1 month ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.9.5](https://github.com/doctrine/orm/releases/tag/2.9.5), 1 month ago) - Doctrine Object Relational Mapper (ORM)
 
 ---
 
