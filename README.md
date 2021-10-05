@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), today) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 2 days ago) - Automated release process for `laminas/` projects, usable as github action
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.8.1](https://github.com/azjezz/psl/releases/tag/1.8.1), 2 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.0](https://github.com/doctrine/orm/releases/tag/2.10.0), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.2](https://github.com/laravel/serializable-closure/releases/tag/v1.0.2), 6 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 week ago) - The Symfony PHP framework
