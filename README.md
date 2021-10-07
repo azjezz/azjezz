@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.1](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.1), 2 days ago) - Symfony bundle for the OAuth2 Server.
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), today) - Symfony bundle for the OAuth2 Server.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 2 days ago) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 4 days ago) - Automated release process for `laminas/` projects, usable as github action
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.8.1](https://github.com/azjezz/psl/releases/tag/1.8.1), 4 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
