@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (5 days ago)
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (5 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (6 days ago)
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (6 days ago)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (1 month ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (2 months ago)
 - [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (2 months ago)
@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 1 day ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), 1 day ago) - Symfony bundle for the OAuth2 Server.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 3 days ago) - Doctrine Object Relational Mapper (ORM)
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 5 days ago) - Automated release process for `laminas/` projects, usable as github action
-- [azjezz/psl](https://github.com/azjezz/psl) ([1.8.1](https://github.com/azjezz/psl/releases/tag/1.8.1), 5 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 2 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), 2 days ago) - Symfony bundle for the OAuth2 Server.
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 4 days ago) - Doctrine Object Relational Mapper (ORM)
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 6 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [azjezz/psl](https://github.com/azjezz/psl) ([1.8.1](https://github.com/azjezz/psl/releases/tag/1.8.1), 6 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 1 week ago) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.8](https://github.com/symfony/framework-bundle/releases/tag/v5.3.8), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
