@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 5 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), 5 days ago) - Symfony bundle for the OAuth2 Server.
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 6 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), 6 days ago) - Symfony bundle for the OAuth2 Server.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.8.1](https://github.com/azjezz/psl/releases/tag/1.8.1), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
