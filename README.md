@@ -22,14 +22,14 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), today) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), today) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 6 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), 6 days ago) - Symfony bundle for the OAuth2 Server.
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 1 day ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), 1 day ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 1 week ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), 1 week ago) - Symfony bundle for the OAuth2 Server.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.1](https://github.com/doctrine/orm/releases/tag/2.10.1), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.8.1](https://github.com/azjezz/psl/releases/tag/1.8.1), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.6](https://github.com/api-platform/core/releases/tag/v2.6.6), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.9](https://github.com/symfony/symfony/releases/tag/v5.3.9), 2 weeks ago) - The Symfony PHP framework
 
 ---
