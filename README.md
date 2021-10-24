@@ -16,7 +16,7 @@ Curious what I've been working on recently?
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (3 months ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (3 months ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (3 months ago)
-- [azjezz/tarry](https://github.com/azjezz/tarry) - Tarry is a small utility for building TAR archives. (3 months ago)
+- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (3 months ago)
 
 ---
 
