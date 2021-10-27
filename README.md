@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), today) - A static analysis tool for finding errors in PHP applications
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 5 days ago) - Doctrine Object Relational Mapper (ORM)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 1 week ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
-- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), 1 week ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.11.2](https://github.com/vimeo/psalm/releases/tag/4.11.2), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 6 days ago) - Doctrine Object Relational Mapper (ORM)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 2 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), 2 weeks ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 2 weeks ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.1.2](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.1.2), 2 weeks ago) - Symfony bundle for the OAuth2 Server.
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
