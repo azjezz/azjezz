@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (1 month ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [azjezz/hhevaluation](https://github.com/azjezz/hhevaluation) - HHEvaluation - Evaluate Hack code. (3 months ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (3 months ago)
 - [azjezz/snake-game](https://github.com/azjezz/snake-game) - Snake Game written in Hack (3 months ago)
-- [nuxed/nuxed](https://github.com/nuxed/nuxed) -  (4 months ago)
 
 ---
 
