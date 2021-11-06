@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (3 days ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (1 month ago)
