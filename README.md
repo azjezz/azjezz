@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.2.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.2.0), today) - Symfony bundle for the OAuth2 Server.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.9.1](https://github.com/azjezz/psl/releases/tag/1.9.1), 1 day ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0-BETA1](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0-BETA1), 2 days ago) - Provides Mercure integration for Symfony Notifier.
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 2 weeks ago) - Doctrine Object Relational Mapper (ORM)
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 3 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.0](https://github.com/symfony/mercure/releases/tag/v0.6.0), 3 weeks ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.3](https://github.com/laravel/serializable-closure/releases/tag/v1.0.3), 1 month ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 
 ---
 
