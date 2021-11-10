@@ -40,6 +40,11 @@ Curious what I've been working on recently?
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz)
 
+
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=azjezz&no-frame=true&column=8&margin-w=15&theme=oldie" />
+</p>
+
 ---
 
 #### 📫 How to reach me
