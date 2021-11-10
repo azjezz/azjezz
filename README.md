@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (1 day ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (2 days ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 week ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
@@ -39,11 +39,6 @@ Curious what I've been working on recently?
 <img align="right" alt="azjezz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=azjezz&count_private=1&show_icons=true&" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz)
-
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=azjezz&no-frame=true&column=8&margin-w=15&theme=oldie" />
-</p>
 
 ---
 
