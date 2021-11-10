@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [azjezz/psl](https://github.com/azjezz/psl) ([1.9.2](https://github.com/azjezz/psl/releases/tag/1.9.2), today) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.2.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.2.0), 3 days ago) - Symfony bundle for the OAuth2 Server.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
-- [azjezz/psl](https://github.com/azjezz/psl) ([1.9.1](https://github.com/azjezz/psl/releases/tag/1.9.1), 4 days ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0-BETA1](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0-BETA1), 5 days ago) - Provides Mercure integration for Symfony Notifier.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA1), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA1), 5 days ago) - The Symfony PHP framework
