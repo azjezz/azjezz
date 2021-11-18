@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.9](https://github.com/hhvm/hack-router/releases/tag/v0.19.9), today) - Request routing for HackLang
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), today) - The Symfony PHP framework
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.4](https://github.com/laravel/serializable-closure/releases/tag/v1.0.4), 2 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.2.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.2.0), 1 week ago) - Symfony bundle for the OAuth2 Server.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.12.0](https://github.com/vimeo/psalm/releases/tag/4.12.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 4 weeks ago) - Doctrine Object Relational Mapper (ORM)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.3](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.3), 1 month ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 ---
 
