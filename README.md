@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v4.4.34](https://github.com/symfony/framework-bundle/releases/tag/v4.4.34), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.34](https://github.com/symfony/symfony/releases/tag/v4.4.34), today) - The Symfony PHP framework
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.11](https://github.com/symfony/framework-bundle/releases/tag/v5.3.11), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.11](https://github.com/symfony/symfony/releases/tag/v5.3.11), today) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.0](https://github.com/vimeo/psalm/releases/tag/4.13.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.9](https://github.com/hhvm/hack-router/releases/tag/v0.19.9), 4 days ago) - Request routing for HackLang
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.4](https://github.com/laravel/serializable-closure/releases/tag/v1.0.4), 6 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
