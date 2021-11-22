@@ -8,9 +8,9 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (2 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (4 days ago)
-- [Roave/SecurityAdvisoriesBuilder](https://github.com/Roave/SecurityAdvisoriesBuilder) - :hammer: Build tools responsible for assembling https://github.com/Roave/SecurityAdvisories/blob/master/composer.json (6 days ago)
+- [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (3 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (5 days ago)
+- [Roave/SecurityAdvisoriesBuilder](https://github.com/Roave/SecurityAdvisoriesBuilder) - :hammer: Build tools responsible for assembling https://github.com/Roave/SecurityAdvisories/blob/master/composer.json (1 week ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (1 week ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (3 weeks ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.0](https://github.com/vimeo/psalm/releases/tag/4.13.0), today) - A static analysis tool for finding errors in PHP applications
-- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.9](https://github.com/hhvm/hack-router/releases/tag/v0.19.9), 3 days ago) - Request routing for HackLang
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), 3 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 3 days ago) - The Symfony PHP framework
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.4](https://github.com/laravel/serializable-closure/releases/tag/v1.0.4), 5 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.0](https://github.com/vimeo/psalm/releases/tag/4.13.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.9](https://github.com/hhvm/hack-router/releases/tag/v0.19.9), 4 days ago) - Request routing for HackLang
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-BETA3](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-BETA3), 4 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.0.0-BETA3), 4 days ago) - The Symfony PHP framework
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.4](https://github.com/laravel/serializable-closure/releases/tag/v1.0.4), 6 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0-BETA2](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0-BETA2), 1 week ago) - Provides Mercure integration for Symfony Notifier.
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.9.2](https://github.com/azjezz/psl/releases/tag/1.9.2), 1 week ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.2.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.2.0), 2 weeks ago) - Symfony bundle for the OAuth2 Server.
