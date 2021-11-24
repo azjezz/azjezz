@@ -9,6 +9,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
+- [Roave/Dont](https://github.com/Roave/Dont) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP (today)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (5 days ago)
 - [Roave/SecurityAdvisoriesBuilder](https://github.com/Roave/SecurityAdvisoriesBuilder) - :hammer: Build tools responsible for assembling https://github.com/Roave/SecurityAdvisories/blob/master/composer.json (1 week ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (2 weeks ago)
@@ -16,12 +17,12 @@ Curious what I've been working on recently?
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP. (2 months ago)
 - [hhvm/user-documentation](https://github.com/hhvm/user-documentation) - Documentation for those that use HHVM and write Hack code. (3 months ago)
-- [doctrine/annotations](https://github.com/doctrine/annotations) - Annotations Docblock Parser (3 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/Dont](https://github.com/Roave/Dont) ([1.5.0](https://github.com/Roave/Dont/releases/tag/1.5.0), today) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0-RC1](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0-RC1), today) - Provides Mercure integration for Symfony Notifier.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-RC1), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.0.0-RC1), today) - The Symfony PHP framework
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.4](https://github.com/laravel/serializable-closure/releases/tag/v1.0.4), 1 week ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.9.2](https://github.com/azjezz/psl/releases/tag/1.9.2), 2 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 - [thephpleague/oauth2-server-bundle](https://github.com/thephpleague/oauth2-server-bundle) ([v0.2.0](https://github.com/thephpleague/oauth2-server-bundle/releases/tag/v0.2.0), 2 weeks ago) - Symfony bundle for the OAuth2 Server.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.2](https://github.com/doctrine/orm/releases/tag/2.10.2), 1 month ago) - Doctrine Object Relational Mapper (ORM)
 
 ---
 
