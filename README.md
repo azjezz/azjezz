@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0), today) - Provides Mercure integration for Symfony Notifier.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0](https://github.com/symfony/symfony/releases/tag/v6.0.0), today) - The Symfony PHP framework
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.11.1](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.11.1), today) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [Roave/Dont](https://github.com/Roave/Dont) ([1.5.0](https://github.com/Roave/Dont/releases/tag/1.5.0), 5 days ago) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP
-- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0-RC1](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0-RC1), 5 days ago) - Provides Mercure integration for Symfony Notifier.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0-RC1](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0-RC1), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.0.0-RC1), 5 days ago) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.1](https://github.com/vimeo/psalm/releases/tag/4.13.1), 6 days ago) - A static analysis tool for finding errors in PHP applications
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.9](https://github.com/hhvm/hack-router/releases/tag/v0.19.9), 1 week ago) - Request routing for HackLang
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.4](https://github.com/laravel/serializable-closure/releases/tag/v1.0.4), 1 week ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
