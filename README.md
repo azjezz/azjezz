@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.12.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.12.0), today) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0), 1 day ago) - Provides Mercure integration for Symfony Notifier.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.0](https://github.com/symfony/framework-bundle/releases/tag/v6.0.0), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.0](https://github.com/symfony/symfony/releases/tag/v6.0.0), 1 day ago) - The Symfony PHP framework
-- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.11.1](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.11.1), 1 day ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [Roave/Dont](https://github.com/Roave/Dont) ([1.5.0](https://github.com/Roave/Dont/releases/tag/1.5.0), 6 days ago) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.1](https://github.com/vimeo/psalm/releases/tag/4.13.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.9](https://github.com/hhvm/hack-router/releases/tag/v0.19.9), 1 week ago) - Request routing for HackLang
