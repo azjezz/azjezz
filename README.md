@@ -8,11 +8,11 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
-- [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (1 day ago)
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (5 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 - [Roave/Dont](https://github.com/Roave/Dont) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP (6 days ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (1 week ago)
 - [Roave/SecurityAdvisoriesBuilder](https://github.com/Roave/SecurityAdvisoriesBuilder) - :hammer: Build tools responsible for assembling https://github.com/Roave/SecurityAdvisories/blob/master/composer.json (2 weeks ago)
