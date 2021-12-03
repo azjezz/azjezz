@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (1 day ago)
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis (4 days ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [Roave/Dont](https://github.com/Roave/Dont) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP (1 week ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (2 weeks ago)
 - [Roave/SecurityAdvisoriesBuilder](https://github.com/Roave/SecurityAdvisoriesBuilder) - :hammer: Build tools responsible for assembling https://github.com/Roave/SecurityAdvisories/blob/master/composer.json (2 weeks ago)
-- [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (3 weeks ago)
 
 ---
 
