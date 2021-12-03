@@ -12,8 +12,8 @@ Curious what I've been working on recently?
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (today)
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (1 day ago)
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis (4 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [Roave/Dont](https://github.com/Roave/Dont) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP (1 week ago)
 - [coopTilleuls/.github](https://github.com/coopTilleuls/.github) - The Tilleuls.coop’s handbook (2 weeks ago)
 - [Roave/SecurityAdvisoriesBuilder](https://github.com/Roave/SecurityAdvisoriesBuilder) - :hammer: Build tools responsible for assembling https://github.com/Roave/SecurityAdvisories/blob/master/composer.json (2 weeks ago)
@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), today) - Doctrine Object Relational Mapper (ORM)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.5](https://github.com/laravel/serializable-closure/releases/tag/v1.0.5), 3 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.12.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.12.0), 3 days ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.0](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.0), 4 days ago) - Provides Mercure integration for Symfony Notifier.
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [Roave/Dont](https://github.com/Roave/Dont) ([1.5.0](https://github.com/Roave/Dont/releases/tag/1.5.0), 1 week ago) - :no_entry_sign: Small set of defensive programming utilities/traits for PHP
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.13.1](https://github.com/vimeo/psalm/releases/tag/4.13.1), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [hhvm/hack-router](https://github.com/hhvm/hack-router) ([v0.19.9](https://github.com/hhvm/hack-router/releases/tag/v0.19.9), 2 weeks ago) - Request routing for HackLang
-- [azjezz/psl](https://github.com/azjezz/psl) ([1.9.2](https://github.com/azjezz/psl/releases/tag/1.9.2), 3 weeks ago) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers.
 
 ---
 
