@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (1 day ago)
-- [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (1 day ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - PHP Standard Library - a modern, consistent, centralized, well-typed set of APIs for PHP programmers. (today)
+- [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (today)
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (3 days ago)
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis (6 days ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (1 week ago)
