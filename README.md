@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.14.0](https://github.com/vimeo/psalm/releases/tag/v4.14.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.15.0](https://github.com/vimeo/psalm/releases/tag/v4.15.0), today) - A static analysis tool for finding errors in PHP applications
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.10.3](https://github.com/doctrine/orm/releases/tag/2.10.3), 4 days ago) - Doctrine Object Relational Mapper (ORM)
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.0.5](https://github.com/laravel/serializable-closure/releases/tag/v1.0.5), 1 week ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.12.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.12.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
