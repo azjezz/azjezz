@@ -14,9 +14,9 @@ Curious what I've been working on recently?
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (4 days ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (1 week ago)
 - [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (1 week ago)
-- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
-- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (2 weeks ago)
 - [symfony/mercure](https://github.com/symfony/mercure) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol. (2 weeks ago)
+- [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol. (2 weeks ago)
+- [symfony/symfony-docs](https://github.com/symfony/symfony-docs) - The Symfony documentation (2 weeks ago)
 
 ---
 
