@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.4](https://github.com/loophp/iterators/releases/tag/1.5.4), today) - The missing PHP iterators.
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.2](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.2), 2 days ago) - Provides Mercure integration for Symfony Notifier.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.2](https://github.com/symfony/framework-bundle/releases/tag/v6.0.2), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.2](https://github.com/symfony/symfony/releases/tag/v6.0.2), 2 days ago) - The Symfony PHP framework
@@ -29,7 +30,6 @@ Curious what I've been working on recently?
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.16.1](https://github.com/vimeo/psalm/releases/tag/4.16.1), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.0.0), 5 days ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.7](https://github.com/api-platform/core/releases/tag/v2.6.7), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.3](https://github.com/loophp/iterators/releases/tag/1.5.3), 1 week ago) - The missing PHP iterators.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.4](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.4), 2 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 
 ---
