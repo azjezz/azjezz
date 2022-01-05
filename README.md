@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 days ago)
+- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers. (3 days ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (4 days ago)
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (6 days ago)
