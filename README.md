@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18.1](https://github.com/vimeo/psalm/releases/tag/4.18.1), today) - A static analysis tool for finding errors in PHP applications
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([2.0.0](https://github.com/php-standard-library/psalm-plugin/releases/tag/2.0.0), today) - Psalm integration for the PHP Standard Library
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18](https://github.com/vimeo/psalm/releases/tag/4.18), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.5](https://github.com/loophp/iterators/releases/tag/1.5.5), 5 days ago) - The missing PHP iterators.
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.0.1](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.0.1), 5 days ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.2](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.2), 1 week ago) - Provides Mercure integration for Symfony Notifier.
