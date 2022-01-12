@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.15.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.15.0), today) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.14.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.14.0), 2 days ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0-rc1](https://github.com/azjezz/psl/releases/tag/2.0.0-rc1), 4 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.18.1](https://github.com/vimeo/psalm/releases/tag/4.18.1), 4 days ago) - A static analysis tool for finding errors in PHP applications
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([2.0.0](https://github.com/php-standard-library/psalm-plugin/releases/tag/2.0.0), 4 days ago) - Psalm integration for the PHP Standard Library
