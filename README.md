@@ -9,6 +9,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (today)
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers. (1 day ago)
 - [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (5 days ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (6 days ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (2 weeks ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (2 weeks ago)
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (3 weeks ago)
-- [loophp/iterators](https://github.com/loophp/iterators) - The missing PHP iterators. (4 weeks ago)
 
 ---
 
