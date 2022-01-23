@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (6 days ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (6 days ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 week ago)
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers. (1 week ago)
 - [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (1 week ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (1 week ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.16.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.16.0), 2 days ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
+- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.16.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.16.0), 3 days ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.1.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.1.0), 1 week ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0-rc2](https://github.com/azjezz/psl/releases/tag/2.0.0-rc2), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
 - [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
