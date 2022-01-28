@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.3.14](https://github.com/symfony/mercure-notifier/releases/tag/v5.3.14), today) - Provides Mercure integration for Symfony Notifier.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.3.14](https://github.com/symfony/framework-bundle/releases/tag/v5.3.14), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.14](https://github.com/symfony/symfony/releases/tag/v5.3.14), today) - The Symfony PHP framework
+- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v5.4.3](https://github.com/symfony/mercure-notifier/releases/tag/v5.4.3), today) - Provides Mercure integration for Symfony Notifier.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v5.4.3](https://github.com/symfony/framework-bundle/releases/tag/v5.4.3), today) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.3](https://github.com/symfony/symfony/releases/tag/v5.4.3), today) - The Symfony PHP framework
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.13](https://github.com/loophp/iterators/releases/tag/1.5.13), today) - The missing PHP iterators.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.19.0](https://github.com/vimeo/psalm/releases/tag/4.19.0), today) - A static analysis tool for finding errors in PHP applications
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.16.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.16.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
