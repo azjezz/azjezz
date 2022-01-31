@@ -12,7 +12,7 @@ Curious what I've been working on recently?
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers. (2 weeks ago)
 - [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (2 weeks ago)
-- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 weeks ago)
+- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (3 weeks ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (3 weeks ago)
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (1 month ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (1 month ago)
@@ -22,11 +22,11 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), today) - The missing PHP iterators.
-- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.4](https://github.com/symfony/framework-bundle/releases/tag/v6.0.4), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 1 day ago) - The Symfony PHP framework
-- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.3](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.3), 2 days ago) - Provides Mercure integration for Symfony Notifier.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.19.0](https://github.com/vimeo/psalm/releases/tag/4.19.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), 1 day ago) - The missing PHP iterators.
+- [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.4](https://github.com/symfony/framework-bundle/releases/tag/v6.0.4), 2 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 2 days ago) - The Symfony PHP framework
+- [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.3](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.3), 3 days ago) - Provides Mercure integration for Symfony Notifier.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.19.0](https://github.com/vimeo/psalm/releases/tag/4.19.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.16.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.16.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.1.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.1.0), 2 weeks ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0-rc2](https://github.com/azjezz/psl/releases/tag/2.0.0-rc2), 2 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
