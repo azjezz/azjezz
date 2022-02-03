@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-alpha1](https://github.com/vimeo/psalm/releases/tag/5.0.0-alpha1), today) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0), today) - A static analysis tool for finding errors in PHP applications
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.1.0](https://github.com/laravel/serializable-closure/releases/tag/v1.1.0), 2 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), 4 days ago) - The missing PHP iterators.
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.4](https://github.com/symfony/framework-bundle/releases/tag/v6.0.4), 5 days ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
