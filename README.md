@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.1.1](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.1.1), today) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.1.0](https://github.com/laravel/serializable-closure/releases/tag/v1.1.0), 3 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.5.14](https://github.com/loophp/iterators/releases/tag/1.5.14), 5 days ago) - The missing PHP iterators.
@@ -29,7 +30,6 @@ Curious what I've been working on recently?
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 6 days ago) - The Symfony PHP framework
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.3](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.3), 1 week ago) - Provides Mercure integration for Symfony Notifier.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.16.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.16.0), 2 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.1.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.1.0), 2 weeks ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0-rc2](https://github.com/azjezz/psl/releases/tag/2.0.0-rc2), 2 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
 
 ---
