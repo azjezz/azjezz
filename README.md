@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.4.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.4.0), today) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.4](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.4), 1 day ago) - Psalm integration for the PHP Standard Library
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.1.1](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.1.1), 3 days ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.20.0](https://github.com/vimeo/psalm/releases/tag/4.20.0), 4 days ago) - A static analysis tool for finding errors in PHP applications
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.4](https://github.com/symfony/framework-bundle/releases/tag/v6.0.4), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.4](https://github.com/symfony/symfony/releases/tag/v6.0.4), 1 week ago) - The Symfony PHP framework
 - [symfony/mercure-notifier](https://github.com/symfony/mercure-notifier) ([v6.0.3](https://github.com/symfony/mercure-notifier/releases/tag/v6.0.3), 1 week ago) - Provides Mercure integration for Symfony Notifier.
-- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.16.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.16.0), 2 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 
 ---
 
