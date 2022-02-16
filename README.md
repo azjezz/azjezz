@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 days ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (3 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers. (1 week ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 week ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (1 week ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.1.1](https://github.com/laravel/serializable-closure/releases/tag/v1.1.1), today) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.17.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.17.0), today) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.1.1](https://github.com/laravel/serializable-closure/releases/tag/v1.1.1), 1 day ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.17.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.17.0), 1 day ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.4.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.4.0), 1 week ago) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.4](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.4), 1 week ago) - Psalm integration for the PHP Standard Library
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.1.1](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.1.1), 1 week ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
