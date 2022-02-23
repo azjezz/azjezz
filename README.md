@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (4 days ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (4 days ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (5 days ago)
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (5 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers. (2 weeks ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (2 weeks ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (2 weeks ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.21.0](https://github.com/vimeo/psalm/releases/tag/4.21.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.21.0](https://github.com/vimeo/psalm/releases/tag/4.21.0), 3 days ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.1.1](https://github.com/laravel/serializable-closure/releases/tag/v1.1.1), 1 week ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.17.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.17.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [OskarStark/symfony-http-responder](https://github.com/OskarStark/symfony-http-responder) ([0.4.0](https://github.com/OskarStark/symfony-http-responder/releases/tag/0.4.0), 2 weeks ago) - This library provides a Symfony responder class, which can be used to render a template, return json or a file and redirect to route/url.
