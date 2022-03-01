@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.3.16](https://github.com/symfony/symfony/releases/tag/v5.3.16), today) - The Symfony PHP framework
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.5](https://github.com/symfony/framework-bundle/releases/tag/v6.0.5), 1 day ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.5](https://github.com/symfony/symfony/releases/tag/v6.0.5), 1 day ago) - The Symfony PHP framework
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.5](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.5), 2 days ago) - Psalm integration for the PHP Standard Library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.6.3](https://github.com/azjezz/psl/releases/tag/1.6.3), 6 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers.
