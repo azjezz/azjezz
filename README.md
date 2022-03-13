@@ -10,8 +10,8 @@ Curious what I've been working on recently?
 
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (2 weeks ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (2 weeks ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (3 weeks ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (3 weeks ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (3 weeks ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (1 month ago)
 - [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (2 months ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 months ago)
