@@ -10,8 +10,8 @@ Curious what I've been working on recently?
 
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (2 weeks ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (2 weeks ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (3 weeks ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (3 weeks ago)
+- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (4 weeks ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (4 weeks ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (1 month ago)
 - [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (2 months ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 months ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 4 days ago) - The missing PHP iterators.
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.0](https://github.com/loophp/iterators/releases/tag/1.6.0), 5 days ago) - The missing PHP iterators.
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([6.2.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/6.2.0), 1 week ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.18.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.18.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [symfony/framework-bundle](https://github.com/symfony/framework-bundle) ([v6.0.6](https://github.com/symfony/framework-bundle/releases/tag/v6.0.6), 1 week ago) - The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.
