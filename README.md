@@ -16,7 +16,7 @@ Curious what I've been working on recently?
 - [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (2 months ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 months ago)
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (2 months ago)
-- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (2 months ago)
+- [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications (3 months ago)
 
 ---
 
