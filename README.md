@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), today) - :ab: Tool to compare two revisions of a class API to check for BC breaks
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 4 days ago) - The missing PHP iterators.
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 1 day ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 5 days ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.18.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.18.0), 3 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 3 weeks ago) - The Symfony PHP framework
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.5](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.5), 1 month ago) - Psalm integration for the PHP Standard Library
