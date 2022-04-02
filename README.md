@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v4.4.40](https://github.com/symfony/symfony/releases/tag/v4.4.40), today) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.7](https://github.com/symfony/symfony/releases/tag/v6.0.7), today) - The Symfony PHP framework
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 2 days ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 6 days ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.18.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.18.0), 3 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
