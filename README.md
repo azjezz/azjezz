@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 1 day ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 5 days ago) - The missing PHP iterators.
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 2 days ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 6 days ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.18.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.18.0), 3 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 3 weeks ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.0.6](https://github.com/symfony/symfony/releases/tag/v6.0.6), 4 weeks ago) - The Symfony PHP framework
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.5](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.5), 1 month ago) - Psalm integration for the PHP Standard Library
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.6.3](https://github.com/azjezz/psl/releases/tag/1.6.3), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
