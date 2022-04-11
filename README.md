@@ -14,7 +14,7 @@ Curious what I've been working on recently?
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 month ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 month ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (2 months ago)
-- [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (2 months ago)
+- [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (3 months ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (3 months ago)
 - [azjezz/really](https://github.com/azjezz/really) - a PoC, ignore it. (3 months ago)
 
@@ -30,7 +30,7 @@ Curious what I've been working on recently?
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.22.0](https://github.com/vimeo/psalm/releases/tag/4.22.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
 - [azjezz/psl](https://github.com/azjezz/psl) ([1.6.3](https://github.com/azjezz/psl/releases/tag/1.6.3), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.1.1](https://github.com/laravel/serializable-closure/releases/tag/v1.1.1), 1 month ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 2 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v2.6.8](https://github.com/api-platform/core/releases/tag/v2.6.8), 3 months ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 ---
 
