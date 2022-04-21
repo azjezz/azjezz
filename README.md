@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (3 weeks ago)
+- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (4 weeks ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 month ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (1 month ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 months ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA1), 5 days ago) - The Symfony PHP framework
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 2 weeks ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA1](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA1), 6 days ago) - The Symfony PHP framework
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 3 weeks ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 3 weeks ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.18.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.18.0), 1 month ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.5](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.5), 1 month ago) - Psalm integration for the PHP Standard Library
