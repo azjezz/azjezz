@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (4 weeks ago)
+- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (1 month ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 month ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (1 month ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 months ago)
