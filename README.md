@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), today) - A static analysis tool for finding errors in PHP applications
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 5 days ago) - The Symfony PHP framework
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 6 days ago) - The Symfony PHP framework
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 1 month ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 1 month ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.18.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.18.0), 1 month ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
