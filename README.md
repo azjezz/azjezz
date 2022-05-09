@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (1 day ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (2 days ago)
 - [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (1 month ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (2 months ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 months ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0](https://github.com/azjezz/psl/releases/tag/2.0.0), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0](https://github.com/azjezz/psl/releases/tag/2.0.0), 2 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 1 week ago) - The Symfony PHP framework
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 1 month ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 1 month ago) - The missing PHP iterators.
