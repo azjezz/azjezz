@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.0.0](https://github.com/azjezz/psl/releases/tag/2.0.0), 4 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.0.1](https://github.com/azjezz/psl/releases/tag/2.0.1), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-BETA2](https://github.com/symfony/symfony/releases/tag/v6.1.0-BETA2), 2 weeks ago) - The Symfony PHP framework
 - [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([7.0.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/7.0.0), 1 month ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
