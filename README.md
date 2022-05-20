@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.2.0](https://github.com/laravel/serializable-closure/releases/tag/v1.2.0), 2 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.1.0-RC1), 5 days ago) - The Symfony PHP framework
+- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.2.0](https://github.com/laravel/serializable-closure/releases/tag/v1.2.0), 3 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.1.0-RC1), 6 days ago) - The Symfony PHP framework
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.1](https://github.com/azjezz/psl/releases/tag/2.0.1), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.23.0](https://github.com/vimeo/psalm/releases/tag/4.23.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.2](https://github.com/loophp/iterators/releases/tag/1.6.2), 1 month ago) - The missing PHP iterators.
