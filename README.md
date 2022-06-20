@@ -8,15 +8,15 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (1 week ago)
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications. (1 week ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 weeks ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (2 weeks ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (2 weeks ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 weeks ago)
 - [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (2 months ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (3 months ago)
 - [php-standard-library/php-standard-library.github.io](https://github.com/php-standard-library/php-standard-library.github.io) - PHP Standard Library (4 months ago)
-- [azjezz/hack-php-async-io](https://github.com/azjezz/hack-php-async-io) - playing around - nothing interesting  (5 months ago)
 
 ---
 
