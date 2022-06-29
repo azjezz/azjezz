@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
-- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 3 days ago) - The missing PHP iterators.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 4 days ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.20.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.20.0), 2 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.5](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.5), 2 weeks ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.3](https://github.com/azjezz/psl/releases/tag/2.0.3), 3 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
