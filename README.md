@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.3](https://github.com/doctrine/annotations/releases/tag/1.13.3), 3 days ago) - Annotations Docblock Parser
+- [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.3](https://github.com/doctrine/annotations/releases/tag/1.13.3), 4 days ago) - Annotations Docblock Parser
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 1 week ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.20.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.20.0), 3 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
