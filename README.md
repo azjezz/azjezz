@@ -15,14 +15,14 @@ Curious what I've been working on recently?
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 month ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 month ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (1 month ago)
-- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (3 months ago)
+- [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (4 months ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (4 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.1](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.1), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.1](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.21.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.21.0), 2 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.3](https://github.com/doctrine/annotations/releases/tag/1.13.3), 2 weeks ago) - Annotations Docblock Parser
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
