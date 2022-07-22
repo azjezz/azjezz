@@ -8,15 +8,15 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [settermjd/send-email-with-sendgrid-and-rust](https://github.com/settermjd/send-email-with-sendgrid-and-rust) - A small project showing how to send email with SendGrid and Rust (1 day ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 weeks ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 month ago)
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications. (1 month ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦 (1 month ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 month ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (1 month ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (1 month ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (1 month ago)
 - [derickr/derickrethans-articles](https://github.com/derickr/derickrethans-articles) -  (4 months ago)
-- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (4 months ago)
 
 ---
 
