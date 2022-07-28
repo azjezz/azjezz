@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [settermjd/send-email-with-sendgrid-and-rust](https://github.com/settermjd/send-email-with-sendgrid-and-rust) - A small project showing how to send email with SendGrid and Rust (6 days ago)
+- [settermjd/send-email-with-sendgrid-and-rust](https://github.com/settermjd/send-email-with-sendgrid-and-rust) - A small project showing how to send email with SendGrid and Rust (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 month ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - Server-sent live updates: protocol and reference implementation (1 month ago)
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications. (1 month ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.14.1](https://github.com/laminas/automatic-releases/releases/tag/1.14.1), 1 day ago) - Automated release process for `laminas/` projects, usable as github action
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.14.1](https://github.com/laminas/automatic-releases/releases/tag/1.14.1), 2 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.21.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.21.0), 3 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [doctrine/annotations](https://github.com/doctrine/annotations) ([1.13.3](https://github.com/doctrine/annotations/releases/tag/1.13.3), 3 weeks ago) - Annotations Docblock Parser
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.24.0](https://github.com/vimeo/psalm/releases/tag/4.24.0), 1 month ago) - A static analysis tool for finding errors in PHP applications
