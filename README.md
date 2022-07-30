@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.14.1](https://github.com/laminas/automatic-releases/releases/tag/1.14.1), 3 days ago) - Automated release process for `laminas/` projects, usable as github action
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0), 2 days ago) - A static analysis tool for finding errors in PHP applications
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.14.1](https://github.com/laminas/automatic-releases/releases/tag/1.14.1), 4 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.21.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.21.0), 3 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 1 month ago) - The missing PHP iterators.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.5](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.5), 1 month ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
