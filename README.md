@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), today) - A static analysis tool for finding errors in PHP applications
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v0.2.5](https://github.com/revoltphp/event-loop/releases/tag/v0.2.5), 1 day ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([v4.25.0](https://github.com/vimeo/psalm/releases/tag/v4.25.0), 5 days ago) - A static analysis tool for finding errors in PHP applications
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.14.1](https://github.com/laminas/automatic-releases/releases/tag/1.14.1), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.21.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.21.0), 3 weeks ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
