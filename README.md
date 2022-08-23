@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.15.0](https://github.com/laminas/automatic-releases/releases/tag/1.15.0), 5 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.15.0](https://github.com/laminas/automatic-releases/releases/tag/1.15.0), 6 days ago) - Automated release process for `laminas/` projects, usable as github action
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.2), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.26.0](https://github.com/vimeo/psalm/releases/tag/4.26.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v0.2.5](https://github.com/revoltphp/event-loop/releases/tag/v0.2.5), 3 weeks ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 4 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.21.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.21.0), 1 month ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
