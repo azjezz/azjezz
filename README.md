@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.17.0](https://github.com/laminas/automatic-releases/releases/tag/1.17.0), today) - Automated release process for `laminas/` projects, usable as github action
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.2.1](https://github.com/laravel/serializable-closure/releases/tag/v1.2.1), 3 days ago) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.16.0](https://github.com/laminas/automatic-releases/releases/tag/1.16.0), 4 days ago) - Automated release process for `laminas/` projects, usable as github action
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.22.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.22.0), 4 days ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0-beta.2](https://github.com/dunglas/mercure/releases/tag/v0.14.0-beta.2), 3 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v0.2.5](https://github.com/revoltphp/event-loop/releases/tag/v0.2.5), 1 month ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
