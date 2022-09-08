@@ -22,7 +22,6 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel/serializable-closure](https://github.com/laravel/serializable-closure) ([v1.2.2](https://github.com/laravel/serializable-closure/releases/tag/v1.2.2), today) - Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.0](https://github.com/dunglas/mercure/releases/tag/v0.14.0), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.23.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.23.0), 2 days ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.17.0](https://github.com/laminas/automatic-releases/releases/tag/1.17.0), 6 days ago) - Automated release process for `laminas/` projects, usable as github action
@@ -31,6 +30,7 @@ Curious what I've been working on recently?
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0-rc.2](https://github.com/api-platform/core/releases/tag/v3.0.0-rc.2), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [loophp/iterators](https://github.com/loophp/iterators) ([1.6.13](https://github.com/loophp/iterators/releases/tag/1.6.13), 2 months ago) - The missing PHP iterators.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.5](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.5), 2 months ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.0.3](https://github.com/azjezz/psl/releases/tag/2.0.3), 3 months ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers - #StandWithUkraine 🇺🇦
 
 ---
 
