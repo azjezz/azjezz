@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 2 days ago) - The missing PHP iterators.
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 3 days ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.23.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.23.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.17.0](https://github.com/laminas/automatic-releases/releases/tag/1.17.0), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.27.0](https://github.com/vimeo/psalm/releases/tag/4.27.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
