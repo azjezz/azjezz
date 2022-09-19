@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [settermjd/send-email-with-sendgrid-and-rust](https://github.com/settermjd/send-email-with-sendgrid-and-rust) - A small project showing how to send email with SendGrid and Rust (1 month ago)
+- [settermjd/send-email-with-sendgrid-and-rust](https://github.com/settermjd/send-email-with-sendgrid-and-rust) - A small project showing how to send email with SendGrid and Rust (2 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (3 months ago)
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications. (3 months ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 5 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 6 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 1 week ago) - The missing PHP iterators.
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.23.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.23.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.17.0](https://github.com/laminas/automatic-releases/releases/tag/1.17.0), 2 weeks ago) - Automated release process for `laminas/` projects, usable as github action
