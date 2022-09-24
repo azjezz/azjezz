@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.19.0](https://github.com/laminas/automatic-releases/releases/tag/1.19.0), 4 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.19.0](https://github.com/laminas/automatic-releases/releases/tag/1.19.0), 5 days ago) - Automated release process for `laminas/` projects, usable as github action
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 1 week ago) - The missing PHP iterators.
