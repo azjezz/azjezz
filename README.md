@@ -22,7 +22,6 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.19.0](https://github.com/laminas/automatic-releases/releases/tag/1.19.0), 2 weeks ago) - Automated release process for `laminas/` projects, usable as github action
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 3 weeks ago) - The missing PHP iterators.
@@ -31,6 +30,7 @@ Curious what I've been working on recently?
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v0.2.5](https://github.com/revoltphp/event-loop/releases/tag/v0.2.5), 2 months ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.5](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.5), 3 months ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.3](https://github.com/azjezz/psl/releases/tag/2.0.3), 3 months ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([1.1.5](https://github.com/php-standard-library/psalm-plugin/releases/tag/1.1.5), 7 months ago) - Psalm integration for the PHP Standard Library
 
 ---
 
