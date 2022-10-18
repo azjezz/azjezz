@@ -14,8 +14,8 @@ Curious what I've been working on recently?
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (3 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 months ago)
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications. (4 months ago)
-- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (4 months ago)
 - [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (4 months ago)
+- [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (4 months ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (4 months ago)
 
 ---
