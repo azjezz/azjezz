@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.24.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.24.0), 4 days ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
+- [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.25.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.25.0), today) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.4](https://github.com/azjezz/psl/releases/tag/2.0.4), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
