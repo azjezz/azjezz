@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (today)
 - [azjezz/ddd-rust](https://github.com/azjezz/ddd-rust) - An example project of Domain Driven Design using Rust (1 week ago)
 - [azjezz/todo.rs](https://github.com/azjezz/todo.rs) - a todo application in rust, using actix web framework, diesel orm, and tera templating. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 months ago)
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) - Revolt is a rock-solid event loop for concurrent PHP applications. (4 months ago)
 - [azjezz/symfony-preload](https://github.com/azjezz/symfony-preload) -  (5 months ago)
-- [nuxed/nuxed.org](https://github.com/nuxed/nuxed.org) - Source code for the Nuxed website and documentation. (5 months ago)
 
 ---
 
