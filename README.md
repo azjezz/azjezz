@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (today)
+- [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (1 day ago)
 - [azjezz/ddd-rust](https://github.com/azjezz/ddd-rust) - An example project of Domain Driven Design using Rust (1 week ago)
 - [azjezz/todo.rs](https://github.com/azjezz/todo.rs) - a todo application in rust, using actix web framework, diesel orm, and tera templating. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.0](https://github.com/revoltphp/event-loop/releases/tag/v1.0.0), today) - Revolt is a rock-solid event loop for concurrent PHP applications.
-- [azjezz/tarjama](https://github.com/azjezz/tarjama) ([0.1.2](https://github.com/azjezz/tarjama/releases/tag/0.1.2), today) - Tarjama: helps internationalize your rust applications 🌍🦀
+- [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.0](https://github.com/revoltphp/event-loop/releases/tag/v1.0.0), 1 day ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
+- [azjezz/tarjama](https://github.com/azjezz/tarjama) ([0.1.2](https://github.com/azjezz/tarjama/releases/tag/0.1.2), 1 day ago) - Tarjama: helps internationalize your rust applications 🌍🦀
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.25.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.25.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.0.4](https://github.com/azjezz/psl/releases/tag/2.0.4), 3 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
