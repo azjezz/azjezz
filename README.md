@@ -22,12 +22,12 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.3](https://github.com/api-platform/core/releases/tag/v3.0.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.1.0](https://github.com/azjezz/psl/releases/tag/2.1.0), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.0](https://github.com/revoltphp/event-loop/releases/tag/v1.0.0), 1 day ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [azjezz/tarjama](https://github.com/azjezz/tarjama) ([0.1.2](https://github.com/azjezz/tarjama/releases/tag/0.1.2), 1 day ago) - Tarjama: helps internationalize your rust applications 🌍🦀
 - [Roave/infection-static-analysis-plugin](https://github.com/Roave/infection-static-analysis-plugin) ([1.25.0](https://github.com/Roave/infection-static-analysis-plugin/releases/tag/1.25.0), 1 week ago) - Static analysis on top of mutation testing - prevents escaped mutants from being invalid according to static analysis
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.29.0](https://github.com/vimeo/psalm/releases/tag/4.29.0), 3 weeks ago) - A static analysis tool for finding errors in PHP applications
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.0](https://github.com/api-platform/core/releases/tag/v3.0.0), 1 month ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.1](https://github.com/dunglas/mercure/releases/tag/v0.14.1), 1 month ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.0](https://github.com/loophp/iterators/releases/tag/2.0.0), 1 month ago) - The missing PHP iterators.
 - [symfony/mercure-bundle](https://github.com/symfony/mercure-bundle) ([v0.3.5](https://github.com/symfony/mercure-bundle/releases/tag/v0.3.5), 4 months ago) - The MercureBundle allows to easily push updates to web browsers and other HTTP clients in the Symfony full-stack framework, using the Mercure protocol.
