@@ -8,12 +8,12 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (2 days ago)
-- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (2 days ago)
+- [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (3 days ago)
+- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (3 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
 - [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (1 week ago)
 - [azjezz/ddd-rust](https://github.com/azjezz/ddd-rust) - An example project of Domain Driven Design using Rust (2 weeks ago)
-- [azjezz/todo.rs](https://github.com/azjezz/todo.rs) - a todo application in rust, using actix web framework, diesel orm, and tera templating. (2 weeks ago)
+- [azjezz/todo.rs](https://github.com/azjezz/todo.rs) - a todo application in rust, using actix web framework, diesel orm, and tera templating. (3 weeks ago)
 - [settermjd/send-email-with-sendgrid-and-rust](https://github.com/settermjd/send-email-with-sendgrid-and-rust) - A small project showing how to send email with SendGrid and Rust (3 months ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (4 months ago)
 - [dunglas/mercure](https://github.com/dunglas/mercure) - An open, easy, fast, reliable and battery-efficient solution for real-time communications (4 months ago)
@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.0.1](https://github.com/loophp/iterators/releases/tag/2.0.1), 2 days ago) - The missing PHP iterators.
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0), 6 days ago) - A static analysis tool for finding errors in PHP applications
+- [loophp/iterators](https://github.com/loophp/iterators) ([2.0.1](https://github.com/loophp/iterators/releases/tag/2.0.1), 3 days ago) - The missing PHP iterators.
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.3](https://github.com/api-platform/core/releases/tag/v3.0.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.1.0](https://github.com/azjezz/psl/releases/tag/2.1.0), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.0](https://github.com/revoltphp/event-loop/releases/tag/v1.0.0), 1 week ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
