@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.4](https://github.com/api-platform/core/releases/tag/v3.0.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.1](https://github.com/loophp/iterators/releases/tag/2.0.1), 5 days ago) - The missing PHP iterators.
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([4.30.0](https://github.com/vimeo/psalm/releases/tag/4.30.0), 1 week ago) - A static analysis tool for finding errors in PHP applications
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.3](https://github.com/api-platform/core/releases/tag/v3.0.3), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.1.0](https://github.com/azjezz/psl/releases/tag/2.1.0), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.0](https://github.com/revoltphp/event-loop/releases/tag/v1.0.0), 1 week ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [azjezz/tarjama](https://github.com/azjezz/tarjama) ([0.1.2](https://github.com/azjezz/tarjama/releases/tag/0.1.2), 1 week ago) - Tarjama: helps internationalize your rust applications 🌍🦀
