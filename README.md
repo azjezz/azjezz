@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.5](https://github.com/api-platform/core/releases/tag/v2.7.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.5](https://github.com/api-platform/core/releases/tag/v3.0.5), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.2](https://github.com/symfony/mercure/releases/tag/v0.6.2), 2 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.2](https://github.com/dunglas/mercure/releases/tag/v0.14.2), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-rc1](https://github.com/vimeo/psalm/releases/tag/5.0.0-rc1), 2 days ago) - A static analysis tool for finding errors in PHP applications
