@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
 - [azjezz/php-discovery](https://github.com/azjezz/php-discovery) - discover available PHP builds in locale system 🐘 (today)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (6 days ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (2 weeks ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
 - [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (3 weeks ago)
 - [azjezz/ddd-rust](https://github.com/azjezz/ddd-rust) - An example project of Domain Driven Design using Rust (1 month ago)
 - [azjezz/todo.rs](https://github.com/azjezz/todo.rs) - a todo application in rust, using actix web framework, diesel orm, and tera templating. (1 month ago)
