@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [ryangjchandler/php-parser-rs](https://github.com/ryangjchandler/php-parser-rs) - A handwritten recursive-descent parser for PHP written in Rust, for fun. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 days ago)
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust. (2 days ago)
 - [azjezz/php-discovery](https://github.com/azjezz/php-discovery) - discover available PHP builds in locale system 🐘 (2 days ago)
@@ -16,7 +17,6 @@ Curious what I've been working on recently?
 - [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (3 weeks ago)
 - [azjezz/ddd-rust](https://github.com/azjezz/ddd-rust) - An example project of Domain Driven Design using Rust (1 month ago)
 - [azjezz/todo.rs](https://github.com/azjezz/todo.rs) - a todo application in rust, using actix web framework, diesel orm, and tera templating. (1 month ago)
-- [settermjd/send-email-with-sendgrid-and-rust](https://github.com/settermjd/send-email-with-sendgrid-and-rust) - A small project showing how to send email with SendGrid and Rust (4 months ago)
 
 ---
 
