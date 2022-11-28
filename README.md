@@ -22,13 +22,13 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.8.3](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.8.3), today) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.6](https://github.com/api-platform/core/releases/tag/v3.0.6), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.2.0](https://github.com/azjezz/psl/releases/tag/2.2.0), 2 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [azjezz/php-discovery](https://github.com/azjezz/php-discovery) ([0.1.2](https://github.com/azjezz/php-discovery/releases/tag/0.1.2), 2 days ago) - discover available PHP builds in locale system 🐘
 - [symfony/mercure](https://github.com/symfony/mercure) ([v0.6.2](https://github.com/symfony/mercure/releases/tag/v0.6.2), 5 days ago) - The Mercure Component allows to easily push updates to web browsers and other HTTP clients using the Mercure protocol.
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.2](https://github.com/dunglas/mercure/releases/tag/v0.14.2), 5 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.0.0-rc1](https://github.com/vimeo/psalm/releases/tag/5.0.0-rc1), 5 days ago) - A static analysis tool for finding errors in PHP applications
-- [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.8.2](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.8.2), 2 weeks ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [loophp/iterators](https://github.com/loophp/iterators) ([2.0.1](https://github.com/loophp/iterators/releases/tag/2.0.1), 2 weeks ago) - The missing PHP iterators.
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.0](https://github.com/revoltphp/event-loop/releases/tag/v1.0.0), 3 weeks ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 
