@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten recursive-descent parser for PHP written in Rust, for fun. (2 days ago)
-- [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust. (6 days ago)
 - [azjezz/php-discovery](https://github.com/azjezz/php-discovery) - discover available PHP builds in locale system 🐘 (6 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (6 days ago)
+- [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust. (6 days ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (1 week ago)
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (3 weeks ago)
 - [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (4 weeks ago)
