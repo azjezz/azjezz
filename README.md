@@ -8,9 +8,9 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten recursive-descent parser for PHP written in Rust, for fun. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable). (1 day ago)
-- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten recursive-descent parser for PHP written in Rust, for fun. (1 day ago)
 - [azjezz/php-discovery](https://github.com/azjezz/php-discovery) - discover available PHP builds in locale system 🐘 (1 week ago)
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust. (1 week ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (2 weeks ago)
