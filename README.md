@@ -29,8 +29,8 @@ Curious what I've been working on recently?
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.9.0](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.9.0), 1 week ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) ([2.2.1](https://github.com/php-standard-library/psalm-plugin/releases/tag/2.2.1), 1 week ago) - Psalm integration for the PHP Standard Library
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.3.0](https://github.com/azjezz/psl/releases/tag/2.3.0), 2 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [loophp/iterators](https://github.com/loophp/iterators) ([2.1.0](https://github.com/loophp/iterators/releases/tag/2.1.0), 3 weeks ago) - The missing PHP iterators.
 - [azjezz/php-discovery](https://github.com/azjezz/php-discovery) ([0.1.2](https://github.com/azjezz/php-discovery/releases/tag/0.1.2), 3 weeks ago) - discover available PHP builds in locale system 🐘
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.2](https://github.com/dunglas/mercure/releases/tag/v0.14.2), 3 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 
 ---
 
