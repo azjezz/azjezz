@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.3.0](https://github.com/vimeo/psalm/releases/tag/5.3.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0), today) - A static analysis tool for finding errors in PHP applications
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.2](https://github.com/symfony/var-exporter/releases/tag/v6.2.2), 3 days ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.2](https://github.com/symfony/symfony/releases/tag/v6.2.2), 3 days ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.8](https://github.com/api-platform/core/releases/tag/v3.0.8), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
