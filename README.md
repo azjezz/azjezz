@@ -9,14 +9,14 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A PHP parser for Rust. (today)
+- [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - PHP Code Generator, in Rust. (today)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) -  (4 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (4 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 week ago)
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable). (1 week ago)
-- [azjezz/php-discovery](https://github.com/azjezz/php-discovery) - discover available PHP builds in locale system 🐘 (3 weeks ago)
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust. (3 weeks ago)
+- [azjezz/php-discovery](https://github.com/azjezz/php-discovery) - discover available PHP builds in locale system 🐘 (3 weeks ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (1 month ago)
-- [php-standard-library/psalm-plugin](https://github.com/php-standard-library/psalm-plugin) - Psalm integration for the PHP Standard Library (1 month ago)
 
 ---
 
