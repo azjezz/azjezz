@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (today)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (today)
-- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (1 day ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 days ago)
 - [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (4 days ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) -  (1 week ago)
