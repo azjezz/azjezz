@@ -14,8 +14,8 @@ Curious what I've been working on recently?
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (4 days ago)
 - [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (5 days ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) -  (1 week ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable). (2 weeks ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) - Bindings for the Zend API to build PHP extensions natively in Rust. (1 month ago)
 
 ---
