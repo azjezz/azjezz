@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.1.9](https://github.com/symfony/var-exporter/releases/tag/v6.1.9), today) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.1.9](https://github.com/symfony/symfony/releases/tag/v6.1.9), today) - The Symfony PHP framework
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.3](https://github.com/symfony/var-exporter/releases/tag/v6.2.3), today) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.3](https://github.com/symfony/symfony/releases/tag/v6.2.3), today) - The Symfony PHP framework
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.3.0](https://github.com/ara-lang/reporting/releases/tag/0.3.0), today) - A Reporting library for for Ara Programming Langauge 📃
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.1.0](https://github.com/ara-lang/source/releases/tag/0.1.0), today) - A Source library for Ara Programming Langauge 🗃
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.0](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.0), 6 days ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
