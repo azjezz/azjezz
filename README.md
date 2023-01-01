@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.2.0](https://github.com/ara-lang/parser/releases/tag/0.2.0), 1 day ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
+- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.3.0](https://github.com/ara-lang/parser/releases/tag/0.3.0), today) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.4.1](https://github.com/ara-lang/reporting/releases/tag/0.4.1), 1 day ago) - A Reporting library for for Ara Programming Language 📃
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 3 days ago) - The Symfony PHP framework
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.3](https://github.com/symfony/var-exporter/releases/tag/v6.2.3), 4 days ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
