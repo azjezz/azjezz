@@ -8,15 +8,15 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) -  (today)
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (today)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (today)
-- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (1 day ago)
-- [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (1 day ago)
 - [ara-lang/source](https://github.com/ara-lang/source) - A Source library for Ara Programming Language 🗃 (1 day ago)
+- [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (1 day ago)
+- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (1 day ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (1 day ago)
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (6 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
-- [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (1 week ago)
 
 ---
 
