@@ -9,12 +9,12 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (today)
-- [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website of the ARA programming language. (today)
-- [ara-lang/.github](https://github.com/ara-lang/.github) -  (2 days ago)
+- [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (today)
+- [ara-lang/.github](https://github.com/ara-lang/.github) -  (today)
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (2 days ago)
-- [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (3 days ago)
 - [ara-lang/source](https://github.com/ara-lang/source) - A Source library for Ara Programming Language 🗃 (3 days ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (3 days ago)
+- [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (3 days ago)
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
 
