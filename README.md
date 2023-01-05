@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.4.0](https://github.com/ara-lang/parser/releases/tag/0.4.0), 4 days ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
+- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.5.0](https://github.com/ara-lang/parser/releases/tag/0.5.0), today) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.4.2](https://github.com/ara-lang/reporting/releases/tag/0.4.2), 4 days ago) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 4 days ago) - A Source library for Ara Programming Language 🗃
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 1 week ago) - The Symfony PHP framework
