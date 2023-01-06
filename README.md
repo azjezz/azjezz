@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), today) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.5.0](https://github.com/ara-lang/parser/releases/tag/0.5.0), 1 day ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.4.2](https://github.com/ara-lang/reporting/releases/tag/0.4.2), 5 days ago) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 5 days ago) - A Source library for Ara Programming Language 🗃
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.0](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.0), 2 weeks ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.3.1](https://github.com/azjezz/psl/releases/tag/2.3.1), 2 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.4.0](https://github.com/vimeo/psalm/releases/tag/5.4.0), 2 weeks ago) - A static analysis tool for finding errors in PHP applications
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.8](https://github.com/api-platform/core/releases/tag/v3.0.8), 3 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 
 ---
 
