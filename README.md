@@ -8,8 +8,8 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (today)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (2 days ago)
-- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (2 days ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (5 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (5 days ago)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (6 days ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.5.2](https://github.com/ara-lang/parser/releases/tag/0.5.2), 2 days ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
+- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.5.3](https://github.com/ara-lang/parser/releases/tag/0.5.3), today) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.5.1](https://github.com/ara-lang/reporting/releases/tag/0.5.1), 2 days ago) - A Reporting library for for Ara Programming Language 📃
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 4 days ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 1 week ago) - A Source library for Ara Programming Language 🗃
