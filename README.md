@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([helm-chart-0.14.3](https://github.com/dunglas/mercure/releases/tag/helm-chart-0.14.3), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.3](https://github.com/dunglas/mercure/releases/tag/v0.14.3), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.5.3](https://github.com/ara-lang/parser/releases/tag/0.5.3), 1 day ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.5.1](https://github.com/ara-lang/reporting/releases/tag/0.5.1), 3 days ago) - A Reporting library for for Ara Programming Language 📃
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 5 days ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
