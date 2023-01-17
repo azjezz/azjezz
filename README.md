@@ -9,10 +9,10 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (today)
+- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 days ago)
 - [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (3 days ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (3 days ago)
-- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (1 week ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (1 week ago)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (1 week ago)
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (2 weeks ago)
