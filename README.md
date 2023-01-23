@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), today) - A static analysis tool for finding errors in PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.0](https://github.com/api-platform/core/releases/tag/v3.1.0), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.5.0](https://github.com/vimeo/psalm/releases/tag/5.5.0), today) - A static analysis tool for finding errors in PHP applications
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.1](https://github.com/ara-lang/parser/releases/tag/0.6.1), 5 days ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 1 week ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.0](https://github.com/ara-lang/reporting/releases/tag/0.6.0), 1 week ago) - A Reporting library for for Ara Programming Language 📃
