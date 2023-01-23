@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vimeo/psalm](https://github.com/vimeo/psalm) ([5.5.0](https://github.com/vimeo/psalm/releases/tag/5.5.0), today) - A static analysis tool for finding errors in PHP applications
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.1](https://github.com/ara-lang/parser/releases/tag/0.6.1), 5 days ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [api-platform/core](https://github.com/api-platform/core) ([v3.0.10](https://github.com/api-platform/core/releases/tag/v3.0.10), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 1 week ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 2 weeks ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 3 weeks ago) - A Source library for Ara Programming Language 🗃
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.4](https://github.com/symfony/symfony/releases/tag/v6.2.4), 3 weeks ago) - The Symfony PHP framework
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.3](https://github.com/symfony/var-exporter/releases/tag/v6.2.3), 3 weeks ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
 
 ---
 
