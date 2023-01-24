@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v5.4.19](https://github.com/symfony/var-exporter/releases/tag/v5.4.19), today) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.19](https://github.com/symfony/symfony/releases/tag/v5.4.19), today) - The Symfony PHP framework
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.5](https://github.com/symfony/var-exporter/releases/tag/v6.2.5), today) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.5](https://github.com/symfony/symfony/releases/tag/v6.2.5), today) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) ([5.6.0](https://github.com/vimeo/psalm/releases/tag/5.6.0), 1 day ago) - A static analysis tool for finding errors in PHP applications
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.0](https://github.com/api-platform/core/releases/tag/v3.1.0), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.1](https://github.com/ara-lang/parser/releases/tag/0.6.1), 6 days ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
