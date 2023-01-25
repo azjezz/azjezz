@@ -8,6 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [ara-lang/.github](https://github.com/ara-lang/.github) -  (today)
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (today)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (1 day ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (5 days ago)
@@ -15,7 +16,6 @@ Curious what I've been working on recently?
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (1 week ago)
 - [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (1 week ago)
-- [ara-lang/.github](https://github.com/ara-lang/.github) -  (3 weeks ago)
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (3 weeks ago)
 
 ---
