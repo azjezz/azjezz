@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Saif Eddin, I'm a Senior Engineer [@Bumble](https://bumble.com/), and previously at [@CoopTilleuls](https://les-tilleuls.coop/en), and [@Symfony SAS](https://symfony.com). 
+My name is Saif Eddin, I'm a Senior Engineer [@Bumble](https://bumble.com/), and previously [@CoopTilleuls](https://les-tilleuls.coop/en), and [@Symfony SAS](https://symfony.com). 
 
 Curious what I've been working on recently?
 
