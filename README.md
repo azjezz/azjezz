@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.8](https://github.com/api-platform/core/releases/tag/v2.7.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.1](https://github.com/api-platform/core/releases/tag/v3.1.1), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.3](https://github.com/ara-lang/parser/releases/tag/0.6.3), 1 day ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.5](https://github.com/symfony/var-exporter/releases/tag/v6.2.5), 3 days ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
