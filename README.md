@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.9](https://github.com/api-platform/core/releases/tag/v2.7.9), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.2](https://github.com/api-platform/core/releases/tag/v3.1.2), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.6](https://github.com/symfony/symfony/releases/tag/v6.2.6), 2 days ago) - The Symfony PHP framework
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.4](https://github.com/ara-lang/parser/releases/tag/0.6.4), 3 days ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 3 days ago) - A Reporting library for for Ara Programming Language 📃
