@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.7](https://github.com/symfony/var-exporter/releases/tag/v6.2.7), today) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), today) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.12](https://github.com/api-platform/core/releases/tag/v3.0.12), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.7](https://github.com/symfony/var-exporter/releases/tag/v6.2.7), 1 day ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 1 day ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.12](https://github.com/api-platform/core/releases/tag/v3.0.12), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 3 weeks ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 4 weeks ago) - A Reporting library for for Ara Programming Language 📃
