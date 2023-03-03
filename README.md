@@ -16,16 +16,16 @@ Curious what I've been working on recently?
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (1 month ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 month ago)
 - [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (1 month ago)
-- [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (1 month ago)
+- [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.7](https://github.com/symfony/var-exporter/releases/tag/v6.2.7), 2 days ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 2 days ago) - The Symfony PHP framework
-- [api-platform/core](https://github.com/api-platform/core) ([v3.0.12](https://github.com/api-platform/core/releases/tag/v3.0.12), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 1 week ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.7](https://github.com/symfony/var-exporter/releases/tag/v6.2.7), 3 days ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 3 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.0.12](https://github.com/api-platform/core/releases/tag/v3.0.12), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 3 weeks ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 1 month ago) - A Reporting library for for Ara Programming Language 📃
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.4.1](https://github.com/azjezz/psl/releases/tag/2.4.1), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
