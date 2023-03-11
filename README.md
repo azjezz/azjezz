@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.4](https://github.com/api-platform/core/releases/tag/v3.1.4), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.4](https://github.com/api-platform/core/releases/tag/v3.1.4), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.7](https://github.com/symfony/var-exporter/releases/tag/v6.2.7), 1 week ago) - The VarExporter component allows exporting any serializable PHP data structure to plain PHP code. While doing so, it preserves all the semantics associated with the serialization mechanism of PHP (__wakeup, __sleep, Serializable).
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 1 week ago) - The Symfony PHP framework
 - [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.5](https://github.com/dunglas/mercure/releases/tag/v0.14.5), 3 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
