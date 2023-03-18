@@ -13,7 +13,7 @@ Curious what I've been working on recently?
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (1 month ago)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (1 month ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (1 month ago)
-- [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (1 month ago)
+- [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (2 months ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 months ago)
 - [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (2 months ago)
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌 (2 months ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.5.0](https://github.com/azjezz/psl/releases/tag/2.5.0), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.5.0](https://github.com/azjezz/psl/releases/tag/2.5.0), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.4](https://github.com/api-platform/core/releases/tag/v3.1.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.7](https://github.com/symfony/var-exporter/releases/tag/v6.2.7), 2 weeks ago) - Allows exporting any serializable PHP data structure to plain PHP code
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 2 weeks ago) - The Symfony PHP framework
