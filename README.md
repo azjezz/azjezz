@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.5.0](https://github.com/azjezz/psl/releases/tag/2.5.0), 2 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.5.0](https://github.com/azjezz/psl/releases/tag/2.5.0), 3 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.4](https://github.com/api-platform/core/releases/tag/v3.1.4), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.7](https://github.com/symfony/var-exporter/releases/tag/v6.2.7), 2 weeks ago) - Allows exporting any serializable PHP data structure to plain PHP code
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.7](https://github.com/symfony/symfony/releases/tag/v6.2.7), 2 weeks ago) - The Symfony PHP framework
