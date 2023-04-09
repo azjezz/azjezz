@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.1](https://github.com/revoltphp/event-loop/releases/tag/v1.0.1), 6 days ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
+- [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.1](https://github.com/revoltphp/event-loop/releases/tag/v1.0.1), 1 week ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.7](https://github.com/api-platform/core/releases/tag/v3.1.7), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.8](https://github.com/symfony/var-exporter/releases/tag/v6.2.8), 1 week ago) - Allows exporting any serializable PHP data structure to plain PHP code
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.8](https://github.com/symfony/symfony/releases/tag/v6.2.8), 1 week ago) - The Symfony PHP framework
