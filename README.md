@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (3 weeks ago)
+- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (4 weeks ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (2 months ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (2 months ago)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (2 months ago)
@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.8](https://github.com/api-platform/core/releases/tag/v3.1.8), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.8](https://github.com/api-platform/core/releases/tag/v3.1.8), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 1 week ago) - The Symfony PHP framework
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.1](https://github.com/revoltphp/event-loop/releases/tag/v1.0.1), 2 weeks ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.8](https://github.com/symfony/var-exporter/releases/tag/v6.2.8), 3 weeks ago) - Allows exporting any serializable PHP data structure to plain PHP code
