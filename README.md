@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v3.1.9](https://github.com/api-platform/core/releases/tag/v3.1.9), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 1 week ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v3.1.9](https://github.com/api-platform/core/releases/tag/v3.1.9), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.9](https://github.com/symfony/symfony/releases/tag/v6.2.9), 2 weeks ago) - The Symfony PHP framework
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.1](https://github.com/revoltphp/event-loop/releases/tag/v1.0.1), 3 weeks ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.2.8](https://github.com/symfony/var-exporter/releases/tag/v6.2.8), 3 weeks ago) - Allows exporting any serializable PHP data structure to plain PHP code
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.5.0](https://github.com/azjezz/psl/releases/tag/2.5.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
