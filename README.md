@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.6](https://github.com/dunglas/mercure/releases/tag/v0.14.6), 5 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.8](https://github.com/dunglas/mercure/releases/tag/v0.14.8), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.1](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.1), 6 days ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-BETA3](https://github.com/symfony/symfony/releases/tag/v6.3.0-BETA3), 1 week ago) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
