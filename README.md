@@ -8,12 +8,12 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (1 month ago)
+- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (3 months ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (3 months ago)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (3 months ago)
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (3 months ago)
-- [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (3 months ago)
+- [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (4 months ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (4 months ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (4 months ago)
 - [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (4 months ago)
@@ -22,10 +22,10 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0-RC1](https://github.com/symfony/var-exporter/releases/tag/v6.3.0-RC1), 1 day ago) - Allows exporting any serializable PHP data structure to plain PHP code
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1), 1 day ago) - The Symfony PHP framework
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.8](https://github.com/dunglas/mercure/releases/tag/v0.14.8), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0-RC1](https://github.com/symfony/var-exporter/releases/tag/v6.3.0-RC1), 2 days ago) - Allows exporting any serializable PHP data structure to plain PHP code
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0-RC1](https://github.com/symfony/symfony/releases/tag/v6.3.0-RC1), 2 days ago) - The Symfony PHP framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.8](https://github.com/dunglas/mercure/releases/tag/v0.14.8), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.1](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.1), 1 week ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [api-platform/core](https://github.com/api-platform/core) ([v3.1.11](https://github.com/api-platform/core/releases/tag/v3.1.11), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.1](https://github.com/revoltphp/event-loop/releases/tag/v1.0.1), 1 month ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
