@@ -9,7 +9,7 @@ Curious what I've been working on recently?
 #### 👷 Check out what I'm currently working on
 
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (2 months ago)
-- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (3 months ago)
+- [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (4 months ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (4 months ago)
 - [ara-lang/.github](https://github.com/ara-lang/.github) -  (4 months ago)
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (4 months ago)
@@ -22,14 +22,14 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), today) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.12](https://github.com/api-platform/core/releases/tag/v2.7.12), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0](https://github.com/symfony/var-exporter/releases/tag/v6.3.0), 5 days ago) - Allows exporting any serializable PHP data structure to plain PHP code
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), 5 days ago) - The Symfony PHP framework
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 1 day ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [api-platform/core](https://github.com/api-platform/core) ([v2.7.12](https://github.com/api-platform/core/releases/tag/v2.7.12), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0](https://github.com/symfony/var-exporter/releases/tag/v6.3.0), 6 days ago) - Allows exporting any serializable PHP data structure to plain PHP code
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), 6 days ago) - The Symfony PHP framework
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.1](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.1), 2 weeks ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [revoltphp/event-loop](https://github.com/revoltphp/event-loop) ([v1.0.1](https://github.com/revoltphp/event-loop/releases/tag/v1.0.1), 2 months ago) - Revolt is a rock-solid event loop for concurrent PHP applications.
-- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 3 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
+- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 4 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 4 months ago) - A Reporting library for for Ara Programming Language 📃
 
 ---
