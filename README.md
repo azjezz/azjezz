@@ -22,8 +22,8 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 2 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
-- [api-platform/core](https://github.com/api-platform/core) ([v2.7.12](https://github.com/api-platform/core/releases/tag/v2.7.12), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 3 days ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
+- [api-platform/core](https://github.com/api-platform/core) ([v2.7.12](https://github.com/api-platform/core/releases/tag/v2.7.12), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0](https://github.com/symfony/var-exporter/releases/tag/v6.3.0), 1 week ago) - Allows exporting any serializable PHP data structure to plain PHP code
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), 1 week ago) - The Symfony PHP framework
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0), 2 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
