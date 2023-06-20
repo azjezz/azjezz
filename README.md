@@ -22,7 +22,6 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [dunglas/mercure](https://github.com/dunglas/mercure) ([v0.14.10](https://github.com/dunglas/mercure/releases/tag/v0.14.10), 2 weeks ago) - An open, easy, fast, reliable and battery-efficient solution for real-time communications
 - [api-platform/core](https://github.com/api-platform/core) ([v2.7.12](https://github.com/api-platform/core/releases/tag/v2.7.12), 2 weeks ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0](https://github.com/symfony/var-exporter/releases/tag/v6.3.0), 3 weeks ago) - Allows exporting any serializable PHP data structure to plain PHP code
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.0](https://github.com/symfony/symfony/releases/tag/v6.3.0), 3 weeks ago) - The Symfony PHP framework
@@ -31,6 +30,7 @@ Curious what I've been working on recently?
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 4 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 4 months ago) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 5 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
+- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 5 months ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 
 ---
 
