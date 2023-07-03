@@ -22,7 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1), 6 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1), 1 week ago) - The Symfony PHP framework
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0](https://github.com/symfony/var-exporter/releases/tag/v6.3.0), 1 month ago) - Allows exporting any serializable PHP data structure to plain PHP code
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.1](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.1), 1 month ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
