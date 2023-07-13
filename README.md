@@ -16,7 +16,7 @@ Curious what I've been working on recently?
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (5 months ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (5 months ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (5 months ago)
-- [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (5 months ago)
+- [ara-lang/art](https://github.com/ara-lang/art) - Ara Art 🎨 (6 months ago)
 
 ---
 
@@ -28,7 +28,7 @@ Curious what I've been working on recently?
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.1](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.1), 1 month ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 5 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 5 months ago) - A Reporting library for for Ara Programming Language 📃
-- [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 5 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
+- [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 6 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 6 months ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
 - [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 6 months ago) - A Source library for Ara Programming Language 🗃
 
