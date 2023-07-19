@@ -22,9 +22,9 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1), 3 weeks ago) - The Symfony PHP framework
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0](https://github.com/symfony/var-exporter/releases/tag/v6.3.0), 1 month ago) - Allows exporting any serializable PHP data structure to plain PHP code
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.6.0](https://github.com/azjezz/psl/releases/tag/2.6.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.1](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.1), 2 months ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
 - [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 5 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 5 months ago) - A Reporting library for for Ara Programming Language 📃
