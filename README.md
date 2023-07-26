@@ -8,13 +8,13 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) -  (today)
+- [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (4 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (5 months ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (5 months ago)
-- [ara-lang/.github](https://github.com/ara-lang/.github) -  (6 months ago)
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (6 months ago)
+- [ara-lang/.github](https://github.com/ara-lang/.github) -  (6 months ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (6 months ago)
 - [azjezz/void.tn](https://github.com/azjezz/void.tn) -  (6 months ago)
 
@@ -22,6 +22,7 @@ Curious what I've been working on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) ([1.0.0](https://github.com/carthage-software/elissa-bundle/releases/tag/1.0.0), today) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [symfony/symfony](https://github.com/symfony/symfony) ([v6.3.1](https://github.com/symfony/symfony/releases/tag/v6.3.1), 1 month ago) - The Symfony PHP framework
 - [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.0](https://github.com/symfony/var-exporter/releases/tag/v6.3.0), 1 month ago) - Allows exporting any serializable PHP data structure to plain PHP code
@@ -30,7 +31,6 @@ Curious what I've been working on recently?
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 5 months ago) - A Reporting library for for Ara Programming Language 📃
 - [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 6 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
 - [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 6 months ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
-- [ara-lang/source](https://github.com/ara-lang/source) ([0.2.0](https://github.com/ara-lang/source/releases/tag/0.2.0), 6 months ago) - A Source library for Ara Programming Language 🗃
 
 ---
 
