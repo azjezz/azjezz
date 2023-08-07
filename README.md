@@ -8,14 +8,14 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [carthage-software/server](https://github.com/carthage-software/server) - Carthage is a comprehensive, all-in-one application monitoring, logging, error handling, and metrics collection solution  (1 day ago)
+- [carthage-software/server](https://github.com/carthage-software/server) - Carthage is a comprehensive, all-in-one application monitoring, logging, error handling, and metrics collection solution  (today)
 - [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 weeks ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (4 months ago)
 - [ara-lang/parser](https://github.com/ara-lang/parser) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲 (6 months ago)
 - [ara-lang/reporting](https://github.com/ara-lang/reporting) - A Reporting library for for Ara Programming Language 📃 (6 months ago)
-- [ara-lang/.github](https://github.com/ara-lang/.github) -  (6 months ago)
 - [ara-lang/forest](https://github.com/ara-lang/forest) - A cached, multi-threaded parsing library for Ara Programming Language 🍃 (6 months ago)
+- [ara-lang/.github](https://github.com/ara-lang/.github) -  (6 months ago)
 - [ara-lang/ara-lang.io](https://github.com/ara-lang/ara-lang.io) - Documentation website for Ara programming language 🕸 (6 months ago)
 
 ---
