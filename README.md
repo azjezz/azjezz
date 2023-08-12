@@ -8,7 +8,7 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [carthage-software/server](https://github.com/carthage-software/server) - Carthage is a comprehensive, all-in-one application monitoring, logging, error handling, and metrics collection solution  (2 days ago)
+- [carthage-software/server](https://github.com/carthage-software/server) - Carthage is a comprehensive, all-in-one application monitoring, logging, error handling, and metrics collection solution  (today)
 - [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project. (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
 - [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (4 months ago)
