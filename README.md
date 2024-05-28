@@ -8,29 +8,25 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [carthage-software/php-sdk](https://github.com/carthage-software/php-sdk) - Carthage Software Development Kit for PHP (today)
-- [carthage-software/python-sdk](https://github.com/carthage-software/python-sdk) - Carthage Software Development Kit for Python (today)
-- [carthage-software/go-sdk](https://github.com/carthage-software/go-sdk) - Carthage Software Development Kit for Go (today)
-- [carthage-software/js-sdk](https://github.com/carthage-software/js-sdk) - Carthage Software Development Kit for TypeScript/JavaScript (today)
-- [carthage-software/rust-sdk](https://github.com/carthage-software/rust-sdk) - Carthage Software Development Kit for Rust (today)
-- [carthage-software/server](https://github.com/carthage-software/server) - Carthage is a comprehensive, all-in-one application monitoring, logging, error handling, and metrics collection solution  (today)
-- [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project. (2 weeks ago)
+- [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (today)
+- [neutomic/skeleton](https://github.com/neutomic/skeleton) - A minimal Neutomic project recommended to create simple web applications (today)
+- [azjezz/chitchat](https://github.com/azjezz/chitchat) -  (1 day ago)
+- [neutomic/neutomic.github.io](https://github.com/neutomic/neutomic.github.io) - Neutomic Documentation (2 days ago)
+- [neutomic/art](https://github.com/neutomic/art) - Neutomic Logo (5 days ago)
+- [azjezz/assess](https://github.com/azjezz/assess) - Unix filesystem notifications library for PHP. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
-- [neutomic/neu](https://github.com/neutomic/neu) - Neu - a modern, concurrent, fast framework for web development (4 months ago)
+- [azjezz/actix-playground](https://github.com/azjezz/actix-playground) - just playing around with actix, ignore (1 month ago)
+- [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (1 month ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v6.2.14](https://github.com/symfony/symfony/releases/tag/v6.2.14), 1 week ago) - The Symfony PHP framework
-- [symfony/var-exporter](https://github.com/symfony/var-exporter) ([v6.3.2](https://github.com/symfony/var-exporter/releases/tag/v6.3.2), 1 week ago) - Allows exporting any serializable PHP data structure to plain PHP code
-- [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) ([1.0.1](https://github.com/carthage-software/elissa-bundle/releases/tag/1.0.1), 2 weeks ago) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project.
-- [azjezz/psl](https://github.com/azjezz/psl) ([2.7.0](https://github.com/azjezz/psl/releases/tag/2.7.0), 3 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [davidcole1340/ext-php-rs](https://github.com/davidcole1340/ext-php-rs) ([v0.10.1](https://github.com/davidcole1340/ext-php-rs/releases/tag/v0.10.1), 2 months ago) - Bindings for the Zend API to build PHP extensions natively in Rust.
-- [ara-lang/parser](https://github.com/ara-lang/parser) ([0.6.6](https://github.com/ara-lang/parser/releases/tag/0.6.6), 6 months ago) - A fault-tolerant, recursive-descent parser for Ara Programming Language 🌲
-- [ara-lang/reporting](https://github.com/ara-lang/reporting) ([0.6.1](https://github.com/ara-lang/reporting/releases/tag/0.6.1), 6 months ago) - A Reporting library for for Ara Programming Language 📃
-- [ara-lang/highlighting](https://github.com/ara-lang/highlighting) ([v0.1.2](https://github.com/ara-lang/highlighting/releases/tag/v0.1.2), 7 months ago) - Ara Programming Language Syntax Highlighting for Visual Studio Code 🖌
-- [php-rust-tools/parser](https://github.com/php-rust-tools/parser) ([v0.1.0](https://github.com/php-rust-tools/parser/releases/tag/v0.1.0), 7 months ago) - A handwritten fault-tolerant, recursive-descent parser for PHP written in Rust.
+- [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 1 week ago) - Unix filesystem notifications library for PHP.
+- [azjezz/psl](https://github.com/azjezz/psl) ([2.9.1](https://github.com/azjezz/psl/releases/tag/2.9.1), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [bpolaszek/freddie](https://github.com/bpolaszek/freddie) ([0.4](https://github.com/bpolaszek/freddie/releases/tag/0.4), 6 months ago) - A Mercure Hub, written in PHP (8.1 &#43; ReactPHP)
+- [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) ([1.0.1](https://github.com/carthage-software/elissa-bundle/releases/tag/1.0.1), 10 months ago) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project.
+- [azjezz/tarjama](https://github.com/azjezz/tarjama) ([0.1.2](https://github.com/azjezz/tarjama/releases/tag/0.1.2), 2 years ago) - Tarjama: helps internationalize your rust applications 🌍🦀
 
 ---
 
