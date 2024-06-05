@@ -8,10 +8,10 @@ Curious what I've been working on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [neutomic/skeleton](https://github.com/neutomic/skeleton) - A minimal Neutomic project recommended to create simple web applications (1 day ago)
-- [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (1 day ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (6 days ago)
-- [azjezz/chitchat](https://github.com/azjezz/chitchat) -  (6 days ago)
+- [neutomic/skeleton](https://github.com/neutomic/skeleton) - A minimal Neutomic project recommended to create simple web applications (2 days ago)
+- [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (2 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
+- [azjezz/chitchat](https://github.com/azjezz/chitchat) -  (1 week ago)
 - [neutomic/neutomic.github.io](https://github.com/neutomic/neutomic.github.io) - Neutomic Documentation (1 week ago)
 - [neutomic/art](https://github.com/neutomic/art) - Neutomic Logo (1 week ago)
 - [azjezz/assess](https://github.com/azjezz/assess) - Unix filesystem notifications library for PHP. (2 weeks ago)
