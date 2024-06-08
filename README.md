@@ -1,26 +1,14 @@
-### Hey 👋
-
-I'm Saif Eddin, a Senior Software Engineer with experience at [@Bumble](https://bumble.com/), [@CoopTilleuls](https://les-tilleuls.coop/en), and [@Symfony SAS](https://symfony.com).
-
-Curious what I've been working on recently?
-
----
-
-#### 👷 Check out what I'm currently working on
+#### 👷 Recent Contributions
 
 - [neutomic/skeleton](https://github.com/neutomic/skeleton) - A minimal Neutomic project recommended to create simple web applications (1 day ago)
 - [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (1 day ago)
 - [azjezz/chitchat](https://github.com/azjezz/chitchat) -  (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
 - [neutomic/neutomic.github.io](https://github.com/neutomic/neutomic.github.io) - Neutomic Documentation (1 week ago)
-- [neutomic/art](https://github.com/neutomic/art) - Neutomic Logo (2 weeks ago)
-- [azjezz/assess](https://github.com/azjezz/assess) - Unix filesystem notifications library for PHP. (2 weeks ago)
-- [azjezz/actix-playground](https://github.com/azjezz/actix-playground) - just playing around with actix, ignore (1 month ago)
-- [azjezz/tarjama](https://github.com/azjezz/tarjama) - Tarjama: helps internationalize your rust applications 🌍🦀 (1 month ago)
 
 ---
 
-#### 🔭 Latest releases I've contributed to
+#### 🔭 Recent Releases
 
 - [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 2 weeks ago) - Unix filesystem notifications library for PHP.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.9.1](https://github.com/azjezz/psl/releases/tag/2.9.1), 2 months ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
@@ -30,15 +18,7 @@ Curious what I've been working on recently?
 
 ---
 
-#### 📊 My stats
-
-<img align="right" alt="azjezz's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=azjezz&count_private=1&show_icons=true&" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azjezz)
-
----
-
-#### 📫 How to reach me
+#### 📫 Contact
 
 - Twitter: [@azjezz](https://twitter.com/azjezz)
 - Keybase: [@azjezz](https://keybase.io/azjezz)
