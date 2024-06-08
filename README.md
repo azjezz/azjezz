@@ -1,6 +1,6 @@
 ### Hey 👋
 
-My name is Saif Eddin, I'm a Senior Engineer [@Bumble](https://bumble.com/), and previously [@CoopTilleuls](https://les-tilleuls.coop/en), and [@Symfony SAS](https://symfony.com). 
+My name is Saif Eddin, I'm a Software Engineer previously at [@Bumble](https://bumble.com/), [@CoopTilleuls](https://les-tilleuls.coop/en), and [@Symfony SAS](https://symfony.com). 
 
 Curious what I've been working on recently?
 
@@ -43,3 +43,6 @@ Curious what I've been working on recently?
 - Twitter: [@azjezz](https://twitter.com/azjezz)
 - Keybase: [@azjezz](https://keybase.io/azjezz)
 - Email: [azjezz@protonmail.com](mailto://azjezz@protonmail.com)
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://avatars.githubusercontent.com/u/29315886');]{x0000}$}
