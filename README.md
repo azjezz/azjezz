@@ -10,7 +10,7 @@
 
 - [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 1 month ago) - Unix filesystem notifications library for PHP.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.9.1](https://github.com/azjezz/psl/releases/tag/2.9.1), 2 months ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [bpolaszek/freddie](https://github.com/bpolaszek/freddie) ([0.4](https://github.com/bpolaszek/freddie/releases/tag/0.4), 7 months ago) - A Mercure Hub, written in PHP (8.1 &#43; ReactPHP)
+- [bpolaszek/freddie](https://github.com/bpolaszek/freddie) ([0.4](https://github.com/bpolaszek/freddie/releases/tag/0.4), 8 months ago) - A Mercure Hub, written in PHP (8.1 &#43; ReactPHP)
 
 ---
 
