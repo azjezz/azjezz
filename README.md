@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
 - [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (1 month ago)
 - [neutomic/skeleton](https://github.com/neutomic/skeleton) - A minimal Neutomic project recommended to create simple web applications (1 month ago)
-- [azjezz/chitchat](https://github.com/azjezz/chitchat) -  (1 month ago)
 
 ---
 
