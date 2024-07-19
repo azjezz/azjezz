@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 day ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 days ago)
 - [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (1 month ago)
 - [neutomic/skeleton](https://github.com/neutomic/skeleton) - A minimal Neutomic project recommended to create simple web applications (1 month ago)
 
@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 1 month ago) - Unix filesystem notifications library for PHP.
+- [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 2 months ago) - Unix filesystem notifications library for PHP.
 - [azjezz/psl](https://github.com/azjezz/psl) ([2.9.1](https://github.com/azjezz/psl/releases/tag/2.9.1), 3 months ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [bpolaszek/freddie](https://github.com/bpolaszek/freddie) ([0.4](https://github.com/bpolaszek/freddie/releases/tag/0.4), 8 months ago) - A Mercure Hub, written in PHP (8.1 &#43; ReactPHP)
 
