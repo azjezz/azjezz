@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [amphp/sync](https://github.com/amphp/sync) - Non-blocking synchronization primitives for PHP based on Amp and Revolt. (today)
+- [amphp/sync](https://github.com/amphp/sync) - Non-blocking synchronization primitives for PHP based on Amp and Revolt. (1 day ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 weeks ago)
 - [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (1 month ago)
 
