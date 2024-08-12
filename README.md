@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [azjezz/discern](https://github.com/azjezz/discern) -  (1 day ago)
+- [azjezz/discern](https://github.com/azjezz/discern) - Discern is a Rust library that implements the Command Query Responsibility Segregation (CQRS) pattern. (1 day ago)
 - [amphp/sync](https://github.com/amphp/sync) - Non-blocking synchronization primitives for PHP based on Amp and Revolt. (1 week ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
 
