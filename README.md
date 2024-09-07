@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([3.0.0](https://github.com/azjezz/psl/releases/tag/3.0.0), 2 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [azjezz/psl](https://github.com/azjezz/psl) ([3.0.0](https://github.com/azjezz/psl/releases/tag/3.0.0), 3 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [amphp/sync](https://github.com/amphp/sync) ([v2.3.0](https://github.com/amphp/sync/releases/tag/v2.3.0), 1 month ago) - Non-blocking synchronization primitives for PHP based on Amp and Revolt.
 - [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 3 months ago) - Unix filesystem notifications library for PHP.
 
