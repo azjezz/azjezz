@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (4 weeks ago)
+- [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (1 month ago)
 - [azjezz/discern](https://github.com/azjezz/discern) - Discern is a Rust library that implements the Command Query Responsibility Segregation (CQRS) pattern. (1 month ago)
 - [amphp/sync](https://github.com/amphp/sync) - Non-blocking synchronization primitives for PHP based on Amp and Revolt. (1 month ago)
 
