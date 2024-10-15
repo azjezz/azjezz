@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
+- [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (today)
 - [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (2 months ago)
 - [azjezz/discern](https://github.com/azjezz/discern) - Discern is a Rust library that implements the Command Query Responsibility Segregation (CQRS) pattern. (2 months ago)
-- [amphp/sync](https://github.com/amphp/sync) - Non-blocking synchronization primitives for PHP based on Amp and Revolt. (2 months ago)
 
 ---
 
