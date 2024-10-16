@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
 - [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (1 day ago)
 - [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (2 months ago)
-- [azjezz/discern](https://github.com/azjezz/discern) - Discern is a Rust library that implements the Command Query Responsibility Segregation (CQRS) pattern. (2 months ago)
 
 ---
 
