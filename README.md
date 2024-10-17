@@ -1,7 +1,7 @@
 #### 👷 Recent Contributions
 
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
-- [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (1 day ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 day ago)
+- [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (2 days ago)
 - [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (2 months ago)
 
 ---
@@ -10,7 +10,7 @@
 
 - [azjezz/psl](https://github.com/azjezz/psl) ([3.0.2](https://github.com/azjezz/psl/releases/tag/3.0.2), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [amphp/sync](https://github.com/amphp/sync) ([v2.3.0](https://github.com/amphp/sync/releases/tag/v2.3.0), 2 months ago) - Non-blocking synchronization primitives for PHP based on Amp and Revolt.
-- [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 4 months ago) - Unix filesystem notifications library for PHP.
+- [azjezz/assess](https://github.com/azjezz/assess) ([1.0.2](https://github.com/azjezz/assess/releases/tag/1.0.2), 5 months ago) - Unix filesystem notifications library for PHP.
 
 ---
 
