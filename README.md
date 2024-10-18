@@ -1,7 +1,7 @@
 #### 👷 Recent Contributions
 
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 day ago)
-- [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (2 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 days ago)
+- [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (3 days ago)
 - [php-rust-tools/codegen](https://github.com/php-rust-tools/codegen) - Generate PHP code from Rust using a fluent API 🐘 🦀 (2 months ago)
 
 ---
