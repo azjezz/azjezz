@@ -1,7 +1,7 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (3 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 weeks ago)
+- [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (4 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (4 weeks ago)
 - [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (4 weeks ago)
 
 ---
