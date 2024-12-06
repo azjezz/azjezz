@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
 - [carthage-software/fennec](https://github.com/carthage-software/fennec) - The Oxidized PHP Toolchain (today)
+- [carthage-software/fennec-playground](https://github.com/carthage-software/fennec-playground) - An experimental playground for the Fennec toolchain, showcasing its capabilities through WebAssembly. (today)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 month ago)
-- [carthage-software/carthage.software](https://github.com/carthage-software/carthage.software) -  (1 month ago)
 
 ---
 
