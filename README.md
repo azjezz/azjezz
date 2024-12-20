@@ -1,14 +1,14 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [carthage-software/fennec-playground](https://github.com/carthage-software/fennec-playground) - An experimental playground for the Fennec toolchain, showcasing its capabilities through WebAssembly. (1 week ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [carthage-software/fennec-playground](https://github.com/carthage-software/fennec-playground) - An experimental playground for the Fennec toolchain, showcasing its capabilities through WebAssembly. (2 weeks ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 months ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.0.12](https://github.com/carthage-software/mago/releases/tag/0.0.12), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.0.12](https://github.com/carthage-software/mago/releases/tag/0.0.12), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [azjezz/psl](https://github.com/azjezz/psl) ([3.1.0](https://github.com/azjezz/psl/releases/tag/3.1.0), 4 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [amphp/sync](https://github.com/amphp/sync) ([v2.3.0](https://github.com/amphp/sync/releases/tag/v2.3.0), 4 months ago) - Non-blocking synchronization primitives for PHP based on Amp and Revolt.
 
