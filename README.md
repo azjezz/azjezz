@@ -1,15 +1,15 @@
 #### 👷 Recent Contributions
 
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [carthage-software/fennec-playground](https://github.com/carthage-software/fennec-playground) - An experimental playground for the Fennec toolchain, showcasing its capabilities through WebAssembly. (1 month ago)
+- [azjezz/php-pretty-diff](https://github.com/azjezz/php-pretty-diff) - PHP &#43; Rust: How to use Rust code in a PHP project (today)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([3.2.0](https://github.com/azjezz/psl/releases/tag/3.2.0), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.3.0](https://github.com/carthage-software/mago/releases/tag/0.3.0), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [azjezz/psl](https://github.com/azjezz/psl) ([3.2.0](https://github.com/azjezz/psl/releases/tag/3.2.0), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.3.0](https://github.com/carthage-software/mago/releases/tag/0.3.0), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [amphp/sync](https://github.com/amphp/sync) ([v2.3.0](https://github.com/amphp/sync/releases/tag/v2.3.0), 5 months ago) - Non-blocking synchronization primitives for PHP based on Amp and Revolt.
 
 ---
