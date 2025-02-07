@@ -1,14 +1,14 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [carthage-software/mago-playground](https://github.com/carthage-software/mago-playground) - An online playground for trying out the Mago PHP linter &amp; formatter in your browser—no install required. (3 days ago)
-- [azjezz/php-pretty-diff](https://github.com/azjezz/php-pretty-diff) - PHP &#43; Rust: How to use Rust code in a PHP project (1 week ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [carthage-software/mago-playground](https://github.com/carthage-software/mago-playground) - An online playground for trying out the Mago PHP linter &amp; formatter in your browser—no install required. (4 days ago)
+- [azjezz/php-pretty-diff](https://github.com/azjezz/php-pretty-diff) - PHP &#43; Rust: How to use Rust code in a PHP project (2 weeks ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.9.0](https://github.com/carthage-software/mago/releases/tag/0.9.0), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.9.0](https://github.com/carthage-software/mago/releases/tag/0.9.0), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [azjezz/psl](https://github.com/azjezz/psl) ([3.2.0](https://github.com/azjezz/psl/releases/tag/3.2.0), 2 weeks ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [amphp/sync](https://github.com/amphp/sync) ([v2.3.0](https://github.com/amphp/sync/releases/tag/v2.3.0), 6 months ago) - Non-blocking synchronization primitives for PHP based on Amp and Revolt.
 
