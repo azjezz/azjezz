@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (2 days ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
 - [carthage-software/mago-playground](https://github.com/carthage-software/mago-playground) - An online playground for trying out the Mago PHP linter &amp; formatter in your browser—no install required. (2 weeks ago)
 - [azjezz/php-pretty-diff](https://github.com/azjezz/php-pretty-diff) - PHP &#43; Rust: How to use Rust code in a PHP project (3 weeks ago)
 
