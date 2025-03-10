@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.19.1](https://github.com/carthage-software/mago/releases/tag/0.19.1), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.19.2](https://github.com/carthage-software/mago/releases/tag/0.19.2), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [azjezz/psl](https://github.com/azjezz/psl) ([3.2.0](https://github.com/azjezz/psl/releases/tag/3.2.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [amphp/sync](https://github.com/amphp/sync) ([v2.3.0](https://github.com/amphp/sync/releases/tag/v2.3.0), 7 months ago) - Non-blocking synchronization primitives for PHP based on Amp and Revolt.
 
