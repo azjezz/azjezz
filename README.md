@@ -8,8 +8,8 @@
 
 #### 🔭 Recent Releases
 
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v1.3.1](https://github.com/tempestphp/tempest-framework/releases/tag/v1.3.1), 2 days ago) - The PHP framework that gets out of your way
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.26.1](https://github.com/carthage-software/mago/releases/tag/0.26.1), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v1.3.1](https://github.com/tempestphp/tempest-framework/releases/tag/v1.3.1), 3 days ago) - The PHP framework that gets out of your way
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([0.26.1](https://github.com/carthage-software/mago/releases/tag/0.26.1), 2 weeks ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [azjezz/psl](https://github.com/azjezz/psl) ([3.3.0](https://github.com/azjezz/psl/releases/tag/3.3.0), 1 month ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 
 ---
