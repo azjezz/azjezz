@@ -62,7 +62,7 @@ runs:
 
         SPONSORS_SNIPPET=""
         if [ -n "$SPONSORS_HTML" ]; then
-            SPONSORS_SNIPPET="## Our Sponsors\n\n$SPONSORS_HTML\n\n[See all sponsors](SPONSORS.md)"
+            SPONSORS_SNIPPET=$(printf "### Our Sponsors\n\n%s\n\n[See all sponsors](SPONSORS.md)" "$SPONSORS_HTML")
         fi
 
         export SPONSORS_SNIPPET

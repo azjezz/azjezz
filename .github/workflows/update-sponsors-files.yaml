@@ -1,9 +1,12 @@
 name: Update Sponsors Files
 
 on:
+  push:
+    branches:
+      - develop
+    paths:
+      - "sponsors.json"
   workflow_dispatch:
-  schedule:
-    - cron: "30 */12 * * *"
 
 jobs:
   generate:
@@ -21,4 +24,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore(sponsors): update sponsors"
-          file_pattern: "*.md.tpl"
+          file_pattern: "*.md *.md.tpl"

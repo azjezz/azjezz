@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "templates/README.md.tpl"
+      - "templates/**"
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   scribe-readme:
