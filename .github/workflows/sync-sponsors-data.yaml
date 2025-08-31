@@ -1,0 +1,24 @@
+name: Sync Sponsors Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate sponsors.json
+        run: bash scripts/generate-sponsors-file.sh
+        env:
+          GH_TOKEN: ${{ secrets.SPONSORS_PAT }}
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore(sponsors): update sponsors.json"
+          file_pattern: sponsors.json

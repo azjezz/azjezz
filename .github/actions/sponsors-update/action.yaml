@@ -1,0 +1,63 @@
+name: "Update Sponsors"
+description: "Fetches sponsors and updates markdown files."
+inputs:
+  files-to-update:
+    description: "A space-separated list of files to update"
+    required: false
+    default: "README.md"
+runs:
+  using: "composite"
+  steps:
+    - name: Generate SPONSORS.md and update files
+      shell: bash
+      run: |
+        curl -sSL https://raw.githubusercontent.com/azjezz/azjezz/main/sponsors.json -o sponsors.json
+
+        OUTPUT_FILE="SPONSORS.md"
+        (cat <<EOF
+        # Sponsors
+
+        A heartfelt thank you to the generous individuals and organizations listed below. Their support is instrumental in the continued development and maintenance of [Psl](https://github.com/azjezz/psl) and [Mago](https://github.com/carthage-software/mago).
+
+        To become a sponsor, please visit [the sponsorship page](https://github.com/sponsors/azjezz).
+
+        ---
+
+        EOF
+        ) > "$OUTPUT_FILE"
+
+        jq -r 'keys | map(tonumber) | sort | reverse | map(tostring) | .[]' sponsors.json | while read -r key; do
+            TIER_AMOUNT=$(echo "$key" | sed 's/"//g')
+            echo "## Tier: \$$TIER_AMOUNT/month" >> "$OUTPUT_FILE"
+            echo "" >> "$OUTPUT_FILE"
+
+            jq -r --arg key "$key" '.[$key][] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><img src=\"\(.avatarUrl)\" width=\"80\" height=\"80\" alt=\"\(.name)\" /></a>"' sponsors.json | tr -d '\n' >> "$OUTPUT_FILE"
+
+            echo "" >> "$OUTPUT_FILE"
+            echo "" >> "$OUTPUT_FILE"
+        done
+
+        TIERS_TO_SHOW=(500 250 100 25)
+        SIZES=(120 100 80 60)
+        SPONSORS_HTML=""
+
+        for i in "${!TIERS_TO_SHOW[@]}"; do
+          tier=${TIERS_TO_SHOW[$i]}
+          size=${SIZES[$i]}
+          sponsors=$(jq -r --arg key "$tier" --argjson size "$size" '.[$key] // [] | .[] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><img src=\"\(.avatarUrl)&s=\(size)\" width=\"\(size)\" height=\"\(size)\" alt=\"\(.name)\" /></a>"' sponsors.json | tr -d '\n')
+          if [ -n "$sponsors" ]; then
+            SPONSORS_HTML="$SPONSORS_HTML$sponsors"
+          fi
+        done
+
+
+        SPONSORS_SNIPPET=""
+        if [ -n "$SPONSORS_HTML" ]; then
+            SPONSORS_SNIPPET="<p align=\"center\">$SPONSORS_HTML</p>\n\n[See all sponsors](SPONSORS.md)"
+        fi
+
+        for file in ${{ inputs.files-to-update }}; do
+          if [ -f "$file" ]; then
+            perl -i -p0e "s/<!-- START-SPONSORS -->.*<!-- END-SPONSORS -->/<!-- START-SPONSORS -->\n$SPONSORS_SNIPPET\n<!-- END-SPONSORS -->/s" "$file"
+          fi
+        done
