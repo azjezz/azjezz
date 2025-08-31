@@ -34,16 +34,19 @@ runs:
         EOF
         ) > "$OUTPUT_FILE"
 
-        jq -r 'keys | map(tonumber) | sort | reverse | map(tostring) | .[]' sponsors.json | while read -r key;
-        do
-            TIER_AMOUNT=$(echo "$key" | sed 's/"//g')
-            echo "## Tier: \$$TIER_AMOUNT/month" >> "$OUTPUT_FILE"
-            echo "" >> "$OUTPUT_FILE"
-
-            jq -r --arg key "$key" '.[$key][] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><kbd><img src=\"\(.avatarUrl)\" width=\"80\" height=\"80\" alt=\"\(.name)\" /></kbd></a>"' sponsors.json | tr -d '\n' >> "$OUTPUT_FILE"
-
-            echo "" >> "$OUTPUT_FILE"
-            echo "" >> "$OUTPUT_FILE"
+        KEYS=$(jq -r 'keys | map(tonumber) | sort | reverse | map(tostring) | .[]' sponsors.json)
+        COUNT=0
+        for key in $KEYS; do
+            GROUP_HTML=$(jq -r --arg key "$key" '.[$key][] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><kbd><img src=\"\(.avatarUrl)&s=160\" width=\"80\" height=\"80\" alt=\"\(.name)\" /></kbd></a>"' sponsors.json | tr -d '\n')
+            if [ -n "$GROUP_HTML" ]; then
+                if [ $COUNT -gt 0 ]; then
+                    echo "" >> "$OUTPUT_FILE"
+                    echo "---" >> "$OUTPUT_FILE"
+                    echo "" >> "$OUTPUT_FILE"
+                fi
+                echo "$GROUP_HTML" >> "$OUTPUT_FILE"
+                COUNT=$((COUNT + 1))
+            fi
         done
 
         TIERS_TO_SHOW=(500 250 100 50 25)
@@ -53,8 +56,9 @@ runs:
         for i in "${!TIERS_TO_SHOW[@]}"; do
           tier=${TIERS_TO_SHOW[$i]}
           size=${SIZES[$i]}
-          sponsors_template=$(jq -r --arg key "$tier" '.[$key] // [] | .[] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><kbd><img src=\"\(.avatarUrl)&s=__SIZE__\" width=\"__SIZE__\" height=\"__SIZE__\" alt=\"\(.name)\" /></kbd></a>"' sponsors.json | tr -d '\n')
-          sponsors=$(echo "$sponsors_template" | sed "s/__SIZE__/$size/g")
+          double_size=$((size * 2))
+          sponsors_template=$(jq -r --arg key "$tier" '.[$key] // [] | .[] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><kbd><img src=\"\(.avatarUrl)&s=__DOUBLE_SIZE__\" width=\"__SIZE__\" height=\"__SIZE__\" alt=\"\(.name)\" /></kbd></a>"' sponsors.json | tr -d '\n')
+          sponsors=$(echo "$sponsors_template" | sed "s/__SIZE__/$size/g" | sed "s/__DOUBLE_SIZE__/$double_size/g")
           if [ -n "$sponsors" ]; then
             SPONSORS_HTML="$SPONSORS_HTML<p align=\"center\">$sponsors</p>"
           fi
