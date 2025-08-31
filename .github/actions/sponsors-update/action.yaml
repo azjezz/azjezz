@@ -11,7 +11,15 @@ runs:
     - name: Generate SPONSORS.md and update files
       shell: bash
       run: |
-        curl -sSL https://raw.githubusercontent.com/azjezz/azjezz/main/sponsors.json -o sponsors.json
+        curl -sSL https://raw.githubusercontent.com/azjezz/azjezz/develop/sponsors.json -o sponsors.json
+
+        # Verify that the downloaded file is valid JSON
+        if ! jq -e . sponsors.json > /dev/null 2>&1;
+        then
+          echo "Error: Downloaded sponsors.json is not valid JSON. Content:"
+          cat sponsors.json
+          exit 1
+        fi
 
         OUTPUT_FILE="SPONSORS.md"
         (cat <<EOF
@@ -26,38 +34,41 @@ runs:
         EOF
         ) > "$OUTPUT_FILE"
 
-        jq -r 'keys | map(tonumber) | sort | reverse | map(tostring) | .[]' sponsors.json | while read -r key; do
+        jq -r 'keys | map(tonumber) | sort | reverse | map(tostring) | .[]' sponsors.json | while read -r key;
+        do
             TIER_AMOUNT=$(echo "$key" | sed 's/"//g')
             echo "## Tier: \$$TIER_AMOUNT/month" >> "$OUTPUT_FILE"
             echo "" >> "$OUTPUT_FILE"
 
-            jq -r --arg key "$key" '.[$key][] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><img src=\"\(.avatarUrl)\" width=\"80\" height=\"80\" alt=\"\(.name)\" /></a>"' sponsors.json | tr -d '\n' >> "$OUTPUT_FILE"
+            jq -r --arg key "$key" '.[$key][] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><kbd><img src=\"\(.avatarUrl)\" width=\"80\" height=\"80\" alt=\"\(.name)\" /></kbd></a>"' sponsors.json | tr -d '\n' >> "$OUTPUT_FILE"
 
             echo "" >> "$OUTPUT_FILE"
             echo "" >> "$OUTPUT_FILE"
         done
 
-        TIERS_TO_SHOW=(500 250 100 25)
-        SIZES=(120 100 80 60)
+        TIERS_TO_SHOW=(500 250 100 50 25)
+        SIZES=(140 120 100 80 60)
         SPONSORS_HTML=""
 
         for i in "${!TIERS_TO_SHOW[@]}"; do
           tier=${TIERS_TO_SHOW[$i]}
           size=${SIZES[$i]}
-          sponsors=$(jq -r --arg key "$tier" --argjson size "$size" '.[$key] // [] | .[] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><img src=\"\(.avatarUrl)&s=\(size)\" width=\"\(size)\" height=\"\(size)\" alt=\"\(.name)\" /></a>"' sponsors.json | tr -d '\n')
+          sponsors_template=$(jq -r --arg key "$tier" '.[$key] // [] | .[] | "<a href=\"https://github.com/\(.login)\" title=\"\(.name)\"><kbd><img src=\"\(.avatarUrl)&s=__SIZE__\" width=\"__SIZE__\" height=\"__SIZE__\" alt=\"\(.name)\" /></kbd></a>"' sponsors.json | tr -d '\n')
+          sponsors=$(echo "$sponsors_template" | sed "s/__SIZE__/$size/g")
           if [ -n "$sponsors" ]; then
-            SPONSORS_HTML="$SPONSORS_HTML$sponsors"
+            SPONSORS_HTML="$SPONSORS_HTML<p align=\"center\">$sponsors</p>"
           fi
         done
 
-
         SPONSORS_SNIPPET=""
         if [ -n "$SPONSORS_HTML" ]; then
-            SPONSORS_SNIPPET="<p align=\"center\">$SPONSORS_HTML</p>\n\n[See all sponsors](SPONSORS.md)"
+            SPONSORS_SNIPPET="## Our Sponsors\n\n$SPONSORS_HTML\n\n[See all sponsors](SPONSORS.md)"
         fi
 
-        for file in ${{ inputs.files-to-update }}; do
+        export SPONSORS_SNIPPET
+        for file in ${{ inputs.files-to-update }};
+        do
           if [ -f "$file" ]; then
-            perl -i -p0e "s/<!-- START-SPONSORS -->.*<!-- END-SPONSORS -->/<!-- START-SPONSORS -->\n$SPONSORS_SNIPPET\n<!-- END-SPONSORS -->/s" "$file"
+            perl -i -p0e 's#<!-- START-SPONSORS -->.*<!-- END-SPONSORS -->#<!-- START-SPONSORS -->\n$ENV{SPONSORS_SNIPPET}\n<!-- END-SPONSORS -->#s' "$file"
           fi
         done

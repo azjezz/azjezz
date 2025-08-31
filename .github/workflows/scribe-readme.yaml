@@ -1,7 +1,10 @@
 name: "scribe readme"
 
 on:
+  workflow_dispatch:
   push:
+    paths:
+      - "templates/README.md.tpl"
   schedule:
     - cron: "0 */1 * * *"
 
