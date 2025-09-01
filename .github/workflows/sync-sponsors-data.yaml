@@ -15,7 +15,7 @@ jobs:
       - name: Generate sponsors.json
         run: bash scripts/generate-sponsors-file.sh
         env:
-          GH_TOKEN: ${{ secrets.SPONSORS_PAT }}
+          GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
