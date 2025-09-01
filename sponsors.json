@@ -1,1 +1,80 @@
-{}
+{
+  "5": [
+    {
+      "login": "Zuruuh",
+      "name": "Zuruh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/77583853?u=568441a6191e891cf4c9f52c9c230c45930bed86&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
+      "login": "M-arcus",
+      "name": "Marcus Müller",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/25648755?u=ed5653c75b47a8da04dd642ce15a5efb09778b1e&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
+      "login": "innocenzi",
+      "name": "Enzo Innocenzi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16060559?u=cf061757407ef529958cf24bac8d2f699ad6e6ed&v=4",
+      "websiteUrl": "https://innocenzi.dev",
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
+      "login": "devnix",
+      "name": "Pablo Largo Mohedano",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1777519?v=4",
+      "websiteUrl": "https://devnix.dev/",
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
+      "login": "sasezaki",
+      "name": "sasezaki",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42755?u=d22dcc9658be989a1b656d56e2c847308a503de5&v=4",
+      "websiteUrl": "https://github.com/struggle-for-php/",
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": true,
+      "isOneTime": true
+    }
+  ],
+  "25": [
+    {
+      "login": "TicketSwap",
+      "name": "TicketSwap",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5766233?v=4",
+      "websiteUrl": "https://www.ticketswap.com",
+      "monthlyPriceInDollars": 25,
+      "isCustomAmount": false,
+      "isOneTime": false
+    }
+  ],
+  "50": [
+    {
+      "login": "jasonrm",
+      "name": "Jason R. McNeil",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/39949?u=69c0e4fb08c439250978d41dbc3371d2f0609b98&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 50,
+      "isCustomAmount": true,
+      "isOneTime": false
+    },
+    {
+      "login": "vvvinceocam",
+      "name": "Vincent Berset",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5173120?u=95efc76cd8fc804536dc6dd25781a95b650bf902&v=4",
+      "websiteUrl": "https://ofcompute.rs/",
+      "monthlyPriceInDollars": 50,
+      "isCustomAmount": true,
+      "isOneTime": false
+    }
+  ]
+}
