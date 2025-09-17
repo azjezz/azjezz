@@ -53,15 +53,6 @@
       "monthlyPriceInDollars": 5,
       "isCustomAmount": false,
       "isOneTime": false
-    },
-    {
-      "login": "sasezaki",
-      "name": "sasezaki",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/42755?u=d22dcc9658be989a1b656d56e2c847308a503de5&v=4",
-      "websiteUrl": "https://github.com/struggle-for-php/",
-      "monthlyPriceInDollars": 5,
-      "isCustomAmount": true,
-      "isOneTime": true
     }
   ],
   "25": [
