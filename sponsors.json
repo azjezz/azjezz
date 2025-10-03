@@ -10,15 +10,6 @@
       "isOneTime": false
     },
     {
-      "login": "Perer876",
-      "name": "Oscar Arámbula",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/70984218?u=fdccafb167a39f945b4e84eb3c6845fa7ca66e8d&v=4",
-      "websiteUrl": null,
-      "monthlyPriceInDollars": 5,
-      "isCustomAmount": true,
-      "isOneTime": true
-    },
-    {
       "login": "M-arcus",
       "name": "Marcus Müller",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25648755?u=ed5653c75b47a8da04dd642ce15a5efb09778b1e&v=4",
