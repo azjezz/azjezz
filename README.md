@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.32](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.32), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.34](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.34), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [carthage-software/elissa-bundle](https://github.com/carthage-software/elissa-bundle) ([2.0.1](https://github.com/carthage-software/elissa-bundle/releases/tag/2.0.1), 1 week ago) - Elissa Bundle by Carthage brings out-of-the-box PSR-7 and PSR-15 support to your Symfony project.
 - [azjezz/psl](https://github.com/azjezz/psl) ([4.0.1](https://github.com/azjezz/psl/releases/tag/4.0.1), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 
