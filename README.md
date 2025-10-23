@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
+- [azjezz/psl](https://github.com/azjezz/psl) ([4.1.0](https://github.com/azjezz/psl/releases/tag/4.1.0), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.0.0-rc.2](https://github.com/carthage-software/cel-php/releases/tag/1.0.0-rc.2), 1 day ago) - Fast, portable, non-Turing complete expression evaluation (PHP) 
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v2.4.0](https://github.com/tempestphp/tempest-framework/releases/tag/v2.4.0), 1 day ago) - The PHP framework that gets out of your way
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-beta.34](https://github.com/carthage-software/mago/releases/tag/1.0.0-beta.34), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 
 ---
 
