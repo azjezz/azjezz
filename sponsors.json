@@ -66,6 +66,15 @@
   ],
   "25": [
     {
+      "login": "kambo-1st",
+      "name": "Bohuslav Šimek",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6493048?u=5eddf1eb923810745d8bdd62496d245238833d07&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 25,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "TicketSwap",
       "name": "TicketSwap",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5766233?v=4",
