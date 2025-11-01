@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
-- [azjezz/psl](https://github.com/azjezz/psl) ([4.2.0](https://github.com/azjezz/psl/releases/tag/4.2.0), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 3 days ago) - The Symfony PHP framework
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.0.0](https://github.com/carthage-software/cel-php/releases/tag/1.0.0), 4 days ago) - Fast, portable, non-Turing complete expression evaluation (PHP) 
+- [azjezz/psl](https://github.com/azjezz/psl) ([4.2.0](https://github.com/azjezz/psl/releases/tag/4.2.0), 2 days ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.5](https://github.com/symfony/symfony/releases/tag/v7.3.5), 4 days ago) - The Symfony PHP framework
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.0.0](https://github.com/carthage-software/cel-php/releases/tag/1.0.0), 5 days ago) - Fast, portable, non-Turing complete expression evaluation (PHP) 
 
 ---
 
