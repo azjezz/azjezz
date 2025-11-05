@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [azjezz/php-syntax-analyzer](https://github.com/azjezz/php-syntax-analyzer) - Analyzes PHP packages to assess the impact of making keywords reserved in PHP. (1 day ago)
+- [azjezz/keyword-impact-analyzer](https://github.com/azjezz/keyword-impact-analyzer) - A tool to analyze keyword usage across PHP packages to assess the impact of reserving new keywords in PHP. (today)
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (4 days ago)
 - [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 week ago)
 
