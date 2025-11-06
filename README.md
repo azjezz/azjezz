@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v2.5.0](https://github.com/tempestphp/tempest-framework/releases/tag/v2.5.0), today) - The PHP framework that gets out of your way
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-BETA2](https://github.com/symfony/symfony/releases/tag/v8.0.0-BETA2), 4 days ago) - The Symfony PHP framework
 - [azjezz/psl](https://github.com/azjezz/psl) ([4.2.0](https://github.com/azjezz/psl/releases/tag/4.2.0), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.0.0](https://github.com/carthage-software/cel-php/releases/tag/1.0.0), 1 week ago) - Fast, portable, non-Turing complete expression evaluation (PHP) 
 
 ---
 
