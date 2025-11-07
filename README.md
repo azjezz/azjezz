@@ -8,8 +8,8 @@
 
 #### 🔭 Recent Releases
 
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v2.6.3](https://github.com/tempestphp/tempest-framework/releases/tag/v2.6.3), today) - The PHP framework that gets out of your way
 - [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.6](https://github.com/symfony/symfony/releases/tag/v7.3.6), 1 day ago) - The Symfony PHP framework
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v2.5.0](https://github.com/tempestphp/tempest-framework/releases/tag/v2.5.0), 1 day ago) - The PHP framework that gets out of your way
 - [azjezz/psl](https://github.com/azjezz/psl) ([4.2.0](https://github.com/azjezz/psl/releases/tag/4.2.0), 1 week ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
 
 ---
