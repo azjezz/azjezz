@@ -1,7 +1,7 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (2 days ago)
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (2 days ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (today)
 - [azjezz/keyword-impact-analyzer](https://github.com/azjezz/keyword-impact-analyzer) - A tool to analyze keyword usage across PHP packages to assess the impact of reserving new keywords in PHP. (4 days ago)
 
 ---
