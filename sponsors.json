@@ -82,6 +82,15 @@
       "monthlyPriceInDollars": 25,
       "isCustomAmount": false,
       "isOneTime": false
+    },
+    {
+      "login": "nhedger",
+      "name": "Nicolas Hedger",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/649677?u=d9fcfc3a22388899200af6b7e41df1aef5f518de&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 25,
+      "isCustomAmount": false,
+      "isOneTime": false
     }
   ],
   "50": [
