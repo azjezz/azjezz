@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v7.3.7](https://github.com/symfony/symfony/releases/tag/v7.3.7), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), today) - The Symfony PHP framework
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.1.0](https://github.com/carthage-software/cel-php/releases/tag/1.1.0), 1 day ago) - Fast, portable, non-Turing complete expression evaluation (PHP) 
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.1](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.1), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 
