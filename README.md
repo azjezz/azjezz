@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (2 days ago)
-- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 days ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (3 days ago)
+- [azjezz/psl](https://github.com/azjezz/psl) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (3 days ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v2.9.1](https://github.com/tempestphp/tempest-framework/releases/tag/v2.9.1), today) - The PHP framework that gets out of your way
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.2](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.2), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), 1 day ago) - The Symfony PHP framework
+- [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v2.9.1](https://github.com/tempestphp/tempest-framework/releases/tag/v2.9.1), 1 day ago) - The PHP framework that gets out of your way
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.2](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.2), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), 2 days ago) - The Symfony PHP framework
 
 ---
 
