@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC2](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC2), today) - The Symfony PHP framework
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.0.0-rc.3](https://github.com/carthage-software/mago/releases/tag/1.0.0-rc.3), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v2.9.1](https://github.com/tempestphp/tempest-framework/releases/tag/v2.9.1), 2 days ago) - The PHP framework that gets out of your way
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.0.0-RC1), 3 days ago) - The Symfony PHP framework
 
 ---
 
