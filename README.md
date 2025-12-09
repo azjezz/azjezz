@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (today)
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
 - [azjezz/advent-of-code-2025](https://github.com/azjezz/advent-of-code-2025) -  (3 days ago)
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (5 days ago)
 
 ---
 
