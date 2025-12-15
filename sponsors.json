@@ -37,15 +37,6 @@
       "isOneTime": false
     },
     {
-      "login": "tallesborges",
-      "name": "Talles ",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/3486359?u=e6b8138c20c54146f8f7102aab8ba378f4c7d213&v=4",
-      "websiteUrl": "tallesborges.com",
-      "monthlyPriceInDollars": 5,
-      "isCustomAmount": false,
-      "isOneTime": false
-    },
-    {
       "login": "devnix",
       "name": "Pablo Largo Mohedano",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1777519?v=4",
