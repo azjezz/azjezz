@@ -55,6 +55,17 @@
       "isOneTime": false
     }
   ],
+  "10": [
+    {
+      "login": "afilina",
+      "name": "Anna Filina",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/199835?u=d133afc4e19961b7da45b6bb485ed9ac9232e4bb&v=4",
+      "websiteUrl": "https://afilina.com",
+      "monthlyPriceInDollars": 10,
+      "isCustomAmount": true,
+      "isOneTime": false
+    }
+  ],
   "25": [
     {
       "login": "kambo-1st",
