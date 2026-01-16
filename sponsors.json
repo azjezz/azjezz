@@ -106,6 +106,17 @@
       "isOneTime": false
     }
   ],
+  "150": [
+    {
+      "login": "dynasource",
+      "name": "Boudewijn Vahrmeijer",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/125726?u=f2a45c40beb5e1071e9cd713793348fea08f7986&v=4",
+      "websiteUrl": "http://www.dynasource.eu",
+      "monthlyPriceInDollars": 150,
+      "isCustomAmount": false,
+      "isOneTime": true
+    }
+  ],
   "300": [
     {
       "login": "JetBrainsOfficial",
