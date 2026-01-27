@@ -57,6 +57,15 @@
   ],
   "10": [
     {
+      "login": "ace-of-aces",
+      "name": "Julian Schramm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/79840527?u=2e15d0ec9e6d0bf6554ef69af6b1dba32a051417&v=4",
+      "websiteUrl": "julian.center",
+      "monthlyPriceInDollars": 10,
+      "isCustomAmount": true,
+      "isOneTime": false
+    },
+    {
       "login": "afilina",
       "name": "Anna Filina",
       "avatarUrl": "https://avatars.githubusercontent.com/u/199835?u=d133afc4e19961b7da45b6bb485ed9ac9232e4bb&v=4",
