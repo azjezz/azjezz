@@ -46,6 +46,15 @@
       "isOneTime": false
     },
     {
+      "login": "ddanielou",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1174337?v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "JacerOmri",
       "name": "Jacer OMRI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/537996?u=6d425f3166884ff0c0da4ffc252d6388c9940714&v=4",
