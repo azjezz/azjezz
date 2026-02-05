@@ -28,6 +28,15 @@
       "isOneTime": false
     },
     {
+      "login": "sdrewergutland",
+      "name": "Sebastian Drewer-Gutland",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/16477894?u=fd958b1c5c1ddc9259a5dd7dfa6dadc9ace88a11&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "innocenzi",
       "name": "Enzo Innocenzi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16060559?u=4c0ac72d014627d9dce1fa42e530b9491dc9cfae&v=4",
