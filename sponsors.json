@@ -113,6 +113,15 @@
   ],
   "25": [
     {
+      "login": "HeySora",
+      "name": "HeySora",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/17962248?u=3cd88b4479a0dd018738612569d0954c81cdd25f&v=4",
+      "websiteUrl": "https://heysora.net/",
+      "monthlyPriceInDollars": 25,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "kambo-1st",
       "name": "Bohuslav Šimek",
       "avatarUrl": "https://avatars.githubusercontent.com/u/6493048?u=5eddf1eb923810745d8bdd62496d245238833d07&v=4",
