@@ -102,6 +102,15 @@
       "isOneTime": false
     },
     {
+      "login": "Rasmus-Bertell",
+      "name": "Rasmus Bertell",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/57398362?u=f9bb382310c9552de2a7a82193c86fb94750e971&v=4",
+      "websiteUrl": "https://bertell.fi",
+      "monthlyPriceInDollars": 10,
+      "isCustomAmount": true,
+      "isOneTime": false
+    },
+    {
       "login": "afilina",
       "name": "Anna Filina",
       "avatarUrl": "https://avatars.githubusercontent.com/u/199835?u=d133afc4e19961b7da45b6bb485ed9ac9232e4bb&v=4",
