@@ -19,6 +19,15 @@
       "isOneTime": false
     },
     {
+      "login": "giorgiopogliani",
+      "name": "Giorgio Pogliani",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/28866565?v=4",
+      "websiteUrl": "https://performingdigital.com",
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "M-arcus",
       "name": "Marcus Müller",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25648755?u=ed5653c75b47a8da04dd642ce15a5efb09778b1e&v=4",
