@@ -28,15 +28,6 @@
       "isOneTime": false
     },
     {
-      "login": "M-arcus",
-      "name": "Marcus Müller",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/25648755?u=ed5653c75b47a8da04dd642ce15a5efb09778b1e&v=4",
-      "websiteUrl": null,
-      "monthlyPriceInDollars": 5,
-      "isCustomAmount": false,
-      "isOneTime": false
-    },
-    {
       "login": "sdrewergutland",
       "name": "Sebastian Drewer-Gutland",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16477894?u=fd958b1c5c1ddc9259a5dd7dfa6dadc9ace88a11&v=4",
@@ -82,15 +73,6 @@
       "isOneTime": false
     },
     {
-      "login": "ddanielou",
-      "name": null,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1174337?v=4",
-      "websiteUrl": null,
-      "monthlyPriceInDollars": 5,
-      "isCustomAmount": false,
-      "isOneTime": false
-    },
-    {
       "login": "JacerOmri",
       "name": "Jacer OMRI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/537996?u=6d425f3166884ff0c0da4ffc252d6388c9940714&v=4",
@@ -115,6 +97,15 @@
       "name": "Rasmus Bertell",
       "avatarUrl": "https://avatars.githubusercontent.com/u/57398362?u=f9bb382310c9552de2a7a82193c86fb94750e971&v=4",
       "websiteUrl": "https://bertell.fi",
+      "monthlyPriceInDollars": 10,
+      "isCustomAmount": true,
+      "isOneTime": false
+    },
+    {
+      "login": "ddanielou",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1174337?v=4",
+      "websiteUrl": null,
       "monthlyPriceInDollars": 10,
       "isCustomAmount": true,
       "isOneTime": false
