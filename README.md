@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
+- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.0.4](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.4), today) - PHPStan Integration for PHP Standard Library
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.2.0](https://github.com/carthage-software/cel-php/releases/tag/1.2.0), today) - Fast, portable, non-Turing complete expression evaluation (PHP) 
 - [tempestphp/tempest-framework](https://github.com/tempestphp/tempest-framework) ([v3.4.1](https://github.com/tempestphp/tempest-framework/releases/tag/v3.4.1), 3 days ago) - The PHP framework that gets out of your way
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.14.1](https://github.com/carthage-software/mago/releases/tag/1.14.1), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 
 ---
 
