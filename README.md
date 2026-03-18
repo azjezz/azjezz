@@ -2,15 +2,15 @@
 
 - [php-standard-library/io](https://github.com/php-standard-library/io) - Handle-based I/O abstractions - composable, testable, and async-ready (today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
-- [php-standard-library/str](https://github.com/php-standard-library/str) - Unicode-aware string functions replacing PHP mb_* and standard string functions (today)
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (today)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.0.3](https://github.com/php-standard-library/php-standard-library/releases/tag/6.0.3), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.0.4](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.0.4), 1 day ago) - PHPStan Integration for PHP Standard Library
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.2.0](https://github.com/carthage-software/cel-php/releases/tag/1.2.0), 1 day ago) - Fast, portable, non-Turing complete expression evaluation (PHP) 
+- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), today) - PHPStan Integration for PHP Standard Library
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.15.0](https://github.com/carthage-software/mago/releases/tag/1.15.0), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([1.2.1](https://github.com/carthage-software/cel-php/releases/tag/1.2.1), today) - Fast, portable, non-Turing complete expression evaluation (PHP) 
 
 ---
 
