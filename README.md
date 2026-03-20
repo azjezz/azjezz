@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 day ago)
-- [php-standard-library/compression](https://github.com/php-standard-library/compression) - Streaming compression and decompression abstractions for IO handles. (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
+- [php-standard-library/crypto](https://github.com/php-standard-library/crypto) - Comprehensive cryptography toolkit built on libsodium - symmetric, asymmetric, AEAD, signing, key exchange, and KDF (1 day ago)
 
 ---
 
