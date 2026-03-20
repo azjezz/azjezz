@@ -80,6 +80,15 @@
       "monthlyPriceInDollars": 5,
       "isCustomAmount": false,
       "isOneTime": false
+    },
+    {
+      "login": "drealecs",
+      "name": "Alexandru Pătrănescu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/209984?v=4",
+      "websiteUrl": "http://alexandru.patranescu.ro",
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
     }
   ],
   "10": [
