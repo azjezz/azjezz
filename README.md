@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
+- [php-standard-library/ip](https://github.com/php-standard-library/ip) - Immutable, binary-backed value object for IPv4 and IPv6 addresses with parsing, classification, and comparison (today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
-- [php-standard-library/crypto](https://github.com/php-standard-library/crypto) - Comprehensive cryptography toolkit built on libsodium - symmetric, asymmetric, AEAD, signing, key exchange, and KDF (1 day ago)
+- [php-standard-library/compression](https://github.com/php-standard-library/compression) - Streaming compression and decompression abstractions for IO handles. (today)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.1.0](https://github.com/php-standard-library/php-standard-library/releases/tag/6.1.0), 1 day ago) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
-- [php-standard-library/class](https://github.com/php-standard-library/class) ([6.1.0](https://github.com/php-standard-library/class/releases/tag/6.1.0), 1 day ago) - Type-safe wrappers around PHP class reflection and existence checks
-- [php-standard-library/iter](https://github.com/php-standard-library/iter) ([6.1.0](https://github.com/php-standard-library/iter/releases/tag/6.1.0), 1 day ago) - Utility functions for inspecting and reducing iterables - arrays, generators, and iterators
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.1.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.1.1), today) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers
+- [php-standard-library/class](https://github.com/php-standard-library/class) ([6.1.1](https://github.com/php-standard-library/class/releases/tag/6.1.1), today) - Type-safe wrappers around PHP class reflection and existence checks
+- [php-standard-library/math](https://github.com/php-standard-library/math) ([6.1.1](https://github.com/php-standard-library/math/releases/tag/6.1.1), today) - Mathematical functions with strict typing and predictable error handling
 
 ---
 
