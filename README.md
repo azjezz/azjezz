@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/iri](https://github.com/php-standard-library/iri) - RFC 3987 compliant Internationalized Resource Identifier (IRI) parsing, construction, and manipulation. (1 day ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 day ago)
-- [php-standard-library/compression](https://github.com/php-standard-library/compression) - Streaming compression and decompression abstractions for IO handles. (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
+- [php-standard-library/ansi](https://github.com/php-standard-library/ansi) - Pure functions for constructing ANSI escape sequences - text styling, colors, cursor movement, and screen manipulation (1 day ago)
+- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) - :ab: Tool to compare two revisions of a class API to check for BC breaks (1 day ago)
 
 ---
 
