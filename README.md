@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/collection](https://github.com/php-standard-library/collection) - Generic, object-oriented Vector, Map, and Set collections with immutable and mutable variants (today)
+- [php-standard-library/filesystem](https://github.com/php-standard-library/filesystem) - Type-safe functions for file system operations with proper exception handling (today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
-- [php-standard-library/mime](https://github.com/php-standard-library/mime) - MIME type detection and mapping. (today)
+- [php-standard-library/message](https://github.com/php-standard-library/message) - RFC 5322 internet message construction and parsing. (today)
 
 ---
 
