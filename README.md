@@ -2,7 +2,7 @@
 
 - [php-standard-library/encoding](https://github.com/php-standard-library/encoding) - Binary-to-text encoding: Base64 (multiple variants), Hex, and QuotedPrintable with streaming support (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (1 day ago)
-- [php-standard-library/dnssec](https://github.com/php-standard-library/dnssec) - DNSSEC validation with full trust chain verification, RRSIG signatures, and NSEC/NSEC3 proofs (1 day ago)
+- [php-standard-library/smtp](https://github.com/php-standard-library/smtp) - RFC 5321 SMTP client for sending messages. (1 day ago)
 
 ---
 
