@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/encoding](https://github.com/php-standard-library/encoding) - Binary-to-text encoding: Base64 (multiple variants), Hex, and QuotedPrintable with streaming support (2 days ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (2 days ago)
-- [php-standard-library/smtp](https://github.com/php-standard-library/smtp) - RFC 5321 SMTP client for sending messages. (2 days ago)
+- [php-standard-library/http-message](https://github.com/php-standard-library/http-message) - HTTP message abstractions for requests, responses, and headers. (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - 📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers (today)
+- [php-standard-library/http-client](https://github.com/php-standard-library/http-client) - Async HTTP client with connection pooling, HTTP/1, and HTTP/2. (today)
 
 ---
 
