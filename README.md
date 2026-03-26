@@ -2,7 +2,7 @@
 
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
-- [php-standard-library/dnssec](https://github.com/php-standard-library/dnssec) - DNSSEC validation with full trust chain verification, RRSIG signatures, and NSEC/NSEC3 proofs (1 day ago)
+- [php-standard-library/http-message](https://github.com/php-standard-library/http-message) - HTTP message abstractions for requests, responses, and headers (1 day ago)
 
 ---
 
