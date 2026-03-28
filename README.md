@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/dns](https://github.com/php-standard-library/dns) - Async DNS resolver with connection pooling, EDNS0, DNS-over-TLS, DNS-over-HTTPS, and cross-platform system configuration (1 day ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
-- [php-standard-library/udp](https://github.com/php-standard-library/udp) - Non-blocking API for sending and receiving datagrams over UDP (1 day ago)
+- [php-standard-library/uri](https://github.com/php-standard-library/uri) - RFC 3986 compliant URI parsing, construction, and manipulation (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [php-standard-library/dns](https://github.com/php-standard-library/dns) - Async DNS resolver with connection pooling, EDNS0, DNS-over-TLS, DNS-over-HTTPS, and cross-platform system configuration (today)
 
 ---
 
