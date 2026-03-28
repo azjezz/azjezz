@@ -2,7 +2,7 @@
 
 - [php-standard-library/uri](https://github.com/php-standard-library/uri) - RFC 3986 compliant URI parsing, construction, and manipulation (today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
-- [php-standard-library/dns](https://github.com/php-standard-library/dns) - Async DNS resolver with connection pooling, EDNS0, DNS-over-TLS, DNS-over-HTTPS, and cross-platform system configuration (today)
+- [php-standard-library/url](https://github.com/php-standard-library/url) - Strict URL type with scheme and authority validation, default port stripping, and URI/IRI conversion (today)
 
 ---
 
