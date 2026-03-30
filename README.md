@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/h2](https://github.com/php-standard-library/h2) - HTTP/2 binary framing protocol implementation (1 day ago)
+- [php-standard-library/tcp](https://github.com/php-standard-library/tcp) - Non-blocking TCP client and server connections with connection pooling and retry (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
 - [php-standard-library/http-message](https://github.com/php-standard-library/http-message) - HTTP message abstractions for requests, responses, and headers (1 day ago)
 
