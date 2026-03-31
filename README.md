@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
+- [php-standard-library/dns](https://github.com/php-standard-library/dns) - Async DNS resolver with connection pooling, EDNS0, DNS-over-TLS, DNS-over-HTTPS, and cross-platform system configuration (1 day ago)
 - [carthage-software/ext-typst](https://github.com/carthage-software/ext-typst) - A PHP extension that embeds the Typst typesetting engine. (1 day ago)
-- [php-standard-library/async](https://github.com/php-standard-library/async) - Fiber-based structured concurrency using cooperative multitasking (1 day ago)
 
 ---
 
