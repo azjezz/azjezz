@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/password](https://github.com/php-standard-library/password) - Secure password hashing and verification with bcrypt and Argon2 (1 day ago)
+- [php-standard-library/udp](https://github.com/php-standard-library/udp) - Non-blocking API for sending and receiving datagrams over UDP (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
 - [php-standard-library/dnssec](https://github.com/php-standard-library/dnssec) - DNSSEC validation with full trust chain verification, RRSIG signatures, and NSEC/NSEC3 proofs (1 day ago)
 
