@@ -178,6 +178,17 @@
       "isOneTime": false
     }
   ],
+  "150": [
+    {
+      "login": "zip-fa",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/61551308?v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 150,
+      "isCustomAmount": false,
+      "isOneTime": true
+    }
+  ],
   "300": [
     {
       "login": "JetBrainsOfficial",
