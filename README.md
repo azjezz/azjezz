@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
 - [php-standard-library/ip](https://github.com/php-standard-library/ip) - Immutable, binary-backed value object for IPv4 and IPv6 addresses with parsing, classification, and comparison (2 days ago)
 - [php-standard-library/dnssec](https://github.com/php-standard-library/dnssec) - DNSSEC validation with full trust chain verification, RRSIG signatures, and NSEC/NSEC3 proofs (2 days ago)
 
