@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (2 days ago)
-- [php-standard-library/smtp](https://github.com/php-standard-library/smtp) - RFC 5321 SMTP client for sending messages (2 days ago)
+- [php-standard-library/ip](https://github.com/php-standard-library/ip) - Immutable, binary-backed value object for IPv4 and IPv6 addresses with parsing, classification, and comparison (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [php-standard-library/hpack](https://github.com/php-standard-library/hpack) - RFC 7541 HPACK header compression for HTTP/2 (today)
 
 ---
 
