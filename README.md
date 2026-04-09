@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/ip](https://github.com/php-standard-library/ip) - Immutable, binary-backed value object for IPv4 and IPv6 addresses with parsing, classification, and comparison (1 day ago)
+- [php-standard-library/process](https://github.com/php-standard-library/process) - Typed, non-blocking API for spawning and managing child processes (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
-- [php-standard-library/hpack](https://github.com/php-standard-library/hpack) - RFC 7541 HPACK header compression for HTTP/2 (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
 
 ---
 
