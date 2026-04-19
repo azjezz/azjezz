@@ -1,6 +1,15 @@
 {
   "5": [
     {
+      "login": "epic-64",
+      "name": "William Raendchen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105014007?u=5465621acdf48e9b81604bfe2c72be50a4d741dc&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "Zuruuh",
       "name": "Zuruh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77583853?u=568441a6191e891cf4c9f52c9c230c45930bed86&v=4",
