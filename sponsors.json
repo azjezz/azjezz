@@ -55,6 +55,15 @@
       "isOneTime": false
     },
     {
+      "login": "adriaanzon",
+      "name": "Adriaan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/4326420?v=4",
+      "websiteUrl": "https://adriaan.dev",
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "godismyjudge95",
       "name": "Daniel Weaver",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3847288?u=717dd9991e86a001567e197fe3ba5d618a300118&v=4",
