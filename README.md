@@ -1,7 +1,7 @@
 #### 👷 Recent Contributions
 
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (4 days ago)
+- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code. (1 day ago)
 - [php-standard-library/mime](https://github.com/php-standard-library/mime) - MIME media types, multipart body construction, content sniffing, S/MIME cryptography, and DKIM signing (4 days ago)
 
 ---
@@ -9,8 +9,8 @@
 #### 🔭 Recent Releases
 
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.23.1](https://github.com/carthage-software/mago/releases/tag/1.23.1), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([0.1.24](https://github.com/denzyldick/phanalist/releases/tag/0.1.24), 1 week ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.0.8](https://github.com/symfony/symfony/releases/tag/v8.0.8), 2 weeks ago) - The Symfony PHP framework
-- [symfony/finder](https://github.com/symfony/finder) ([v8.0.8](https://github.com/symfony/finder/releases/tag/v8.0.8), 2 weeks ago) - Finds files and directories via an intuitive fluent interface
 
 ---
 
