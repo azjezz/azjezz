@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/suffete](https://github.com/carthage-software/suffete) - Suffete: the Carthaginian high magistrate, the judge of the city. The thing that decides whether what stands before it is sound. (today)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code. (1 week ago)
+- [php-standard-library/tcp](https://github.com/php-standard-library/tcp) - Non-blocking TCP client and server connections with connection pooling and retry (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (today)
 
 ---
 
