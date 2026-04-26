@@ -1,7 +1,7 @@
 #### 👷 Recent Contributions
 
 - [carthage-software/suffete](https://github.com/carthage-software/suffete) - Suffete: the Carthaginian high magistrate, the judge of the city. The thing that decides whether what stands before it is sound. (today)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code. (1 week ago)
 
 ---
