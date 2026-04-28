@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/io](https://github.com/php-standard-library/io) - Handle-based I/O abstractions - composable, testable, and async-ready (today)
+- [php-standard-library/terminal](https://github.com/php-standard-library/terminal) - Full-featured TUI framework with widgets, events, and diff-based rendering (today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
 - [carthage-software/suffete](https://github.com/carthage-software/suffete) - Suffete: the Carthaginian high magistrate, the judge of the city. The thing that decides whether what stands before it is sound. (today)
 
