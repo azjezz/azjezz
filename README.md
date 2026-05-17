@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (4 days ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
 - [carthage-software/suffete](https://github.com/carthage-software/suffete) - Suffete: the Carthaginian high magistrate, the judge of the city. The thing that decides whether what stands before it is sound. (1 week ago)
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (1 week ago)
 
