@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [php-standard-library/process](https://github.com/php-standard-library/process) - Typed, non-blocking API for spawning and managing child processes (today)
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [php-standard-library/smtp](https://github.com/php-standard-library/smtp) - RFC 5321 SMTP client for sending messages (1 day ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
 
 ---
 
