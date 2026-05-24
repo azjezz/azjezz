@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [php-standard-library/process](https://github.com/php-standard-library/process) - Typed, non-blocking API for spawning and managing child processes (4 days ago)
-- [php-standard-library/type](https://github.com/php-standard-library/type) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data (4 days ago)
+- [php-standard-library/h2](https://github.com/php-standard-library/h2) - HTTP/2 binary framing protocol implementation (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [php-standard-library/binary](https://github.com/php-standard-library/binary) - Typed functions for encoding and decoding binary data, replacing pack()/unpack() with a clear, type-safe API (1 day ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-BETA3](https://github.com/symfony/symfony/releases/tag/v8.1.0-BETA3), 3 days ago) - The Symfony PHP framework
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.28.0](https://github.com/carthage-software/mago/releases/tag/1.28.0), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.21.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.21.0), 1 week ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 1 day ago) - PHP Standard Library
+- [php-standard-library/dns](https://github.com/php-standard-library/dns) ([6.2.1](https://github.com/php-standard-library/dns/releases/tag/6.2.1), 1 day ago) - Async DNS resolver with connection pooling, EDNS0, DNS-over-TLS, DNS-over-HTTPS, and cross-platform system configuration
+- [php-standard-library/http-client](https://github.com/php-standard-library/http-client) ([6.2.1](https://github.com/php-standard-library/http-client/releases/tag/6.2.1), 1 day ago) - Async HTTP client with connection pooling, HTTP/2 multiplexing, middleware, and composable decorators for redirects and retries
 
 ---
 
