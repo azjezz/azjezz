@@ -2,7 +2,7 @@
 
 - [php-standard-library/h2](https://github.com/php-standard-library/h2) - HTTP/2 binary framing protocol implementation (today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
-- [php-standard-library/binary](https://github.com/php-standard-library/binary) - Typed functions for encoding and decoding binary data, replacing pack()/unpack() with a clear, type-safe API (1 day ago)
+- [php-standard-library/shell](https://github.com/php-standard-library/shell) - Shell command execution with argument escaping and error output management (1 day ago)
 
 ---
 
