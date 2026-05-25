@@ -2,7 +2,7 @@
 
 - [php-standard-library/h2](https://github.com/php-standard-library/h2) - HTTP/2 binary framing protocol implementation (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
-- [php-standard-library/shell](https://github.com/php-standard-library/shell) - Shell command execution with argument escaping and error output management (2 days ago)
+- [php-standard-library/dnssec](https://github.com/php-standard-library/dnssec) - DNSSEC validation with full trust chain verification, RRSIG signatures, and NSEC/NSEC3 proofs (2 days ago)
 
 ---
 
