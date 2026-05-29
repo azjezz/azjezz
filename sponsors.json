@@ -37,6 +37,15 @@
       "isOneTime": false
     },
     {
+      "login": "UweOhse",
+      "name": "Uwe Ohse",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/18497839?u=16f2321844720dd97a3031b5034be318078efba7&v=4",
+      "websiteUrl": "https://www.ohse.de/uwe/",
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "sdrewergutland",
       "name": "Sebastian Drewer-Gutland",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16477894?u=fd958b1c5c1ddc9259a5dd7dfa6dadc9ace88a11&v=4",
