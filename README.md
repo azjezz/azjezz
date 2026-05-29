@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0](https://github.com/symfony/symfony/releases/tag/v8.1.0), today) - The Symfony PHP framework
+- [symfony/finder](https://github.com/symfony/finder) ([v8.1.0](https://github.com/symfony/finder/releases/tag/v8.1.0), today) - Finds files and directories via an intuitive fluent interface
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v0.1.30](https://github.com/denzyldick/phanalist/releases/tag/v0.1.30), 1 day ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.0-RC1](https://github.com/symfony/symfony/releases/tag/v8.1.0-RC1), 2 days ago) - The Symfony PHP framework
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 6 days ago) - PHP Standard Library
 
 ---
 
