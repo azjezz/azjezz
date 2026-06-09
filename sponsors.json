@@ -118,6 +118,15 @@
       "isOneTime": false
     },
     {
+      "login": "still-dreaming-1",
+      "name": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/354296?u=6e36d88516d121e132ec49cac38ac16df8471b17&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "drealecs",
       "name": "Alexandru Pătrănescu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/209984?v=4",
