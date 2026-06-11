@@ -109,6 +109,15 @@
       "isOneTime": false
     },
     {
+      "login": "math3usmartins",
+      "name": "Matheus Martins",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/585688?u=5af32a41b0781fade43c4a45ac4fe74c5bee4b97&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "JacerOmri",
       "name": "Jacer OMRI",
       "avatarUrl": "https://avatars.githubusercontent.com/u/537996?u=6d425f3166884ff0c0da4ffc252d6388c9940714&v=4",
