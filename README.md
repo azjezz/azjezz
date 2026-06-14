@@ -1,15 +1,15 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
-- [php-standard-library/cidr](https://github.com/php-standard-library/cidr) - Utilities for working with CIDR (Classless Inter-Domain Routing) notation for IPv4 and IPv6 (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (2 days ago)
+- [php-standard-library/cidr](https://github.com/php-standard-library/cidr) - Utilities for working with CIDR (Classless Inter-Domain Routing) notation for IPv4 and IPv6 (2 days ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v0.1.32](https://github.com/denzyldick/phanalist/releases/tag/v0.1.32), 3 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
-- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.7.0](https://github.com/phpbench/phpbench/releases/tag/1.7.0), 5 days ago) - PHP Benchmarking framework
+- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v0.1.32](https://github.com/denzyldick/phanalist/releases/tag/v0.1.32), 4 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
+- [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.7.0](https://github.com/phpbench/phpbench/releases/tag/1.7.0), 6 days ago) - PHP Benchmarking framework
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.30.0](https://github.com/carthage-software/mago/releases/tag/1.30.0), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 
 ---
