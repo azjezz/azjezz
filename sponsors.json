@@ -91,15 +91,6 @@
       "isOneTime": false
     },
     {
-      "login": "acelaya",
-      "name": "Alejandro Celaya",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/2719332?u=9b1f8330a14ebd061e2015ba3c1874f90bb713d8&v=4",
-      "websiteUrl": "https://alejandrocelaya.blog",
-      "monthlyPriceInDollars": 5,
-      "isCustomAmount": false,
-      "isOneTime": false
-    },
-    {
       "login": "devnix",
       "name": "Pablo Largo Mohedano",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1777519?v=4",
