@@ -8,8 +8,8 @@
 
 #### 🔭 Recent Releases
 
+- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.3](https://github.com/denzyldick/phanalist/releases/tag/v1.1.3), today) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.40.2](https://github.com/carthage-software/mago/releases/tag/1.40.2), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.2](https://github.com/denzyldick/phanalist/releases/tag/v1.1.2), 2 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 - [phpbench/phpbench](https://github.com/phpbench/phpbench) ([1.7.0](https://github.com/phpbench/phpbench/releases/tag/1.7.0), 2 weeks ago) - PHP Benchmarking framework
 
 ---
