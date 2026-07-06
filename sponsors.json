@@ -143,6 +143,15 @@
       "monthlyPriceInDollars": 5,
       "isCustomAmount": false,
       "isOneTime": false
+    },
+    {
+      "login": "epic-64",
+      "name": "William Raendchen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/105014007?u=5465621acdf48e9b81604bfe2c72be50a4d741dc&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
     }
   ],
   "10": [
