@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/str](https://github.com/php-standard-library/str) - Unicode-aware string functions replacing PHP mb_* and standard string functions (1 day ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
 - [php-standard-library/mime](https://github.com/php-standard-library/mime) - MIME media types, multipart body construction, content sniffing, S/MIME cryptography, and DKIM signing (1 day ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
+- [php-standard-library/dict](https://github.com/php-standard-library/dict) - Functions for creating and transforming associative arrays with preserved keys (1 day ago)
 
 ---
 
