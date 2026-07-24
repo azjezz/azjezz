@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [php-standard-library/mime](https://github.com/php-standard-library/mime) - MIME media types, multipart body construction, content sniffing, S/MIME cryptography, and DKIM signing (2 days ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (2 days ago)
+- [php-standard-library/mime](https://github.com/php-standard-library/mime) - MIME media types, multipart body construction, content sniffing, S/MIME cryptography, and DKIM signing (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [php-standard-library/tls](https://github.com/php-standard-library/tls) - Transport-agnostic TLS encryption for any connected stream (today)
 
 ---
 
