@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/mime](https://github.com/php-standard-library/mime) - MIME media types, multipart body construction, content sniffing, S/MIME cryptography, and DKIM signing (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
+- [php-standard-library/type](https://github.com/php-standard-library/type) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
-- [php-standard-library/tls](https://github.com/php-standard-library/tls) - Transport-agnostic TLS encryption for any connected stream (1 day ago)
 
 ---
 
