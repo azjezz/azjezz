@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.2](https://github.com/symfony/symfony/releases/tag/v8.1.2), today) - The Symfony PHP framework
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.10](https://github.com/denzyldick/phanalist/releases/tag/v1.1.10), 4 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.45.0](https://github.com/carthage-software/mago/releases/tag/1.45.0), 5 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) ([2.0.0](https://github.com/carthage-software/cel-php/releases/tag/2.0.0), 3 weeks ago) - Fast, portable, non-Turing complete expression evaluation (PHP) 
 
 ---
 
