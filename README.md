@@ -1,7 +1,7 @@
 #### 👷 Recent Contributions
 
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
 - [azjezz/generics-benchmark](https://github.com/azjezz/generics-benchmark) -  (3 days ago)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (4 days ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (5 days ago)
 
 ---
