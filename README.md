@@ -1,15 +1,15 @@
 #### 👷 Recent Contributions
 
-- [php-standard-library/type](https://github.com/php-standard-library/type) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data (2 days ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (2 days ago)
-- [php-standard-library/h2](https://github.com/php-standard-library/h2) - HTTP/2 binary framing protocol implementation (2 days ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
+- [php-standard-library/type](https://github.com/php-standard-library/type) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data (3 days ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (3 days ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 day ago) - The Symfony PHP framework
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.46.0](https://github.com/carthage-software/mago/releases/tag/1.46.0), 3 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 2 days ago) - The Symfony PHP framework
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.46.0](https://github.com/carthage-software/mago/releases/tag/1.46.0), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.10](https://github.com/denzyldick/phanalist/releases/tag/v1.1.10), 2 weeks ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 
 ---
