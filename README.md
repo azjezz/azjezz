@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
 - [carthage-software/mago-extension-template](https://github.com/carthage-software/mago-extension-template) - A template repository for Mago extensions using the PHP SDK (1 day ago)
-- [php-standard-library/type](https://github.com/php-standard-library/type) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data (1 week ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [php-standard-library/http-client](https://github.com/php-standard-library/http-client) - Async HTTP client with connection pooling, HTTP/2 multiplexing, middleware, and composable decorators for redirects and retries (1 week ago)
 
 ---
 
