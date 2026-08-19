@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.47.1](https://github.com/carthage-software/mago/releases/tag/1.47.1), 1 day ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.47.2](https://github.com/carthage-software/mago/releases/tag/1.47.2), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.11](https://github.com/denzyldick/phanalist/releases/tag/v1.1.11), 3 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.4](https://github.com/symfony/symfony/releases/tag/v8.1.4), 1 week ago) - The Symfony PHP framework
 
