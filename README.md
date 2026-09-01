@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (3 days ago)
-- [carthage-software/mago-extension-template](https://github.com/carthage-software/mago-extension-template) - A template repository for Mago extensions using the PHP SDK (1 week ago)
-- [php-standard-library/http-client](https://github.com/php-standard-library/http-client) - Async HTTP client with connection pooling, HTTP/2 multiplexing, middleware, and composable decorators for redirects and retries (3 weeks ago)
+- [carthage-software/whim](https://github.com/carthage-software/whim) - The Whim Programming Language (today)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (4 days ago)
+- [carthage-software/mago-extension-template](https://github.com/carthage-software/mago-extension-template) - A template repository for Mago extensions using the PHP SDK (2 weeks ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 1 day ago) - The Symfony PHP framework
+- [carthage-software/whim](https://github.com/carthage-software/whim) ([0.1.0](https://github.com/carthage-software/whim/releases/tag/0.1.0), today) - The Whim Programming Language
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 2 days ago) - The Symfony PHP framework
 - [carthage-software/mago](https://github.com/carthage-software/mago) ([1.47.4](https://github.com/carthage-software/mago/releases/tag/1.47.4), 1 week ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [symfony/finder](https://github.com/symfony/finder) ([v8.1.5](https://github.com/symfony/finder/releases/tag/v8.1.5), 1 week ago) - Finds files and directories via an intuitive fluent interface
 
 ---
 
