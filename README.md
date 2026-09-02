@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/tree-sitter-whim](https://github.com/carthage-software/tree-sitter-whim) - Whim grammar for tree-sitter (1 day ago)
-- [carthage-software/whim-zed](https://github.com/carthage-software/whim-zed) - Language support for Whim in Zed. (1 day ago)
 - [carthage-software/whim](https://github.com/carthage-software/whim) - The Whim Programming Language (1 day ago)
+- [carthage-software/whim-zed](https://github.com/carthage-software/whim-zed) - Language support for Whim in Zed. (1 day ago)
+- [carthage-software/tree-sitter-whim](https://github.com/carthage-software/tree-sitter-whim) - Whim grammar for tree-sitter (1 day ago)
 
 ---
 
