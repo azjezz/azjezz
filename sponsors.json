@@ -165,15 +165,6 @@
       "isOneTime": false
     },
     {
-      "login": "Rasmus-Bertell",
-      "name": "Rasmus Bertell",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/57398362?u=f9bb382310c9552de2a7a82193c86fb94750e971&v=4",
-      "websiteUrl": "https://bertell.fi",
-      "monthlyPriceInDollars": 10,
-      "isCustomAmount": true,
-      "isOneTime": false
-    },
-    {
       "login": "ace-of-aces",
       "name": "Julian Schramm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79840527?u=2e15d0ec9e6d0bf6554ef69af6b1dba32a051417&v=4",
