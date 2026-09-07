@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/whim-zed](https://github.com/carthage-software/whim-zed) - Language support for Whim in Zed. (today)
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
-- [carthage-software/whim](https://github.com/carthage-software/whim) - The Whim Programming Language (today)
+- [carthage-software/whim-zed](https://github.com/carthage-software/whim-zed) - Language support for Whim in Zed. (today)
+- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (today)
 
 ---
 
