@@ -127,6 +127,15 @@
       "isOneTime": false
     },
     {
+      "login": "nanotee",
+      "name": "Timothée Sterle",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56110730?u=d27787e0853d748cb07355e7daedc267be38b0d4&v=4",
+      "websiteUrl": null,
+      "monthlyPriceInDollars": 5,
+      "isCustomAmount": false,
+      "isOneTime": false
+    },
+    {
       "login": "Zuruuh",
       "name": "Zuruh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/77583853?u=568441a6191e891cf4c9f52c9c230c45930bed86&v=4",
