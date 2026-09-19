@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
 - [carthage-software/ext-typst](https://github.com/carthage-software/ext-typst) - A PHP extension that embeds the Typst typesetting engine. (today)
+- [carthage-software/whim](https://github.com/carthage-software/whim) - The Whim Programming Language (today)
 - [carthage-software/whim-zed](https://github.com/carthage-software/whim-zed) - Language support for Whim in Zed. (1 day ago)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
 
 ---
 
 #### 🔭 Recent Releases
 
+- [carthage-software/ext-typst](https://github.com/carthage-software/ext-typst) ([0.4.0](https://github.com/carthage-software/ext-typst/releases/tag/0.4.0), today) - A PHP extension that embeds the Typst typesetting engine.
 - [carthage-software/whim](https://github.com/carthage-software/whim) ([0.10.0](https://github.com/carthage-software/whim/releases/tag/0.10.0), 1 day ago) - The Whim Programming Language
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.13](https://github.com/denzyldick/phanalist/releases/tag/v1.1.13), 2 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.22.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.22.0), 3 days ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
 
 ---
 
