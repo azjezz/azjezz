@@ -8,8 +8,8 @@
 
 #### 🔭 Recent Releases
 
+- [carthage-software/whim](https://github.com/carthage-software/whim) ([0.12.0](https://github.com/carthage-software/whim/releases/tag/0.12.0), today) - The Whim Programming Language
 - [carthage-software/ext-typst](https://github.com/carthage-software/ext-typst) ([0.4.0](https://github.com/carthage-software/ext-typst/releases/tag/0.4.0), 1 day ago) - A PHP extension that embeds the Typst typesetting engine.
-- [carthage-software/whim](https://github.com/carthage-software/whim) ([0.10.0](https://github.com/carthage-software/whim/releases/tag/0.10.0), 2 days ago) - The Whim Programming Language
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.13](https://github.com/denzyldick/phanalist/releases/tag/v1.1.13), 3 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 
 ---
