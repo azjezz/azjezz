@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
-- [zed-industries/extensions](https://github.com/zed-industries/extensions) - Extensions for the Zed editor (2 days ago)
-- [carthage-software/whim-zed](https://github.com/carthage-software/whim-zed) - Language support for Whim in Zed. (3 days ago)
-- [carthage-software/whim](https://github.com/carthage-software/whim) - The Whim Programming Language (3 days ago)
+- [php-standard-library/hpack](https://github.com/php-standard-library/hpack) - RFC 7541 HPACK header compression for HTTP/2 (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [php-standard-library/either-or-both](https://github.com/php-standard-library/either-or-both) - Three-variant disjoint union type (Left/Right/Both) for values that may be present on either or both of two sides (today)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [carthage-software/whim](https://github.com/carthage-software/whim) ([0.14.0](https://github.com/carthage-software/whim/releases/tag/0.14.0), 3 days ago) - The Whim Programming Language
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.50.0](https://github.com/carthage-software/mago/releases/tag/1.50.0), 4 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [carthage-software/ext-typst](https://github.com/carthage-software/ext-typst) ([0.4.0](https://github.com/carthage-software/ext-typst/releases/tag/0.4.0), 6 days ago) - A PHP extension that embeds the Typst typesetting engine.
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.3.0](https://github.com/php-standard-library/php-standard-library/releases/tag/6.3.0), today) - PHP Standard Library
+- [php-standard-library/interoperability](https://github.com/php-standard-library/interoperability) ([6.3.0](https://github.com/php-standard-library/interoperability/releases/tag/6.3.0), today) - Interfaces for converting between PSL types and PHP stdlib/intl equivalents
+- [php-standard-library/dict](https://github.com/php-standard-library/dict) ([6.3.0](https://github.com/php-standard-library/dict/releases/tag/6.3.0), today) - Functions for creating and transforming associative arrays with preserved keys
 
 ---
 
