@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
+- [carthage-software/whim](https://github.com/carthage-software/whim) - The Whim Programming Language (today)
 - [php-standard-library/hpack](https://github.com/php-standard-library/hpack) - RFC 7541 HPACK header compression for HTTP/2 (1 day ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
-- [php-standard-library/either-or-both](https://github.com/php-standard-library/either-or-both) - Three-variant disjoint union type (Left/Right/Both) for values that may be present on either or both of two sides (1 day ago)
 
 ---
 
