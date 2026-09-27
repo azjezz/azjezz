@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
+- [carthage-software/whim-zed](https://github.com/carthage-software/whim-zed) - Language support for Whim in Zed. (today)
 - [carthage-software/whim](https://github.com/carthage-software/whim) - The Whim Programming Language (today)
-- [php-standard-library/hpack](https://github.com/php-standard-library/hpack) - RFC 7541 HPACK header compression for HTTP/2 (1 day ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (1 day ago)
+- [carthage-software/tree-sitter-whim](https://github.com/carthage-software/tree-sitter-whim) - Whim grammar for tree-sitter (1 day ago)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.3.0](https://github.com/php-standard-library/php-standard-library/releases/tag/6.3.0), 1 day ago) - PHP Standard Library
-- [php-standard-library/interoperability](https://github.com/php-standard-library/interoperability) ([6.3.0](https://github.com/php-standard-library/interoperability/releases/tag/6.3.0), 1 day ago) - Interfaces for converting between PSL types and PHP stdlib/intl equivalents
-- [php-standard-library/dict](https://github.com/php-standard-library/dict) ([6.3.0](https://github.com/php-standard-library/dict/releases/tag/6.3.0), 1 day ago) - Functions for creating and transforming associative arrays with preserved keys
+- [carthage-software/whim](https://github.com/carthage-software/whim) ([0.16.0](https://github.com/carthage-software/whim/releases/tag/0.16.0), today) - The Whim Programming Language
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.3.0](https://github.com/php-standard-library/php-standard-library/releases/tag/6.3.0), 2 days ago) - PHP Standard Library
+- [php-standard-library/default](https://github.com/php-standard-library/default) ([6.3.0](https://github.com/php-standard-library/default/releases/tag/6.3.0), 2 days ago) - DefaultInterface for classes to provide standardized default instances
 
 ---
 
