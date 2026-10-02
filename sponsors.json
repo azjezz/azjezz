@@ -201,6 +201,15 @@
       "monthlyPriceInDollars": 25,
       "isCustomAmount": false,
       "isOneTime": false
+    },
+    {
+      "login": "letsbook",
+      "name": "Let's Book",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/60887869?v=4",
+      "websiteUrl": "https://lets-book.com/",
+      "monthlyPriceInDollars": 25,
+      "isCustomAmount": false,
+      "isOneTime": false
     }
   ],
   "50": [
