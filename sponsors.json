@@ -196,6 +196,15 @@
   ],
   "50": [
     {
+      "login": "fesor",
+      "name": "Sergey Protko",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/172247?u=45f374e995e0639f53b4f92b876004ee09f04026&v=4",
+      "websiteUrl": "http://fesor.rocks",
+      "monthlyPriceInDollars": 50,
+      "isCustomAmount": true,
+      "isOneTime": true
+    },
+    {
       "login": "jasonrm",
       "name": "Jason R. McNeil",
       "avatarUrl": "https://avatars.githubusercontent.com/u/39949?u=69c0e4fb08c439250978d41dbc3371d2f0609b98&v=4",
