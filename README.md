@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
-- [php-standard-library/vec](https://github.com/php-standard-library/vec) ([6.4.1](https://github.com/php-standard-library/vec/releases/tag/6.4.1), today) - Functions for creating and transforming sequential, 0-indexed arrays (lists)
-- [php-standard-library/url](https://github.com/php-standard-library/url) ([6.4.1](https://github.com/php-standard-library/url/releases/tag/6.4.1), today) - Strict URL type with scheme and authority validation, default port stripping, and URI/IRI conversion
-- [php-standard-library/udp](https://github.com/php-standard-library/udp) ([6.4.1](https://github.com/php-standard-library/udp/releases/tag/6.4.1), today) - Non-blocking API for sending and receiving datagrams over UDP
+- [php-standard-library/type](https://github.com/php-standard-library/type) ([6.4.2](https://github.com/php-standard-library/type/releases/tag/6.4.2), today) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data
+- [php-standard-library/dict](https://github.com/php-standard-library/dict) ([6.4.2](https://github.com/php-standard-library/dict/releases/tag/6.4.2), today) - Functions for creating and transforming associative arrays with preserved keys
+- [php-standard-library/interoperability](https://github.com/php-standard-library/interoperability) ([6.4.2](https://github.com/php-standard-library/interoperability/releases/tag/6.4.2), today) - Interfaces for converting between PSL types and PHP stdlib/intl equivalents
 
 ---
 
