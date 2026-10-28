@@ -1,16 +1,16 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (2 days ago)
-- [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (4 days ago)
-- [carthage-software/php-toolchain-benchmarks](https://github.com/carthage-software/php-toolchain-benchmarks) - Reproducible benchmark suite for PHP formatters, linters, and static analyzers. (2 weeks ago)
+- [php-standard-library/str](https://github.com/php-standard-library/str) - Unicode-aware string functions replacing PHP mb_* and standard string functions (today)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) - PHP Standard Library (today)
+- [php-standard-library/either-or-both](https://github.com/php-standard-library/either-or-both) - Three-variant disjoint union type (Left/Right/Both) for values that may be present on either or both of two sides (today)
 
 ---
 
 #### 🔭 Recent Releases
 
-- [Roave/BackwardCompatibilityCheck](https://github.com/Roave/BackwardCompatibilityCheck) ([8.27.0](https://github.com/Roave/BackwardCompatibilityCheck/releases/tag/8.27.0), 1 day ago) - :ab: Tool to compare two revisions of a class API to check for BC breaks
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.59.0](https://github.com/carthage-software/mago/releases/tag/1.59.0), 2 days ago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.1.15](https://github.com/denzyldick/phanalist/releases/tag/v1.1.15), 4 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
+- [php-standard-library/vec](https://github.com/php-standard-library/vec) ([6.4.1](https://github.com/php-standard-library/vec/releases/tag/6.4.1), today) - Functions for creating and transforming sequential, 0-indexed arrays (lists)
+- [php-standard-library/url](https://github.com/php-standard-library/url) ([6.4.1](https://github.com/php-standard-library/url/releases/tag/6.4.1), today) - Strict URL type with scheme and authority validation, default port stripping, and URI/IRI conversion
+- [php-standard-library/udp](https://github.com/php-standard-library/udp) ([6.4.1](https://github.com/php-standard-library/udp/releases/tag/6.4.1), today) - Non-blocking API for sending and receiving datagrams over UDP
 
 ---
 
