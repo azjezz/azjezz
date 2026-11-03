@@ -8,9 +8,9 @@
 
 #### 🔭 Recent Releases
 
-- [php-standard-library/type](https://github.com/php-standard-library/type) ([6.4.2](https://github.com/php-standard-library/type/releases/tag/6.4.2), 6 days ago) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data
+- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.2.1](https://github.com/denzyldick/phanalist/releases/tag/v1.2.1), today) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
+- [php-standard-library/default](https://github.com/php-standard-library/default) ([6.4.2](https://github.com/php-standard-library/default/releases/tag/6.4.2), 6 days ago) - DefaultInterface for classes to provide standardized default instances
 - [php-standard-library/dict](https://github.com/php-standard-library/dict) ([6.4.2](https://github.com/php-standard-library/dict/releases/tag/6.4.2), 6 days ago) - Functions for creating and transforming associative arrays with preserved keys
-- [php-standard-library/interoperability](https://github.com/php-standard-library/interoperability) ([6.4.2](https://github.com/php-standard-library/interoperability/releases/tag/6.4.2), 6 days ago) - Interfaces for converting between PSL types and PHP stdlib/intl equivalents
 
 ---
 
