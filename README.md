@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.2.1](https://github.com/denzyldick/phanalist/releases/tag/v1.2.1), 3 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
+- [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.2.1](https://github.com/denzyldick/phanalist/releases/tag/v1.2.1), 4 days ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 - [php-standard-library/default](https://github.com/php-standard-library/default) ([6.4.2](https://github.com/php-standard-library/default/releases/tag/6.4.2), 1 week ago) - DefaultInterface for classes to provide standardized default instances
 - [php-standard-library/dict](https://github.com/php-standard-library/dict) ([6.4.2](https://github.com/php-standard-library/dict/releases/tag/6.4.2), 1 week ago) - Functions for creating and transforming associative arrays with preserved keys
 
