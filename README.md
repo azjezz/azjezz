@@ -1,6 +1,6 @@
 #### 👷 Recent Contributions
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 day ago)
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (today)
 - [php-standard-library/tcp](https://github.com/php-standard-library/tcp) - Non-blocking TCP client and server connections with connection pooling and retry (2 weeks ago)
 - [php-standard-library/either-or-both](https://github.com/php-standard-library/either-or-both) - Three-variant disjoint union type (Left/Right/Both) for values that may be present on either or both of two sides (2 weeks ago)
 
