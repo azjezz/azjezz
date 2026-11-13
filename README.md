@@ -8,7 +8,7 @@
 
 #### 🔭 Recent Releases
 
-- [amphp/cluster](https://github.com/amphp/cluster) ([v2.1.0](https://github.com/amphp/cluster/releases/tag/v2.1.0), 1 day ago) - Building multi-core network applications with PHP.
+- [amphp/cluster](https://github.com/amphp/cluster) ([v2.1.0](https://github.com/amphp/cluster/releases/tag/v2.1.0), 2 days ago) - Building multi-core network applications with PHP.
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.2.1](https://github.com/denzyldick/phanalist/releases/tag/v1.2.1), 1 week ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 - [php-standard-library/type](https://github.com/php-standard-library/type) ([6.4.2](https://github.com/php-standard-library/type/releases/tag/6.4.2), 2 weeks ago) - Runtime type validation implementing Parse, Don&#39;t Validate - coerce and assert unstructured input into well-typed data
 
