@@ -8,8 +8,8 @@
 
 #### 🔭 Recent Releases
 
-- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.60.1](https://github.com/carthage-software/mago/releases/tag/1.60.1), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
-- [amphp/cluster](https://github.com/amphp/cluster) ([v2.1.0](https://github.com/amphp/cluster/releases/tag/v2.1.0), 4 days ago) - Building multi-core network applications with PHP.
+- [carthage-software/mago](https://github.com/carthage-software/mago) ([1.60.2](https://github.com/carthage-software/mago/releases/tag/1.60.2), today) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+- [amphp/cluster](https://github.com/amphp/cluster) ([v2.1.0](https://github.com/amphp/cluster/releases/tag/v2.1.0), 5 days ago) - Building multi-core network applications with PHP.
 - [denzyldick/phanalist](https://github.com/denzyldick/phanalist) ([v1.2.1](https://github.com/denzyldick/phanalist/releases/tag/v1.2.1), 1 week ago) - Performant static analyzer for PHP, which is extremely easy to use. It helps you catch common mistakes in your PHP code.
 
 ---
