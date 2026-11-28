@@ -1,8 +1,8 @@
 #### 👷 Recent Contributions
 
+- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (4 days ago)
 - [carthage-software/ext-typst](https://github.com/carthage-software/ext-typst) - A PHP extension that embeds the Typst typesetting engine. (5 days ago)
 - [carthage-software/cel-php](https://github.com/carthage-software/cel-php) - Fast, portable, non-Turing complete expression evaluation (PHP)  (6 days ago)
-- [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code. (1 week ago)
 
 ---
 
